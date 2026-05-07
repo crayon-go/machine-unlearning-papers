@@ -1,3 +1,17 @@
+# ---- Project-specific: keep only README.md + LICENSE public ----
+scripts/
+data/
+stats.md
+discovery_report.md
+seeds.yaml
+keywords.yaml
+overrides.yaml
+DESIGN.md
+requirements.txt
+.gitignore.bak
+실행\ 명령어
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
