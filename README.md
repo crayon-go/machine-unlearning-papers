@@ -2,9 +2,61 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Papers](https://img.shields.io/badge/papers-2827-blue) ![Updated](https://img.shields.io/badge/updated-2026--05--06-brightgreen) [![Stars](https://img.shields.io/github/stars/crayon-go/machine-unlearning-papers?style=social)](https://github.com/crayon-go/machine-unlearning-papers/stargazers) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=crayon-go.machine-unlearning-papers) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/crayon-go/machine-unlearning-papers/issues)
 
-> Citation counts as of **2026-05-06**. Total papers: **2827**.
+A continuously-updated reference catalog of **machine unlearning** research — the study of selectively removing the influence of specific training data, samples, classes, concepts, or knowledge from a trained model after the fact. The catalog spans algorithms (exact and approximate), evaluation benchmarks, attacks against unlearning, and applications across LLMs, diffusion models, graphs, federated learning, and recommender systems.
+
+Unlike hand-curated lists, this catalog is **automatically assembled and refreshed** from primary academic indices (Semantic Scholar, OpenAlex, OpenReview, DBLP, Crossref, arXiv, Hugging Face Papers, GitHub Search). Each entry shows live citation counts and, where available, links to the official code repository — fields that are usually missing from existing machine-unlearning lists.
+
+## Quick stats
+
+- **2,827 papers** classified as machine-unlearning research. Spans **1942–2026**.
+- **1,093 (38.7%)** have an official code repository link (GitHub / Hugging Face / GitLab).
+- **1,253 (44.3%)** have a resolvable arXiv ID.
+- Citation counts last refreshed: **2026-05-06** (KST).
+
+## What's inside
+
+Each year section below is a sortable table with five columns:
+
+| Column | Notes |
+|---|---|
+| **Authors** | Up to three author names; longer lists abbreviated as `et al.` |
+| **Title** | Linked to the canonical source (DOI > arXiv > OpenAlex > S2) |
+| **Venue** | Normalized short label (e.g. `arXiv`, `NeurIPS`, `IEEE T-IFS`, `WWW`) |
+| **Code** | First available repository link with priority `GitHub > HF > GitLab`; `—` if unknown |
+| **Citations** | Live counts from Semantic Scholar; rows are sorted citations-desc within each year |
+
+## Frameworks & tooling
+
+- **[OpenUnlearning](https://github.com/locuslab/open-unlearning)** — Unified evaluation framework for LLM unlearning (TOFU, MUSE, WMDP).
+- **[Machine Unlearning Comparator](https://github.com/gnueaj/Machine-Unlearning-Comparator)** — Visual analytics tool for comparing unlearning methods side-by-side.
+- **[ERASURE](https://github.com/aiim-research/ERASURE)** — Modular framework for reproducible machine-unlearning experiments (CIKM '25).
+
+## Recommended surveys
+
+- **[A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299)** — Nguyen et al., ACM TIST 2025 — comprehensive taxonomy & datasets.
+- **[Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787)** — Liu et al., 2024 — LLM-specific challenges, evaluation, and threat models.
+- **[Machine Unlearning: A Survey](https://arxiv.org/abs/2306.03558)** — Xu et al., ACM Computing Surveys 2023 — exact vs approximate unlearning.
+- **[A Comprehensive Survey of Machine Unlearning Techniques for LLMs](https://arxiv.org/abs/2503.01854)** — Geng et al., 2025 — focused review of LLM unlearning methods.
+
+## Key benchmarks
+
+- **[TOFU](https://arxiv.org/abs/2401.06121)** — Fictitious-author QA benchmark for LLM unlearning. (Maini et al., COLM '24)
+- **[MUSE](https://arxiv.org/abs/2407.06460)** — Six-way evaluation across forget quality, utility, privacy, scalability. (Shi et al., ICLR '25)
+- **[WMDP](https://arxiv.org/abs/2403.03218)** — Hazardous-knowledge unlearning benchmark in bio/chem/cyber. (Li et al., ICML '24)
+- **[UnlearnCanvas](https://arxiv.org/abs/2402.11846)** — Stylized image dataset for diffusion-model concept unlearning.
+
+## How this catalog is built
+
+1. **Discovery** — seed snowball over a hand-picked list of foundational papers, plus keyword search across academic APIs and recent-author tracking.
+2. **Relevance filtering** — title-level whitelist/blacklist heuristics, then a Claude-based judge (with prompt caching) for ambiguous cases.
+3. **Deduplication** — DOI / arXiv / fuzzy title match collapses preprint and venue versions of the same work.
+4. **Metadata enrichment** — Semantic Scholar batch refresh, plus a fall-through to OpenReview, DBLP, Crossref, and arXiv for missing year/venue.
+5. **Code-link discovery** — Hugging Face Papers (API + HTML), GitHub Search by arXiv ID and title, abstract-URL regex, and arXiv PDF body parsing.
+
+Every paper carries a `source` provenance trail so any cell in the table can be traced back to the API that produced it.
 
 ## Contents
+
 - [2026](#2026)
 - [2025](#2025)
 - [2024](#2024)
