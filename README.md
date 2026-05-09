@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Papers](https://img.shields.io/badge/papers-2827-blue) ![Updated](https://img.shields.io/badge/updated-2026--05--06-brightgreen) [![Stars](https://img.shields.io/github/stars/crayon-go/machine-unlearning-papers?style=social)](https://github.com/crayon-go/machine-unlearning-papers/stargazers) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=crayon-go.machine-unlearning-papers) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/crayon-go/machine-unlearning-papers/issues)
 
-> Citation counts as of **2026-05-06**. Total papers: **2827**. Auto-generated; see `DESIGN.md` for the pipeline.
+> Citation counts as of **2026-05-06**. Total papers: **2827**.
 
 ## Contents
 - [2026](#2026)
