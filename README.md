@@ -74,7 +74,7 @@
 |---|---|---|---|---:|
 | Naixin Zhai et al. | [Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning](https://doi.org/10.48550/arXiv.2601.03190) | ArXiv.org | [GitHub](https://github.com/nxZhai/PALU) | 8 |
 | Zhuo Huang et al. | [Is Gradient Ascent Really Necessary? Memorize to Forget for Machine Unlearning](https://doi.org/10.48550/arXiv.2602.06441) | ArXiv.org | [GitHub](https://github.com/crayon-go/machine-unlearning-papers) | 4 |
-| Qian Feng et al. | [FG-OrIU: Towards Better Forgetting via Feature-Gradient Orthogonality for Incremental Unlearning](https://doi.org/10.48550/arXiv.2601.13578) | arXiv.org | — | 4 |
+| Qian Feng et al. | [FG-OrIU: Towards Better Forgetting via Feature-Gradient Orthogonality for Incremental Unlearning](https://doi.org/10.48550/arXiv.2601.13578) | arXiv.org | [GitHub](https://github.com/bjzhb666/GS-LoRA) | 4 |
 | Yiling Wang et al. | [SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation](https://doi.org/10.48550/arXiv.2601.00590) | arXiv.org | [GitHub](https://github.com/AIGeeksGroup/SafeMo) | 4 |
 | McKinney, Lev et al. | [Gauss-Newton Unlearning for the LLM Era](https://doi.org/10.48550/arXiv.2602.10568) | ArXiv.org | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 3 |
 | Fengpeng Li et al. | [AEGIS: Adversarial Target-Guided Retention-Data-Free Robust Concept Erasure from Diffusion Models](https://doi.org/10.48550/arXiv.2602.06771) | arXiv (Cornell University) | [GitHub](https://github.com/CSQianDong/Awesome-arXiv-Daily-Reporter) | 3 |
@@ -100,15 +100,15 @@
 | Wenxuan Li et al. | [From Anchors to Supervision: Memory-Graph Guided Corpus-Free Unlearning for Large Language Models](https://arxiv.org/abs/2604.13777) | ArXiv.org | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 1 |
 | Renqiang Luo et al. | [FairGU: Fairness-aware Graph Unlearning in Social Networks](https://doi.org/10.1145/3774904.3793004) | ArXiv.org | [GitHub](https://github.com/LuoRenqiang/FairGU) | 1 |
 | Ayush K. Varshney, Vicenç Torra | [Realistic image-to-image machine unlearning via decoupling and knowledge retention](https://doi.org/10.1016/j.bdr.2026.100592) | Big Data Research | — | 1 |
-| S. Laguna et al. | [Rethinking Machine Unlearning: Models Designed to Forget via Key Deletion](https://arxiv.org/abs/2603.15033) | CoRR | — | 1 |
+| S. Laguna et al. | [Rethinking Machine Unlearning: Models Designed to Forget via Key Deletion](https://arxiv.org/abs/2603.15033) | CoRR | [HF](https://huggingface.co/google/vit-base-patch16-224) | 1 |
 | Jonas Mirlach, S. Laguna, Julia E. Vogt | [Reference-Guided Machine Unlearning](https://arxiv.org/abs/2603.11210) | CoRR | [GitHub](https://github.com/jmirlach/ReGUn) | 1 |
 | Cristian Cosentino et al. | [Machine Unlearning: A Perspective, Taxonomy, and Benchmark Evaluation](https://doi.org/10.3390/fi18030174) | Future Internet | — | 1 |
-| Myungjin Lee, Eunji Shin, Jiyoung Lee | [Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech](https://doi.org/10.48550/arXiv.2601.20481) | IEEE International Conference on Acoustics, Speech, and Signal Processing | — | 1 |
+| Myungjin Lee, Eunji Shin, Jiyoung Lee | [Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech](https://doi.org/10.48550/arXiv.2601.20481) | IEEE International Conference on Acoustics, Speech, and Signal Processing | [GitHub](https://github.com/liutaocode/TTS-arxiv-daily) | 1 |
 | Hyejun Jeong, Shiqing Ma, Amir Houmansadr | [A Survey on Federated Unlearning: Challenges and Opportunities](https://doi.org/10.1109/tbdata.2026.3668538) | IEEE Transactions on Big Data | [GitHub](https://github.com/tamlhp/awesome-machine-unlearning) | 1 |
 | Laiqiao Qin et al. | [Machine Unlearning on Pre-trained Models by Residual Feature Alignment Using LoRA](https://doi.org/10.1109/tdsc.2026.3658545) | IEEE Transactions on Dependable and Secure Computing | — | 1 |
 | Xuhan Zuo et al. | [Federated TrustChain: Blockchain-Enhanced LLM Training and Unlearning](https://doi.org/10.1109/tdsc.2026.3665277) | IEEE Transactions on Dependable and Secure Computing | [GitHub](https://github.com/jjbrophy47/machine_unlearning) | 1 |
 | Weidong Zheng et al. | [Accurate and fast machine unlearning with hessian-guided overfitting approximation](https://doi.org/10.1016/j.neucom.2026.133369) | Neurocomputing | — | 1 |
-| Ravi Ranjan, Agoritsa Polyzou | [VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models](https://arxiv.org/abs/2604.03956) | arXiv | — | 1 |
+| Ravi Ranjan, Agoritsa Polyzou | [VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models](https://arxiv.org/abs/2604.03956) | arXiv | [GitHub](https://github.com/AriESQ/stars) | 1 |
 | Mohammad Partohaghighi et al. | [Statistical Roughness-Informed Machine Unlearning](https://doi.org/10.48550/arXiv.2602.09304) | arXiv (Cornell University) | — | 1 |
 | Yuze Cai et al. | [Prototype-Guided Concept Erasure in Diffusion Models](https://arxiv.org/abs/2603.08271) | arXiv (Cornell University) | [GitHub](https://github.com/Paper2Chinese/CVPR-2026-reading-papers-with-code) | 1 |
 | Chi Zhang et al. | [Closed-Form Concept Erasure via Double Projections](https://arxiv.org/abs/2604.10032) | arXiv (Cornell University) | — | 1 |
@@ -117,8 +117,8 @@
 | Ravi Ranjan et al. | [RAZOR: Ratio-Aware Layer Editing for Targeted Unlearning in Vision Transformers and Diffusion Models](https://arxiv.org/abs/2603.14819) | arXiv (Cornell University) | [GitHub](https://github.com/Paper2Chinese/CVPR-2026-reading-papers-with-code) | 1 |
 | Saleh Zare Zade et al. | [Attention Smoothing Is All You Need For Unlearning](https://doi.org/10.48550/arXiv.2603.01285) | arXiv.org | [GitHub](https://github.com/Salehzz/ASU-unlearning) | 1 |
 | Weiqi Wang et al. | [EVE: Efficient Verification of Data Erasure through Customized Perturbation in Approximate Unlearning](https://doi.org/10.48550/arXiv.2602.03567) | arXiv.org | — | 1 |
-| Hsiang Hsu et al. | [The Unseen Threat: Residual Knowledge in Machine Unlearning under Perturbed Samples](https://doi.org/10.48550/arXiv.2601.22359) | arXiv.org | — | 1 |
-| Syed Naveed Mahmood et al. | [Representation-Aware Unlearning via Activation Signatures: From Suppression to Knowledge-Signature Erasure](https://doi.org/10.48550/arXiv.2601.10566) | arXiv.org | — | 1 |
+| Hsiang Hsu et al. | [The Unseen Threat: Residual Knowledge in Machine Unlearning under Perturbed Samples](https://doi.org/10.48550/arXiv.2601.22359) | arXiv.org | [GitHub](https://github.com/AdityaGolatkar/SelectiveForgetting) | 1 |
+| Syed Naveed Mahmood et al. | [Representation-Aware Unlearning via Activation Signatures: From Suppression to Knowledge-Signature Erasure](https://doi.org/10.48550/arXiv.2601.10566) | arXiv.org | [GitHub](https://github.com/kitkiti/kitkiti) | 1 |
 | Yi Sun et al. | [ActErase: A Training-Free Paradigm for Precise Concept Erasure via Activation Patching](https://doi.org/10.48550/arXiv.2601.00267) | arXiv.org | — | 1 |
 | Ziyu Xie et al. | [A Survey on Federated Unlearning: Lifecycle, Taxonomy, and Insights](https://doi.org/10.36227/techrxiv.177004227.77961306/v1) |  | — | 0 |
 | Ujjwal Pudasaini, Jun Huang, Zihao Ding | [Securing Smart Agriculture with Communication-Efficient Federated Unlearning](https://doi.org/10.36227/techrxiv.177223092.23251086/v1) |  | — | 0 |
@@ -148,7 +148,7 @@
 | Yi Gao et al. | [An Illusion of Unlearning? Assessing Machine Unlearning Through Internal Representations](https://arxiv.org/abs/2604.08271) | AISTATS Poster | — | 0 |
 | Chika Onyagu et al. | [Securing the Edge: An AI-Driven Federated Unlearning Framework for Cybersecurity and IoT Forensics](https://doi.org/10.63363/aijfr.2026.v07i02.4891) | Advanced International Journal for Research | — | 0 |
 | Yanjiang Li | [Unlearning bias in text diffusion models based on decoupled adapter](https://doi.org/10.54254/2977-3903/2026.31209) | Advances in Engineering Innovation | — | 0 |
-| Ning Lin et al. | [Machine Unlearning and Continual Learning in Hybrid Resistive Memory Neuromorphic Systems](https://arxiv.org/abs/2601.10037) | Applied Sciences | — | 0 |
+| Ning Lin et al. | [Machine Unlearning and Continual Learning in Hybrid Resistive Memory Neuromorphic Systems](https://arxiv.org/abs/2601.10037) | Applied Sciences | [GitHub](https://github.com/MrLinNing/RMAdaptiveMachine) | 0 |
 | Roy Rinberg et al. | [Easy Data Unlearning Bench](https://doi.org/10.48550/arXiv.2602.16400) | ArXiv.org | [HF](https://huggingface.co/datasets/easydub/EasyDUB-dataset) | 0 |
 | Xiaoyu Xu et al. | [FIT: Defying Catastrophic Forgetting in Continual LLM Unlearning](https://doi.org/10.48550/arXiv.2601.21682) | ArXiv.org | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 0 |
 | Qiang Chen et al. | [LEGATO: Good Identity Unlearning Is Continuous](https://openalex.org/W7120272199) | ArXiv.org | — | 0 |
@@ -187,7 +187,7 @@
 | Eugenia Iofinova, Dan Alistarh | [Behemoth: Benchmarking Unlearning in LLMs Using Fully Synthetic Data](https://doi.org/10.48550/arXiv.2601.23153) | ArXiv.org | [GitHub](https://github.com/IST-DASLab/behemoth) | 0 |
 | Chengyi Cai et al. | [Per-parameter Task Arithmetic for Unlearning in Large Language Models](https://doi.org/10.48550/arXiv.2601.22030) | ArXiv.org | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 0 |
 | Efstratios Zaradoukas, Bardh Prenkaj, Gjergji Kasneci | [Reinforcement Unlearning via Group Relative Policy Optimization](https://doi.org/10.48550/arXiv.2601.20568) | ArXiv.org | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 0 |
-| Tien Dang et al. | [Beyond Forgetting: Machine Unlearning Elicits Controllable Side Behaviors and Capabilities](https://doi.org/10.48550/arXiv.2601.21702) | ArXiv.org | — | 0 |
+| Tien Dang et al. | [Beyond Forgetting: Machine Unlearning Elicits Controllable Side Behaviors and Capabilities](https://doi.org/10.48550/arXiv.2601.21702) | ArXiv.org | [GitHub](https://github.com/meta-llama/llama3) | 0 |
 | Chengyi Cai et al. | [Visual-Guided Key-Token Regularization for Multimodal Large Language Model Unlearning](https://doi.org/10.48550/arXiv.2601.22020) | ArXiv.org | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 0 |
 | Mutsumi Sasaki et al. | [Exclusive Unlearning](https://arxiv.org/abs/2604.06154) | ArXiv.org | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 0 |
 | Xiaoyi Chen et al. | [PrivUn: Unveiling Latent Ripple Effects and Shallow Forgetting in Privacy Unlearning](https://arxiv.org/abs/2604.22076) | ArXiv.org | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 0 |
@@ -202,10 +202,10 @@
 | Jer Shyuan Ng et al. | [Federated Unlearning in Edge Networks: A Survey of Fundamentals, Challenges, Practical Applications and Future Directions](https://doi.org/10.48550/arXiv.2601.09978) | ArXiv.org | — | 0 |
 | Yijun Quan, Wentai Wu, Giovanni Montana | [Exact Federated Continual Unlearning for Ridge Heads on Frozen Foundation Models](https://arxiv.org/abs/2603.12977) | ArXiv.org | — | 0 |
 | Zeliang Zhang et al. | [Why Instruction-Based Unlearning Fails in Diffusion Models?](https://openalex.org/W7149874254) | ArXiv.org | — | 0 |
-| Manyi Li et al. | [The Illusion of Forgetting: Attack Unlearned Diffusion via Initial Latent Variable Optimization](https://doi.org/10.48550/arXiv.2602.00175) | ArXiv.org | — | 0 |
+| Manyi Li et al. | [The Illusion of Forgetting: Attack Unlearned Diffusion via Initial Latent Variable Optimization](https://doi.org/10.48550/arXiv.2602.00175) | ArXiv.org | [GitHub](https://github.com/tuananhbui89/Adaptive-Guided-Erasure) | 0 |
 | Ci Zhang et al. | [Roots Beneath the Cut: Uncovering the Risk of Concept Revival in Pruning-Based Unlearning for Diffusion Models](https://arxiv.org/abs/2603.06640) | ArXiv.org | [GitHub](https://github.com/tamlhp/awesome-machine-unlearning) | 0 |
 | Naoki MURATA et al. | [GUDA: Counterfactual Group-wise Training Data Attribution for Diffusion Models via Unlearning](https://doi.org/10.48550/arXiv.2601.22651) | ArXiv.org | [GitHub](https://github.com/CSQianDong/Awesome-arXiv-Daily-Reporter) | 0 |
-| Xinwen Cheng et al. | [Compensation-free Machine Unlearning in Text-to-Image Diffusion Models by Eliminating the Mutual Information](https://doi.org/10.48550/arXiv.2603.00992) | ArXiv.org | — | 0 |
+| Xinwen Cheng et al. | [Compensation-free Machine Unlearning in Text-to-Image Diffusion Models by Eliminating the Mutual Information](https://doi.org/10.48550/arXiv.2603.00992) | ArXiv.org | [GitHub](https://github.com/OPTML-Group/AdvUnlearn) | 0 |
 | Ignacy Kolton et al. | [ReLAPSe: Reinforcement-Learning-trained Adversarial Prompt Search for Erased concepts in unlearned diffusion models](https://doi.org/10.48550/arXiv.2602.00350) | ArXiv.org | [GitHub](https://github.com/gmum/ReLaPSe) | 0 |
 | Xiang, Qianlong et al. | [TINA: Text-Free Inversion Attack for Unlearned Text-to-Image Diffusion Models](https://arxiv.org/abs/2603.17828) | ArXiv.org | [GitHub](https://github.com/Paper2Chinese/CVPR-2026-reading-papers-with-code) | 0 |
 | Zhiyong Ma et al. | [PECKER: A Precisely Efficient Critical Knowledge Erasure Recipe For Machine Unlearning in Diffusion Models](https://arxiv.org/abs/2604.05634) | ArXiv.org | [GitHub](https://github.com/twenhui2-afk/daily-paper-reader) | 0 |
@@ -232,7 +232,7 @@
 | Zhangyun Tan et al. | [Can VLMs Truly Forget? Benchmarking Training-Free Visual Concept Unlearning](https://openalex.org/W7151672898) | ArXiv.org | — | 0 |
 | Yong Zou et al. | [REFORGE: Multi-modal Attacks Reveal Vulnerable Concept Unlearning in Image Generation Models](https://openalex.org/W7139148237) | ArXiv.org | [GitHub](https://github.com/Imfatnoily/REFORGE) | 0 |
 | Kaiyuan Deng et al. | [Forget-It-All: Multi-Concept Machine Unlearning via Concept-Aware Neuron Masking](https://openalex.org/W7124117424) | ArXiv.org | [GitHub](https://github.com/kaiyuan02415/Forget-It-All) | 0 |
-| Junfeng Liao et al. | [Explainable LLM Unlearning Through Reasoning](https://openalex.org/W7135156775) | ArXiv.org | — | 0 |
+| Junfeng Liao et al. | [Explainable LLM Unlearning Through Reasoning](https://openalex.org/W7135156775) | ArXiv.org | [GitHub](https://github.com/crayon-go/machine-unlearning-papers) | 0 |
 | Raj Sanjay Shah et al. | [The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning](https://openalex.org/W7135428587) | ArXiv.org | — | 0 |
 | Haoran Tang, Rajiv Khanna | [From Logits to Latents: Contrastive Representation Shaping for LLM Unlearning](https://openalex.org/W7126281433) | ArXiv.org | — | 0 |
 | Zeguan Xiao et al. | [Modeling LLM Unlearning as an Asymmetric Two-Task Learning Problem](https://openalex.org/W7154865541) | ArXiv.org | [GitHub](https://github.com/shaokangW/LLM-wisdom) | 0 |
@@ -262,7 +262,7 @@
 | Efstratios Zaradoukas, Bardh Prenkaj, Gjergji Kasneci | [Reinforcement Unlearning via Group Relative Policy Optimization](https://openalex.org/W7126123351) | ArXiv.org | [GitHub](https://github.com/strzar/purge) | 0 |
 | Tien Dang et al. | [Beyond Forgetting: Machine Unlearning Elicits Controllable Side Behaviors and Capabilities](https://openalex.org/W7126281564) | ArXiv.org | — | 0 |
 | Jingjing Zhou et al. | [STaR: Sensitive Trajectory Regulation for Unlearning in Large Reasoning Models](https://openalex.org/W7124358332) | ArXiv.org | — | 0 |
-| Wenxuan Li et al. | [From Anchors to Supervision: Memory-Graph Guided Corpus-Free Unlearning for Large Language Models](https://openalex.org/W7154790022) | ArXiv.org | — | 0 |
+| Wenxuan Li et al. | [From Anchors to Supervision: Memory-Graph Guided Corpus-Free Unlearning for Large Language Models](https://openalex.org/W7154790022) | ArXiv.org | [GitHub](https://github.com/shaokangW/LLM-wisdom) | 0 |
 | Chengyi Cai et al. | [Visual-Guided Key-Token Regularization for Multimodal Large Language Model Unlearning](https://openalex.org/W7126281284) | ArXiv.org | — | 0 |
 | Mutsumi Sasaki et al. | [Exclusive Unlearning](https://openalex.org/W7152934100) | ArXiv.org | — | 0 |
 | Xiaoyi Chen et al. | [PrivUn: Unveiling Latent Ripple Effects and Shallow Forgetting in Privacy Unlearning](https://openalex.org/W7157506111) | ArXiv.org | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 0 |
@@ -292,13 +292,13 @@
 | Cai Selvas-Sala, Lei Kang, Lluis Gomez | [SALMUBench: A Benchmark for Sensitive Association-Level Multimodal Unlearning](https://arxiv.org/abs/2603.26316) | CoRR | [GitHub](https://github.com/cvc-mmu/salmubench) | 0 |
 | Hyundong Jin, Dongyoon Han, Eunwoo Kim | [Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models](https://arxiv.org/abs/2603.21484) | CoRR | — | 0 |
 | Micha l Woźniak et al. | [Unlearning-based sliding window for continual learning under concept drift](https://arxiv.org/abs/2603.14484) | CoRR | — | 0 |
-| Kiseong Hong, Jungkyoo Shin, Eunwoo Kim | [Stake the Points: Structure-Faithful Instance Unlearning](https://arxiv.org/abs/2603.12915) | CoRR | — | 0 |
+| Kiseong Hong, Jungkyoo Shin, Eunwoo Kim | [Stake the Points: Structure-Faithful Instance Unlearning](https://arxiv.org/abs/2603.12915) | CoRR | [GitHub](https://github.com/Paper2Chinese/CVPR-2026-reading-papers-with-code) | 0 |
 | Thanapat Trachu et al. | [Targeted Speaker Poisoning Framework in Zero-Shot Text-to-Speech](https://arxiv.org/abs/2603.07551) | CoRR | [GitHub](https://github.com/liutaocode/TTS-arxiv-daily) | 0 |
 | Nanhong Liu et al. | [A SISA-based Machine Unlearning Framework for Power Transformer Inter-Turn Short-Circuit Fault Localization](https://arxiv.org/abs/2603.06962) | CoRR | — | 0 |
 | Reo Fukunaga, Soh Yoshida, M. Muneyasu | [ACD-U: Asymmetric co-teaching with machine unlearning for robust learning with noisy labels](https://arxiv.org/abs/2603.07166) | CoRR | [GitHub](https://github.com/meruemon/ACD-U) | 0 |
 | Carolin Heinzler, Kasra Malihi, Amartya Sanyal | [Less Noise, Same Certificate: Retain Sensitivity for Unlearning](https://arxiv.org/abs/2603.03172) | CoRR | — | 0 |
 | Amber Yijia Zheng, Yue Tai, Raymond A. Yeh | [Designing to Forget: Deep Semi-parametric Models for Unlearning](https://arxiv.org/abs/2603.22870) | CoRR | [GitHub](https://github.com/amberyzheng/spm_unlearning) | 0 |
-| Zixu Li et al. | [ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval](https://arxiv.org/abs/2604.20358) | CoRR | — | 0 |
+| Zixu Li et al. | [ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval](https://arxiv.org/abs/2604.20358) | CoRR | [GitHub](https://github.com/Lee-zixu/ConeSep) | 0 |
 | Xian Yang et al. | [SafeRoPE: Risk-specific Head-wise Embedding Rotation for Safe Generation in Rectified Flow Transformers](https://arxiv.org/abs/2604.01826) | CoRR | [GitHub](https://github.com/deng12yx/SafeRoPE) | 0 |
 | Yi-Yang Xie, Zheng Zhang, Ping Liu | [PROBE: Diagnosing Residual Concept Capacity in Erased Text-to-Video Diffusion Models](https://arxiv.org/abs/2603.21547) | CoRR | [GitHub](https://github.com/YiweiXie/PRObingBasedEvaluation) | 0 |
 | Pierre Lubitzsch, M. D. Rijke, Sebastian Schelter | [ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems](https://arxiv.org/abs/2603.08341) | CoRR | [GitHub](https://github.com/CSQianDong/Awesome-arXiv-Daily-Reporter) | 0 |
@@ -332,7 +332,7 @@
 | Ruyun Wang, Fuqing Zhu, Xiaodan Zhang | [Breaking the Forgetting-Memorization Trade-Off: A Memory-Adaptive Optimizer for Effective Large Language Models Unlearning](https://doi.org/10.1109/icassp55912.2026.11462705) | IEEE International Conference on Acoustics, Speech, and Signal Processing | — | 0 |
 | Ruyun Wang, Fuqing Zhu, Xiaodan Zhang | [Why Delete? Just Make it Natural. Maximum Entropy Distribution Distillation for Large Language Models Unlearning](https://doi.org/10.1109/icassp55912.2026.11463279) | IEEE International Conference on Acoustics, Speech, and Signal Processing | — | 0 |
 | Zhiqiang Xie et al. | [Closed-Box Unlearning for Large Language Model-Enabled Internet of Everything](https://doi.org/10.1109/mnet.2026.3660124) | IEEE Network | — | 0 |
-| Wei Zheng et al. | [Label Leakage Attacks in Machine Unlearning: A Parameter and Inversion-Based Approach](https://arxiv.org/abs/2604.07386) | IEEE Open J. Comput. Soc | — | 0 |
+| Wei Zheng et al. | [Label Leakage Attacks in Machine Unlearning: A Parameter and Inversion-Based Approach](https://arxiv.org/abs/2604.07386) | IEEE Open J. Comput. Soc | [GitHub](https://github.com/zhouchanggeng/DailyArXiv) | 0 |
 | Claudio Savelli et al. | [UnSLU-BENCH+: Extended Machine Unlearning Benchmark for Spoken Language Understanding](https://doi.org/10.1109/TASLPRO.2026.3675768) | IEEE Transactions on Audio, Speech, and Language Processing | — | 0 |
 | Huanghuang Liang et al. | [Federated Unlearning via Representation Misdirection with Adaptive Anchor Generation](https://doi.org/10.1109/tdsc.2026.3689563) | IEEE Transactions on Dependable and Secure Computing | — | 0 |
 | Lei Zhou, Youwen Zhu, Rongke Liu | [Model Inversion Attack Against Federated Unlearning](https://doi.org/10.1109/tifs.2026.3666295) | IEEE Transactions on Information Forensics and Security | — | 0 |
@@ -385,25 +385,25 @@
 | Zhigao Zheng et al. | [DeepUL: Deep Unlearning via Model Sparsity](https://doi.org/10.1145/3774904.3792441) | WWW | — | 0 |
 | Jiahao Zhang et al. | [Unlearning Inversion Attacks for Graph Neural Networks](https://doi.org/10.1145/3773966.3777929) | Web Search and Data Mining | [GitHub](https://github.com/QwQ2000/WSDM26-Graph-Unlearning-Inversion) | 0 |
 | Chenhan Zhang et al. | [Forget Me, Not My Friends! Object Unlearning Based on Scene Graphs](https://doi.org/10.1145/3773966.3777964) | Web Search and Data Mining | — | 0 |
-| Abdullah Khan, F. Sohel | [DurableUn: Quantization-Induced Recovery Attacks in Machine Unlearning](https://arxiv.org/abs/2605.02196) | arXiv | — | 0 |
+| Abdullah Khan, F. Sohel | [DurableUn: Quantization-Induced Recovery Attacks in Machine Unlearning](https://arxiv.org/abs/2605.02196) | arXiv | [GitHub](https://github.com/neurips26/DurableUnl) | 0 |
 | Abdullah Khan, Hamid Laga, F. Sohel | [Metric Unreliability in Multimodal Machine Unlearning: A Systematic Analysis and Principled Unified Score](https://arxiv.org/abs/2605.02206) | arXiv | [GitHub](https://github.com/neurips26/UnifiedUnl) | 0 |
-| Jiawei Wu, Doudou Zhou | [Unlearning What Matters: Token-Level Attribution for Precise Language Model Unlearning](https://arxiv.org/abs/2605.00364) | arXiv | — | 0 |
-| Zihao Ding, Beining Wu, Jun-Jie Huang | [EASE: Federated Multimodal Unlearning via Entanglement-Aware Anchor Closure](https://arxiv.org/abs/2605.00733) | arXiv | — | 0 |
-| Joseph Spracklen et al. | [LLM Ghostbusters: Surgical Hallucination Suppression via Adaptive Unlearning](https://arxiv.org/abs/2605.01047) | arXiv | — | 0 |
-| Ishrak Hamim Mahi et al. | [Machine Unlearning for Class Removal through SISA-based Deep Neural Network Architectures](https://arxiv.org/abs/2604.27804) | arXiv | — | 0 |
+| Jiawei Wu, Doudou Zhou | [Unlearning What Matters: Token-Level Attribution for Precise Language Model Unlearning](https://arxiv.org/abs/2605.00364) | arXiv | [GitHub](https://github.com/nlp-uoregon/trankit) | 0 |
+| Zihao Ding, Beining Wu, Jun-Jie Huang | [EASE: Federated Multimodal Unlearning via Entanglement-Aware Anchor Closure](https://arxiv.org/abs/2605.00733) | arXiv | [GitHub](https://github.com/XCmiaow/knowledge-base) | 0 |
+| Joseph Spracklen et al. | [LLM Ghostbusters: Surgical Hallucination Suppression via Adaptive Unlearning](https://arxiv.org/abs/2605.01047) | arXiv | [HF](https://huggingface.co/deepseek-ai/deepseek-coder-7b-instruct-v1.5) | 0 |
+| Ishrak Hamim Mahi et al. | [Machine Unlearning for Class Removal through SISA-based Deep Neural Network Architectures](https://arxiv.org/abs/2604.27804) | arXiv | [GitHub](https://github.com/ZhikangNiu/arxiv_daily) | 0 |
 | Ken Stewart | [Shape of Memory: a Geometric Analysis of Machine Unlearning in Second-Order Optimizers](https://arxiv.org/abs/2604.23046) | arXiv | — | 0 |
-| C. Schneider, Philipp Schoenegger, Ben Bariach | [Separable Expert Architecture: Toward Privacy-Preserving LLM Personalization via Composable Adapters and Deletable User Proxies](https://arxiv.org/abs/2604.21571) | arXiv | — | 0 |
+| C. Schneider, Philipp Schoenegger, Ben Bariach | [Separable Expert Architecture: Toward Privacy-Preserving LLM Personalization via Composable Adapters and Deletable User Proxies](https://arxiv.org/abs/2604.21571) | arXiv | [GitHub](https://github.com/mitchelllisle/data-privacy-papers) | 0 |
 | Eun-Ju Park, Youjin Shin, Simon S. Woo | [Robust Continual Unlearning against Knowledge Erosion and Forgetting Reversal](https://arxiv.org/abs/2604.19108) | arXiv | [GitHub](https://github.com/DASH-Lab/SAFER) | 0 |
 | Arman Hatami, Romina Aalishah, I. Monosov | [Class Unlearning via Depth-Aware Removal of Forget-Specific Directions](https://arxiv.org/abs/2604.15166) | arXiv | [GitHub](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers) | 0 |
 | Y. Rahulamathavan et al. | [Orthogonal Subspace Projection for Continual Machine Unlearning via SVD-Based LoRA](https://arxiv.org/abs/2604.12526) | arXiv | — | 0 |
-| Eleni Triantafillou et al. | [Is your algorithm unlearning or untraining?](https://arxiv.org/abs/2604.07962) | arXiv | — | 0 |
+| Eleni Triantafillou et al. | [Is your algorithm unlearning or untraining?](https://arxiv.org/abs/2604.07962) | arXiv | [GitHub](https://github.com/frankmcsherry/blog) | 0 |
 | Martin Van Waerebeke et al. | [Variance-Reduced $(\varepsilon,\delta)-$Unlearning using Forget Set Gradients](https://arxiv.org/abs/2602.14938) | arXiv | — | 0 |
 | Sam Gunn | [How to sketch a learning algorithm](https://arxiv.org/abs/2604.07328) | arXiv | [GitHub](https://github.com/SamSpo1/microgpt-sketch) | 0 |
 | Hsiang Hsu et al. | [A RE W E R EALLY U NLEARNING ? T HE P RESENCE OF R ESIDUAL K NOWLEDGE IN M ACHINE U NLEARNING](https://arxiv.org/abs/2601.22359) | arXiv | [GitHub](https://github.com/CSQianDong/Awesome-arXiv-Daily-Reporter) | 0 |
-| Jagadeesh Rachapudi et al. | [BID-LoRA: A Parameter-Efficient Framework for Continual Learning and Unlearning](https://arxiv.org/abs/2604.12686) | arXiv | — | 0 |
+| Jagadeesh Rachapudi et al. | [BID-LoRA: A Parameter-Efficient Framework for Continual Learning and Unlearning](https://arxiv.org/abs/2604.12686) | arXiv | [GitHub](https://github.com/shaokangW/LLM-wisdom) | 0 |
 | Anna Mazhar, Sainyam Galhotra | [Towards Reliable Testing of Machine Unlearning](https://doi.org/10.1145/3803437.3805557) | arXiv | — | 0 |
-| N. Konovalova, Andrey Kuznetsov, Aibek Alanov | [SHIFT: Steering Hidden Intermediates in Flow Transformers](https://arxiv.org/abs/2604.09213) | arXiv | — | 0 |
-| Natnael Mola et al. | [SPARE: Self-distillation for PARameter-Efficient Removal](https://arxiv.org/abs/2602.07058) | arXiv | — | 0 |
+| N. Konovalova, Andrey Kuznetsov, Aibek Alanov | [SHIFT: Steering Hidden Intermediates in Flow Transformers](https://arxiv.org/abs/2604.09213) | arXiv | [GitHub](https://github.com/ControlGenAI/SHIFT) | 0 |
+| Natnael Mola et al. | [SPARE: Self-distillation for PARameter-Efficient Removal](https://arxiv.org/abs/2602.07058) | arXiv | [GitHub](https://github.com/AtharvaTaras/Dog-Breeds-Dataset) | 0 |
 | Aviraj Newatia et al. | [Mitigating Privacy Risk via Forget Set-Free Unlearning](https://arxiv.org/abs/2604.10636) | arXiv (Cornell University) | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 0 |
 | Martin Van Waerebeke et al. | [Variance-Reduced $(\varepsilon,δ)-$Unlearning using Forget Set Gradients](https://openalex.org/W7130237008) | arXiv (Cornell University) | — | 0 |
 | Tuan Le, Wei Qian, Mengdi Huai | [Selective Forgetting for Large Reasoning Models](https://arxiv.org/abs/2604.03571) | arXiv (Cornell University) | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 0 |
@@ -416,7 +416,7 @@
 | Jun Li et al. | [Beyond Text Prompts: Precise Concept Erasure through Text-Image Collaboration](https://arxiv.org/abs/2604.15829) | arXiv (Cornell University) | [GitHub](https://github.com/OpenAscent-L/TICoE) | 0 |
 | Uichan Lee, Jeonghyeon Kim, Sangheum Hwang | [Localized Concept Erasure in Text-to-Image Diffusion Models via High-Level Representation Misdirection](https://openalex.org/W7131319545) | arXiv (Cornell University) | — | 0 |
 | Zeguan Xiao et al. | [Representation-Guided Parameter-Efficient LLM Unlearning](https://arxiv.org/abs/2604.17396) | arXiv (Cornell University) | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 0 |
-| Ziwen Liu et al. | [Randomized Antipodal Search Done Right for Data Pareto Improvement of LLM Unlearning](https://arxiv.org/abs/2604.16591) | arXiv (Cornell University) | — | 0 |
+| Ziwen Liu et al. | [Randomized Antipodal Search Done Right for Data Pareto Improvement of LLM Unlearning](https://arxiv.org/abs/2604.16591) | arXiv (Cornell University) | [HF](https://huggingface.co/BAAI/bge-base-en-v1.5) | 0 |
 | Yisheng Zhong, Sijia Liu, Zhuangdi Zhu | [Harmonizing Multi-Objective LLM Unlearning via Unified Domain Representation and Bidirectional Logit Distillation](https://arxiv.org/abs/2604.15482) | arXiv (Cornell University) | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 0 |
 | Ziheng Chen et al. | [CURE:Circuit-Aware Unlearning for LLM-based Recommendation](https://arxiv.org/abs/2604.04982) | arXiv (Cornell University) | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 0 |
 | Vishnu Narayanan Anilkumar et al. | [Relationship-Aware Safety Unlearning for Multimodal LLMs](https://arxiv.org/abs/2603.14185) | arXiv (Cornell University) | — | 0 |
@@ -468,10 +468,10 @@
 | Arian Komaei Koma et al. | [Erasure or Erosion? Evaluating Compositional Degradation in Unlearned Text-To-Image Diffusion Models](https://openalex.org/W7152331207) | arXiv (Cornell University) | — | 0 |
 | Ravi Ranjan et al. | [RAZOR: Ratio-Aware Layer Editing for Targeted Unlearning in Vision Transformers and Diffusion Models](https://openalex.org/W7139145009) | arXiv (Cornell University) | — | 0 |
 | Aljalila Aladawi, Mohammed Talha Alam, Fakhri Karray | [Projected Gradient Unlearning for Text-to-Image Diffusion Models: Defending Against Concept Revival Attacks](https://openalex.org/W7155653878) | arXiv (Cornell University) | — | 0 |
-| Chenhao Zhang et al. | [Unlearning Evaluation through Subset Statistical Independence](https://doi.org/10.48550/arXiv.2603.00587) | arXiv.org | — | 0 |
+| Chenhao Zhang et al. | [Unlearning Evaluation through Subset Statistical Independence](https://doi.org/10.48550/arXiv.2603.00587) | arXiv.org | [GitHub](https://github.com/ChildEden/SDE) | 0 |
 | Ji-Wha Shin et al. | [ROKA: Robust Knowledge Unlearning against Adversaries](https://doi.org/10.48550/arXiv.2603.00436) | arXiv.org | — | 0 |
 | Tiantong Wang et al. | [MPU: Towards Secure and Privacy-Preserving Knowledge Unlearning for Large Language Models](https://doi.org/10.48550/arXiv.2602.23798) | arXiv.org | [GitHub](https://github.com/Tristan-SHU/MPU) | 0 |
-| Yong-Sheng Chen et al. | [Unlearning Noise in PINNs: A Selective Pruning Framework for PDE Inverse Problems](https://doi.org/10.48550/arXiv.2602.19967) | arXiv.org | — | 0 |
+| Yong-Sheng Chen et al. | [Unlearning Noise in PINNs: A Selective Pruning Framework for PDE Inverse Problems](https://doi.org/10.48550/arXiv.2602.19967) | arXiv.org | [GitHub](https://github.com/chenyongssss/PPINN) | 0 |
 | Haoyu Wang et al. | [MeGU: Machine-Guided Unlearning with Target Feature Disentanglement](https://doi.org/10.48550/arXiv.2602.17088) | arXiv.org | — | 0 |
 | Qinqi Lin et al. | [Governing AI Forgetting: Auditing for Machine Unlearning Compliance](https://doi.org/10.48550/arXiv.2602.14553) | arXiv.org | — | 0 |
 | Jaewon Lee, Yongwoo Kim, Donghyun Kim | [Erase at the Core: Representation Unlearning for Machine Unlearning](https://doi.org/10.48550/arXiv.2602.05375) | arXiv.org | — | 0 |
@@ -479,7 +479,7 @@
 | Somnath Basu Roy Chowdhury et al. | [Inference-time Unlearning Using Conformal Prediction](https://doi.org/10.48550/arXiv.2602.03787) | arXiv.org | — | 0 |
 | Pengyu Li et al. | [AGTAO: Robust and Stabilized LLM Unlearning via Adversarial Gating Training with Adaptive Orthogonality](https://doi.org/10.48550/arXiv.2602.01703) | arXiv.org | [GitHub](https://github.com/TiezMind/AGT-unlearning) | 0 |
 | Tian Zhang et al. | [Forget by Uncertainty: Orthogonal Entropy Unlearning for Quantized Neural Networks](https://doi.org/10.48550/arXiv.2602.00567) | arXiv.org | — | 0 |
-| Kun Fang et al. | [Machine Unlearning in Low-Dimensional Feature Subspace](https://doi.org/10.48550/arXiv.2601.22456) | arXiv.org | — | 0 |
+| Kun Fang et al. | [Machine Unlearning in Low-Dimensional Feature Subspace](https://doi.org/10.48550/arXiv.2601.22456) | arXiv.org | [HF](https://huggingface.co/datasets/wmt/wmt19) | 0 |
 | Antonio Almud'evar, Alfonso Ortega | [Representation Unlearning: Forgetting through Information Compression](https://doi.org/10.48550/arXiv.2601.21564) | arXiv.org | [GitHub](https://github.com/antonioalmudevar/representation_unlearning) | 0 |
 | Liheng Yu et al. | [FaLW: A Forgetting-aware Loss Reweighting for Long-tailed Unlearning](https://doi.org/10.48550/arXiv.2601.18650) | arXiv.org | — | 0 |
 | A. Zhu et al. | [GRIP: Algorithm-Agnostic Machine Unlearning for Mixture-of-Experts via Geometric Router Constraints](https://doi.org/10.48550/arXiv.2601.16905) | arXiv.org | — | 0 |
@@ -491,9 +491,9 @@
 | Aloni Cohen et al. | [Protecting the Undeleted in Machine Unlearning](https://doi.org/10.48550/arXiv.2602.16697) | arXiv.org | — | 0 |
 | Hanna Benarroch, Jamal Atif, Olivier Capp'e | [Certified Per-Instance Unlearning Using Individual Sensitivity Bounds](https://doi.org/10.48550/arXiv.2602.15602) | arXiv.org | — | 0 |
 | Jacob L. Block et al. | [Temper-Then-Tilt: Principled Unlearning for Generative Models through Tempering and Classifier Guidance](https://doi.org/10.48550/arXiv.2602.10217) | arXiv.org | — | 0 |
-| Sangyeon Yoon et al. | [Rethinking Benign Relearning: Syntax as the Hidden Driver of Unlearning Failures](https://doi.org/10.48550/arXiv.2602.03379) | arXiv.org | — | 0 |
+| Sangyeon Yoon et al. | [Rethinking Benign Relearning: Syntax as the Hidden Driver of Unlearning Failures](https://doi.org/10.48550/arXiv.2602.03379) | arXiv.org | [HF](https://huggingface.co/locuslab/tofu_ft_llama2-7b) | 0 |
 | Pawel Batorski, Paul Swoboda | [EvoMU: Evolutionary Machine Unlearning](https://doi.org/10.48550/arXiv.2602.02139) | arXiv.org | [GitHub](https://github.com/Batorskq/EvoMU) | 0 |
-| Polina Dolgova, Sebastian U. Stich | [Sequential Subspace Noise Injection Prevents Accuracy Collapse in Certified Unlearning](https://doi.org/10.48550/arXiv.2601.05134) | arXiv.org | — | 0 |
+| Polina Dolgova, Sebastian U. Stich | [Sequential Subspace Noise Injection Prevents Accuracy Collapse in Certified Unlearning](https://doi.org/10.48550/arXiv.2601.05134) | arXiv.org | [GitHub](https://github.com/mlolab/blockwise-noisy-fine-tuning) | 0 |
 | Kairan Zhao, Iurie Luca, Peter Triantafillou | [Benchmarking Unlearning for Vision Transformers](https://doi.org/10.48550/arXiv.2602.20114) | arXiv.org | — | 0 |
 | Wei-Kai Chang, Rajiv Khanna | [Why Some Models Resist Unlearning: A Linear Stability Perspective](https://doi.org/10.48550/arXiv.2602.02986) | arXiv.org | — | 0 |
 | Y. Jang et al. | [Suppression or Deletion: A Restoration-Based Representation-Level Analysis of Machine Unlearning](https://doi.org/10.1145/3774904.3792896) | arXiv.org | [HF](https://huggingface.co/Yurim0507/suppression-or-deletion) | 0 |
@@ -509,7 +509,7 @@
 | Tong Zhang, Ru Zhang, Jianyi Liu | [DICE: Disentangling Artist Style from Content via Contrastive Subspace Decomposition in Diffusion Models](https://doi.org/10.48550/arXiv.2602.08059) | arXiv.org | — | 0 |
 | Mengyu Sun et al. | [LURE: Latent Space Unblocking for Multi-Concept Reawakening in Diffusion Models](https://doi.org/10.48550/arXiv.2601.14330) | arXiv.org | — | 0 |
 | Carolina R. Kelsch et al. | [FADE: Selective Forgetting via Sparse LoRA and Self-Distillation](https://doi.org/10.48550/arXiv.2602.07058) | arXiv.org | — | 0 |
-| Heng Xu et al. | [Forgetting Similar Samples: Can Machine Unlearning Do it Better?](https://doi.org/10.48550/arXiv.2601.06938) | arXiv.org | — | 0 |
+| Heng Xu et al. | [Forgetting Similar Samples: Can Machine Unlearning Do it Better?](https://doi.org/10.48550/arXiv.2601.06938) | arXiv.org | [HF](https://huggingface.co/BAAI/bge-small-en) | 0 |
 
 ## 2025
 
@@ -521,7 +521,7 @@
 | Thành Tâm Nguyên et al. | [A Survey of Machine Unlearning](https://doi.org/10.1145/3749987) | ACM Transactions on Intelligent Systems and Technology | [GitHub](https://github.com/tamlhp/awesome-machine-unlearning) | 52 |
 | Bartosz Cywi'nski, Kamil Deja | [SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders](https://doi.org/10.48550/arXiv.2501.18052) | ICML | [GitHub](https://github.com/cywinski/SAeUron) | 51 |
 | Qizhou Wang et al. | [Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go Beyond](https://doi.org/10.48550/arXiv.2502.19301) | ICLR | [GitHub](https://github.com/QizhouWang/G-effect) | 49 |
-| Vineeth Dorna et al. | [OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics](https://doi.org/10.48550/arXiv.2506.12618) | arXiv.org | — | 34 |
+| Vineeth Dorna et al. | [OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics](https://doi.org/10.48550/arXiv.2506.12618) | arXiv.org | [GitHub](https://github.com/huggingface/accelerate) | 34 |
 | Martin Tutek et al. | [Measuring Chain of Thought Faithfulness by Unlearning Reasoning Steps](https://doi.org/10.18653/v1/2025.emnlp-main.504) | EMNLP | [HF](https://huggingface.co/spaces/richardyoung/abliteration-methods-dashboard) | 32 |
 | Puning Yang et al. | [Exploring Criteria of Loss Reweighting to Enhance LLM Unlearning](https://doi.org/10.48550/arXiv.2505.11953) | ICML | [GitHub](https://github.com/tmlr-group/SatImp) | 30 |
 | Jiahui Geng et al. | [A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models](https://doi.org/10.48550/arXiv.2503.01854) | arXiv.org | [GitHub](https://github.com/jujingliuzy/Unlearning-LLM-papers) | 27 |
@@ -531,9 +531,9 @@
 | Ziyao Liu et al. | [Threats, Attacks, and Defenses in Machine Unlearning: A Survey](https://doi.org/10.1109/ojcs.2025.3543483) | IEEE Open Journal of the Computer Society | — | 24 |
 | Zijie Pan et al. | [Feature-Based Machine Unlearning for Vertical Federated Learning in IoT Networks](https://doi.org/10.1109/tmc.2025.3530529) | IEEE Transactions on Mobile Computing | — | 24 |
 | Junkai Chen et al. | [SafeEraser: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning](https://doi.org/10.48550/arXiv.2502.12520) | ACL | — | 23 |
-| XiaoYu Xu et al. | [Unlearning Isn't Deletion: Investigating Reversibility of Machine Unlearning in LLMs](https://doi.org/10.48550/arXiv.2505.16831) | arXiv.org | — | 23 |
+| XiaoYu Xu et al. | [Unlearning Isn't Deletion: Investigating Reversibility of Machine Unlearning in LLMs](https://doi.org/10.48550/arXiv.2505.16831) | arXiv.org | [GitHub](https://github.com/XiaoyuXU1/Representational_Analysis_Tools) | 23 |
 | Meng Li, Haochen Sui | [Causal Recommendation via Machine Unlearning with a Few Unbiased Data](https://www.semanticscholar.org/paper/9d69eebef7cd41b4d6f480ab438268f848920215) | AAAI Workshop on Artificial Intelligence with Causal Techniques | — | 22 |
-| Zhengyi Zhong et al. | [Unlearning through Knowledge Overwriting: Reversible Federated Unlearning via Selective Sparse Adapter](https://doi.org/10.1109/CVPR52734.2025.02855) | Computer Vision and Pattern Recognition | — | 22 |
+| Zhengyi Zhong et al. | [Unlearning through Knowledge Overwriting: Reversible Federated Unlearning via Selective Sparse Adapter](https://doi.org/10.1109/CVPR52734.2025.02855) | Computer Vision and Pattern Recognition | [GitHub](https://github.com/Zhong-Zhengyi/FUSED-Code) | 22 |
 | William F. Shen et al. | [LUNAR: LLM Unlearning via Neural Activation Redirection](https://doi.org/10.48550/arXiv.2502.07218) | arXiv.org | [GitHub](https://github.com/facebookresearch/LUNAR) | 22 |
 | Ouxiang Li et al. | [SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](https://doi.org/10.48550/arXiv.2503.07392) | arXiv.org | [GitHub](https://github.com/Ouxiang-Li/SPEED) | 22 |
 | Yu Zhou et al. | [Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks](https://doi.org/10.1109/CVPR52734.2025.01895) | Computer Vision and Pattern Recognition | — | 21 |
@@ -564,7 +564,7 @@
 | Hengzhu Liu et al. | [A survey on machine unlearning: Techniques and new emerged privacy risks](https://doi.org/10.1016/j.jisa.2025.104010) | Journal of Information Security and Applications | [GitHub](https://github.com/awatson246/forecast-unlearning) | 12 |
 | Zeng Wang et al. | [SALAD: Systematic Assessment of Machine Unlearning on LLM-Aided Hardware Design](https://doi.org/10.1109/MLCAD65511.2025.11189152) | Workshop on Machine Learning for CAD | [GitHub](https://github.com/DfX-NYUAD/SALAD) | 12 |
 | Soumyadeep Pal et al. | [LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks](https://doi.org/10.48550/arXiv.2504.10185) | arXiv.org | [GitHub](https://github.com/OPTML-Group/MU-Coreset) | 12 |
-| Daiheng Gao et al. | [Revoking Amnesia: RL-based Trajectory Optimization to Resurrect Erased Concepts in Diffusion Models](https://doi.org/10.48550/arXiv.2510.03302) | arXiv.org | — | 12 |
+| Daiheng Gao et al. | [Revoking Amnesia: RL-based Trajectory Optimization to Resurrect Erased Concepts in Diffusion Models](https://doi.org/10.48550/arXiv.2510.03302) | arXiv.org | [HF](https://huggingface.co/black-forest-labs/FLUX.1-dev) | 12 |
 | Yongwoo Kim, Sungmin Cha, Donghyun Kim | [Are We Truly Forgetting? A Critical Re-examination of Machine Unlearning Evaluation Protocols](https://doi.org/10.1016/j.engappai.2026.113785) | Engineering applications of artificial intelligence | — | 11 |
 | Jiali Cheng, Hadi Amiri | [Tool Unlearning for Tool-Augmented LLMs](https://doi.org/10.48550/arXiv.2502.01083) | ICML | — | 11 |
 | Vaidehi Patil et al. | [Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](https://doi.org/10.48550/arXiv.2505.01456) | Trans. Mach. Learn. Res | [GitHub](https://github.com/Vaidehi99/UnLOK-VQA) | 11 |
@@ -584,13 +584,13 @@
 | Yuyuan Li et al. | [Class-wise federated unlearning: Harnessing active forgetting with teacher–student memory generation](https://doi.org/10.1016/j.knosys.2025.113353) | Knowledge-Based Systems | [GitHub](https://github.com/abbottyanginchina/Awesome-Federated-Unlearning) | 9 |
 | Zhengyi Zhong et al. | [Unlearning through Knowledge Overwriting: Reversible Federated Unlearning via Selective Sparse Adapter](https://doi.org/10.1109/cvpr52734.2025.02855) | OpenReview.net/Archive | — | 9 |
 | Thorsten Eisenhofer et al. | [Verifiable and Provably Secure Machine Unlearning](https://doi.org/10.1109/satml64287.2025.00033) | SaTML | [GitHub](https://github.com/cleverhans-lab/verifiable-unlearning) | 9 |
-| Dayong Ye et al. | [Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning](https://doi.org/10.48550/arXiv.2501.16663) | USENIX Security | — | 9 |
+| Dayong Ye et al. | [Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning](https://doi.org/10.48550/arXiv.2501.16663) | USENIX Security | [GitHub](https://github.com/openai/gym) | 9 |
 | Kemou Li et al. | [LLM Unlearning with LLM Beliefs](https://doi.org/10.48550/arXiv.2510.19422) | arXiv.org | — | 9 |
 | Bruce Lee et al. | [Distillation Robustifies Unlearning](https://doi.org/10.48550/arXiv.2506.06278) | arXiv.org | [GitHub](https://github.com/AddieFoote/distillation-robustify-unlearning) | 9 |
 | Gen Li et al. | [Sculpting Memory: Multi-Concept Forgetting in Diffusion Models via Dynamic Mask and Concept-Aware Optimization](https://doi.org/10.48550/arXiv.2504.09039) | arXiv.org | — | 9 |
-| Zhijie Deng et al. | [GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection](https://doi.org/10.48550/arXiv.2505.13312) | arXiv.org | — | 9 |
-| K. Thakral et al. | [Continual Unlearning for Foundational Text-to-Image Models without Generalization Erosion](https://doi.org/10.48550/arXiv.2503.13769) | arXiv.org | — | 9 |
-| Zesheng Shi, Yucheng Zhou, Jing Li | [Safety Alignment via Constrained Knowledge Unlearning](https://doi.org/10.48550/arXiv.2505.18588) | ACL | — | 8 |
+| Zhijie Deng et al. | [GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection](https://doi.org/10.48550/arXiv.2505.13312) | arXiv.org | [HF](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) | 9 |
+| K. Thakral et al. | [Continual Unlearning for Foundational Text-to-Image Models without Generalization Erosion](https://doi.org/10.48550/arXiv.2503.13769) | arXiv.org | [GitHub](https://github.com/GaParmar/clean-fid) | 9 |
+| Zesheng Shi, Yucheng Zhou, Jing Li | [Safety Alignment via Constrained Knowledge Unlearning](https://doi.org/10.48550/arXiv.2505.18588) | ACL | [GitHub](https://github.com/ZeroNLP/Eraser) | 8 |
 | Hadi Reisizadeh et al. | [BLUR: A Bi-Level Optimization Approach for LLM Unlearning](https://doi.org/10.48550/arXiv.2506.08164) | ACL | [GitHub](https://github.com/OptimAI-Lab/BLURLLMUnlearning) | 8 |
 | Yoav Gur-Arieh et al. | [Precise In-Parameter Concept Erasure in Large Language Models](https://doi.org/10.48550/arXiv.2505.22586) | EMNLP | [GitHub](https://github.com/yoavgur/PISCES) | 8 |
 | Sangyeon Yoon, Wonje Jeung, Albert No | [R-TOFU: Unlearning in Large Reasoning Models](https://doi.org/10.48550/arXiv.2505.15214) | EMNLP | [GitHub](https://github.com/jjbrophy47/machine_unlearning) | 8 |
@@ -600,13 +600,13 @@
 | Dahyun Jung et al. | [CoME: An Unlearning-based Approach to Conflict-free Model Editing](https://doi.org/10.48550/arXiv.2502.15826) | NAACL | [GitHub](https://github.com/ekgus9/COME) | 8 |
 | Cheng-Long Wang et al. | [Towards Lifecycle Unlearning Commitment Management: Measuring Sample-level Unlearning Completeness](https://doi.org/10.48550/arXiv.2506.06112) | USENIX Security | [GitHub](https://github.com/Happy2Git/Unlearning_Inference_IAM) | 8 |
 | Jie Ren et al. | [SoK: Machine Unlearning for Large Language Models](https://doi.org/10.48550/arXiv.2506.09227) | arXiv.org | [HF](https://huggingface.co/spaces/raayraay/LLM-Fact-Forgetter) | 8 |
-| Jie Ren et al. | [Keeping an Eye on LLM Unlearning: The Hidden Risk and Remedy](https://doi.org/10.48550/arXiv.2506.00359) | arXiv.org | — | 8 |
+| Jie Ren et al. | [Keeping an Eye on LLM Unlearning: The Hidden Risk and Remedy](https://doi.org/10.48550/arXiv.2506.00359) | arXiv.org | [GitHub](https://github.com/OPTML-Group/Unlearn-Simple) | 8 |
 | Shoaib Ahmed Siddiqui et al. | [From Dormant to Deleted: Tamper-Resistant Unlearning Through Weight-Space Regularization](https://doi.org/10.48550/arXiv.2505.22310) | arXiv.org | [HF](https://huggingface.co/girishgupta/deep-ignorance-unfiltered_unlearned_wt_dist) | 8 |
 | Xiaoyu Ye et al. | [T2VUnlearning: A Concept Erasing Method for Text-to-Video Diffusion Models](https://doi.org/10.48550/arXiv.2505.17550) | arXiv.org | [GitHub](https://github.com/VDIGPKU/T2VUnlearning) | 8 |
 | Aravind Krishnan, Siva Reddy, Marius Mosbach | [Not All Data Are Unlearned Equally](https://doi.org/10.48550/arXiv.2504.05058) | arXiv.org | [GitHub](https://github.com/McGill-NLP/unequal-unlearning) | 8 |
-| Iraklis Premptis et al. | [AILS-NTUA at SemEval-2025 Task 4: Parameter-Efficient Unlearning for Large Language Models using Data Chunking](https://doi.org/10.48550/arXiv.2503.02443) | arXiv.org | — | 8 |
-| Bowen Fan et al. | [OpenGU: A Comprehensive Benchmark for Graph Unlearning](https://doi.org/10.48550/arXiv.2501.02728) | arXiv.org | — | 8 |
-| Yi-Yang Xie, Ping Liu, Zheng Zhang | [Erasing Concepts, Steering Generations: A Comprehensive Survey of Concept Suppression](https://doi.org/10.48550/arXiv.2505.19398) | arXiv.org | — | 8 |
+| Iraklis Premptis et al. | [AILS-NTUA at SemEval-2025 Task 4: Parameter-Efficient Unlearning for Large Language Models using Data Chunking](https://doi.org/10.48550/arXiv.2503.02443) | arXiv.org | [GitHub](https://github.com/iraklis07/llm-unlearning) | 8 |
+| Bowen Fan et al. | [OpenGU: A Comprehensive Benchmark for Graph Unlearning](https://doi.org/10.48550/arXiv.2501.02728) | arXiv.org | [GitHub](https://github.com/bwfan-bit/OpenGU) | 8 |
+| Yi-Yang Xie, Ping Liu, Zheng Zhang | [Erasing Concepts, Steering Generations: A Comprehensive Survey of Concept Suppression](https://doi.org/10.48550/arXiv.2505.19398) | arXiv.org | [GitHub](https://github.com/GantMan/nsfw) | 8 |
 | C. Kim, Yanjun Qi | [A Comprehensive Survey on Concept Erasure in Text-to-Image Diffusion Models](https://doi.org/10.48550/arXiv.2502.14896) | arXiv.org | [GitHub](https://github.com/lihuining/Awesome-Concepts-Erasing) | 8 |
 | Yifan Li et al. | [Analyzing and Mitigating Object Hallucination: A Training Bias Perspective](https://doi.org/10.48550/arXiv.2508.04567) | AAAI | [GitHub](https://github.com/AoiDragon/POPEv2) | 7 |
 | Hwan Chang, Hwanhee Lee | [Which Retain Set Matters for LLM Unlearning? A Case Study on Entity Unlearning](https://doi.org/10.48550/arXiv.2502.11441) | ACL | — | 7 |
@@ -618,17 +618,17 @@
 | Zhili Feng et al. | [Existing Large Language Model Unlearning Evaluations Are Inconclusive](https://doi.org/10.48550/arXiv.2506.00688) | arXiv.org | — | 7 |
 | Shengyuan Hu et al. | [BLUR: A Benchmark for LLM Unlearning Robust to Forget-Retain Overlap](https://doi.org/10.48550/arXiv.2506.15699) | arXiv.org | [HF](https://huggingface.co/datasets/forgelab/BLUR) | 7 |
 | Yujia Tong et al. | [Robust Machine Unlearning for Quantized Neural Networks via Adaptive Gradient Reweighting with Similar Labels](https://doi.org/10.48550/arXiv.2503.13917) | arXiv.org | — | 7 |
-| Stefan Schoepf et al. | [Redirection for Erasing Memory (REM): Towards a universal unlearning method for corrupted data](https://doi.org/10.48550/arXiv.2505.17730) | arXiv.org | — | 7 |
+| Stefan Schoepf et al. | [Redirection for Erasing Memory (REM): Towards a universal unlearning method for corrupted data](https://doi.org/10.48550/arXiv.2505.17730) | arXiv.org | [GitHub](https://github.com/google-deepmind/rem) | 7 |
 | Anil Ramakrishna et al. | [SemEval-2025 Task 4: Unlearning sensitive content from Large Language Models](https://doi.org/10.48550/arXiv.2504.02883) | arXiv.org | — | 7 |
 | Zhihua Tian et al. | [Sparse Autoencoder as a Zero-Shot Classifier for Concept Erasing in Text-to-Image Diffusion Models](https://doi.org/10.48550/arXiv.2503.09446) | arXiv.org | [GitHub](https://github.com/nansirun/interpret-then-deactivate) | 7 |
 | Jiahang Tu et al. | [CE-SDWV: Effective and Efficient Concept Erasure for Text-to-Image Diffusion Models via a Semantic-Driven Word Vocabulary](https://doi.org/10.48550/arXiv.2501.15562) | arXiv.org | [GitHub](https://github.com/TtuHamg/CE-SDWV) | 7 |
-| Yongliang Wu et al. | [Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient](https://doi.org/10.1609/aaai.v39i8.32917) | AAAI | — | 6 |
+| Yongliang Wu et al. | [Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient](https://doi.org/10.1609/aaai.v39i8.32917) | AAAI | [GitHub](https://github.com/jjbrophy47/machine_unlearning) | 6 |
 | Aobo Chen et al. | [A survey of security and privacy issues of machine unlearning](https://doi.org/10.1002/aaai.12209) | AI Magazine | — | 6 |
 | Lulu Xue et al. | [Towards Reliable Forgetting: A Survey on Machine Unlearning Verification](https://arxiv.org/abs/2506.15115) | CoRR | — | 6 |
 | Renyang Liu et al. | [Rethinking Machine Unlearning in Image Generation Models](https://doi.org/10.1145/3719027.3744793) | Conference on Computer and Communications Security | [GitHub](https://github.com/ryliu68/IGMU) | 6 |
 | Wenyu Wang et al. | [UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets](https://doi.org/10.48550/arXiv.2503.04693) | EMNLP | — | 6 |
 | Guangzhi Sun et al. | [Unlearning vs. Obfuscation: Are We Truly Removing Knowledge?](https://doi.org/10.48550/arXiv.2505.02884) | EMNLP | [GitHub](https://github.com/potsawee/unlearning-dfmcq) | 6 |
-| Nakyeong Yang et al. | [FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge](https://doi.org/10.48550/arXiv.2502.19207) | EMNLP | — | 6 |
+| Nakyeong Yang et al. | [FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge](https://doi.org/10.48550/arXiv.2502.19207) | EMNLP | [GitHub](https://github.com/centerforaisafety/wmdp) | 6 |
 | Naen Xu et al. | [VideoEraser: Concept Erasure in Text-to-Video Diffusion Models](https://doi.org/10.48550/arXiv.2508.15314) | EMNLP | [GitHub](https://github.com/bluedream02/VideoEraser) | 6 |
 | Zhenyu Yu et al. | [ForgetMe: Benchmarking the selective forgetting capabilities of generative models](https://doi.org/10.1016/j.engappai.2025.112087) | Engineering Applications of Artificial Intelligence | [GitHub](https://github.com/YuZhenyuLindy/ForgetMe) | 6 |
 | N. Sepahvand et al. | [Selective Unlearning via Representation Erasure Using Domain Adversarial Training](https://www.semanticscholar.org/paper/c7c555a04edc245750ef816346e8ed7dc89fa321) | ICLR | — | 6 |
@@ -647,7 +647,7 @@
 | Xiang Li, Wenqi Wei, B. Thuraisingham | [MUBox: A Critical Evaluation Framework of Deep Machine Unlearning [Systematization of Knowledge Paper]](https://doi.org/10.1145/3734436.3734454) | ACM Symposium on Access Control Models and Technologies | [GitHub](https://github.com/Jessegator/MUBox) | 5 |
 | Ivanna Daniela Cevallos et al. | [A Systematic Literature Review of Machine Unlearning Techniques in Neural Networks](https://doi.org/10.3390/computers14040150) | Computers | — | 5 |
 | Shaswati Saha et al. | [Side Effects of Erasing Concepts from Diffusion Models](https://doi.org/10.48550/arXiv.2508.15124) | EMNLP | [GitHub](https://github.com/shaswati1/see) | 5 |
-| Bang Trinh Tran To, Thai Le | [Harry Potter is Still Here! Probing Knowledge Leakage in Targeted Unlearned Large Language Models via Automated Adversarial Prompting](https://doi.org/10.48550/arXiv.2505.17160) | EMNLP | — | 5 |
+| Bang Trinh Tran To, Thai Le | [Harry Potter is Still Here! Probing Knowledge Leakage in Targeted Unlearned Large Language Models via Automated Adversarial Prompting](https://doi.org/10.48550/arXiv.2505.17160) | EMNLP | [GitHub](https://github.com/jjbrophy47/machine_unlearning) | 5 |
 | Martin Van Waerebeke et al. | [When to Forget? Complexity Trade-offs in Machine Unlearning](https://doi.org/10.48550/arXiv.2502.17323) | ICML | — | 5 |
 | Ziyao Liu et al. | [Privacy-Preserving Federated Unlearning With Certified Client Removal](https://doi.org/10.1109/tifs.2025.3555868) | IEEE Transactions on Information Forensics and Security | — | 5 |
 | Xiao Liu et al. | [BlockFUL: Enabling Unlearning in Blockchained Federated Learning](https://doi.org/10.1109/tifs.2025.3583109) | IEEE Transactions on Information Forensics and Security | — | 5 |
@@ -658,9 +658,9 @@
 | Ayush K. Varshney, Konstantinos Vandikas, Vicenç Torra | [Unlearning Clients, Features and Samples in Vertical Federated Learning](https://doi.org/10.56553/popets-2025-0048) | Proceedings on Privacy Enhancing Technologies | [GitHub](https://github.com/CSQianDong/Awesome-arXiv-Daily-Reporter) | 5 |
 | Shanshan Ye, Jie Lü, Guangquan Zhang | [Towards Safe Machine Unlearning: A Paradigm that Mitigates Performance Degradation](https://doi.org/10.1145/3696410.3714638) | The Web Conference | — | 5 |
 | Dang Huu-Tien et al. | [Improving LLM Unlearning Robustness via Random Perturbations](https://arxiv.org/abs/2501.19202) | Trans. Mach. Learn. Res | [GitHub](https://github.com/RebelsNLU-jaist/llmu-robustness) | 5 |
-| Yezi Liu et al. | [Enabling Group Fairness in Graph Unlearning via Bi-level Debiasing](https://doi.org/10.48550/arXiv.2505.09702) | arXiv.org | — | 5 |
+| Yezi Liu et al. | [Enabling Group Fairness in Graph Unlearning via Bi-level Debiasing](https://doi.org/10.48550/arXiv.2505.09702) | arXiv.org | [GitHub](https://github.com/brandeis-machine-learning/FairAdj) | 5 |
 | Haolin Zou et al. | [Certified Data Removal Under High-dimensional Settings](https://doi.org/10.48550/arXiv.2505.07640) | arXiv.org | — | 5 |
-| Tianyang Xu et al. | [SUV: Scalable Large Language Model Copyright Compliance with Regularized Selective Unlearning](https://doi.org/10.48550/arXiv.2503.22948) | arXiv.org | — | 5 |
+| Tianyang Xu et al. | [SUV: Scalable Large Language Model Copyright Compliance with Regularized Selective Unlearning](https://doi.org/10.48550/arXiv.2503.22948) | arXiv.org | [GitHub](https://github.com/xz-liu/SUV) | 5 |
 | Matthew Khoriaty et al. | [Don't Forget It! Conditional Sparse Autoencoder Clamping Works for Unlearning](https://doi.org/10.48550/arXiv.2503.11127) | arXiv.org | [GitHub](https://github.com/AMindToThink/sae_jailbreak_unlearning) | 5 |
 | Linian Wang, Leye Wang | [Forgetting Any Data at Any Time: A Theoretically Certified Unlearning Framework for Vertical Federated Learning](https://doi.org/10.48550/arXiv.2502.17081) | arXiv.org | [GitHub](https://github.com/wangln19/vertical-federated-unlearning) | 5 |
 | Tomer Ashuach et al. | [CRISP: Persistent Concept Unlearning via Sparse Autoencoders](https://doi.org/10.48550/arXiv.2508.13650) | arXiv.org | [GitHub](https://github.com/tomerashuach/CRISP) | 5 |
@@ -691,8 +691,8 @@
 | Ayush K. Varshney, Vicenç Torra | [Efficient federated unlearning under plausible deniability](https://doi.org/10.1007/s10994-024-06685-x) | Machine Learning | [GitHub](https://github.com/Ayush-Umu/Federated-Unlearning-under-Plausible-Deniability) | 4 |
 | Yu-Qin Chen, Shi-Xin Zhang | [Superior resilience to poisoning and amenability to unlearning in quantum machine learning](https://doi.org/10.1038/s41467-026-70420-4) | Nature Communications | — | 4 |
 | Wenhan Wu, Jiawei Jiang, Chuang Hu | [Aegis: Post-Training Attribute Unlearning in Federated Recommender Systems against Attribute Inference Attacks](https://doi.org/10.1145/3696410.3714823) | The Web Conference | — | 4 |
-| Nima Naderloui et al. | [Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective](https://doi.org/10.48550/arXiv.2506.13009) | USENIX Security | — | 4 |
-| Shariqah Hossain, Lalana Kagal | [Investigating Model Editing for Unlearning in Large Language Models](https://doi.org/10.48550/arXiv.2512.20794) | arXiv.org | — | 4 |
+| Nima Naderloui et al. | [Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective](https://doi.org/10.48550/arXiv.2506.13009) | USENIX Security | [GitHub](https://github.com/datasec-lab/Ruli) | 4 |
+| Shariqah Hossain, Lalana Kagal | [Investigating Model Editing for Unlearning in Large Language Models](https://doi.org/10.48550/arXiv.2512.20794) | arXiv.org | [GitHub](https://github.com/bostonadam525/Training-LLMs---From-Scratch-to-Fine-Tuning) | 4 |
 | Qingjie Zhang et al. | [Understanding the Dilemma of Unlearning for Large Language Models](https://doi.org/10.48550/arXiv.2509.24675) | arXiv.org | — | 4 |
 | Zhaoyang Chu et al. | [Scrub It Out! Erasing Sensitive Memorization in Code Language Models via Machine Unlearning](https://doi.org/10.1145/3744916.3764573) | arXiv.org | [GitHub](https://github.com/Zhaoyang-Chu/code-unlearning) | 4 |
 | Yan Scholten et al. | [Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs](https://doi.org/10.48550/arXiv.2507.04219) | arXiv.org | [GitHub](https://github.com/partial-model-collapse-unlearning/pmc-unlearning) | 4 |
@@ -706,15 +706,15 @@
 | Yash Sinha et al. | [Step-by-Step Reasoning Attack: Revealing 'Erased' Knowledge in Large Language Models](https://doi.org/10.48550/arXiv.2506.17279) | arXiv.org | — | 4 |
 | Zhaopan Xu et al. | [PEBench: A Fictitious Dataset to Benchmark Machine Unlearning for Multimodal Large Language Models](https://doi.org/10.48550/arXiv.2503.12545) | arXiv.org | [HF](https://huggingface.co/datasets/xuzhaopan/PEBench) | 4 |
 | Yejin Kim et al. | [Improving Fisher Information Estimation and Efficiency for LoRA-based LLM Unlearning](https://doi.org/10.48550/arXiv.2508.21300) | arXiv.org | [GitHub](https://github.com/kyj93790/VILA) | 4 |
-| Woosung Choi et al. | [Large-Scale Training Data Attribution for Music Generative Models via Unlearning](https://doi.org/10.48550/arXiv.2506.18312) | arXiv.org | — | 4 |
-| Ping Liu, Chi Zhang | [Erased or Dormant? Rethinking Concept Erasure Through Reversibility](https://doi.org/10.48550/arXiv.2505.16174) | arXiv.org | — | 4 |
+| Woosung Choi et al. | [Large-Scale Training Data Attribution for Music Generative Models via Unlearning](https://doi.org/10.48550/arXiv.2506.18312) | arXiv.org | [GitHub](https://github.com/Stability-AI/stable-audio-tools) | 4 |
+| Ping Liu, Chi Zhang | [Erased or Dormant? Rethinking Concept Erasure Through Reversibility](https://doi.org/10.48550/arXiv.2505.16174) | arXiv.org | [HF](https://huggingface.co/Lykon/DreamShaper) | 4 |
 | Subhodip Panda, Shashwat Sourav, Prathosh AP | [Partially Blinded Unlearning: Class Unlearning for Deep Networks from Bayesian Perspective](https://doi.org/10.1609/aaai.v39i6.32682) | AAAI | — | 3 |
 | Yash Sinha, Murari Mandal, Mohan Kankanhalli | [Multi-Modal Recommendation Unlearning for Legal, Licensing, and Modality Constraints](https://doi.org/10.1609/aaai.v39i12.33367) | AAAI | [GitHub](https://github.com/MachineUnlearn/MMRecUN) | 3 |
 | Wei Qian et al. | [Towards Benchmarking Privacy Vulnerabilities in Selective Forgetting with Large Language Models](https://doi.org/10.48550/arXiv.2512.18035) | AAAI | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 3 |
 | Lulu Xue et al. | [Dual-View Inference Attack: Machine Unlearning Amplifies Privacy Exposure](https://doi.org/10.48550/arXiv.2512.16126) | AAAI | — | 3 |
 | Zhe-Rui Yang et al. | [Erase Then Rectify: A Training-Free Parameter Editing Approach for Cost-Effective Graph Unlearning](https://doi.org/10.1609/aaai.v39i12.33423) | AAAI | [GitHub](https://github.com/AllminerLab/ETR) | 3 |
 | Zheyuan Liu et al. | [Disentangling Biased Knowledge from Reasoning in Large Language Models via Machine Unlearning](https://doi.org/10.18653/v1/2025.acl-long.305) | ACL | — | 3 |
-| Yicheng Lang et al. | [Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis](https://doi.org/10.48550/arXiv.2502.13996) | ACL | — | 3 |
+| Yicheng Lang et al. | [Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis](https://doi.org/10.48550/arXiv.2502.13996) | ACL | [GitHub](https://github.com/lyicheng619/UNCD) | 3 |
 | Ci Zhang et al. | [Towards Memory-Efficient and Sustainable Machine Unlearning on Edge using Zeroth-Order Optimizer](https://doi.org/10.1145/3716368.3735273) | ACM Great Lakes Symposium on VLSI | — | 3 |
 | Nexhi Sula et al. | [Silver Linings in the Shadows: Harnessing Membership Fingerprinting for Machine Unlearning](https://doi.org/10.1109/cns66487.2025.11195030) | CNS | — | 3 |
 | Naveen George et al. | [The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in Text-to-Image Diffusion Models](https://doi.org/10.1109/cvpr52734.2025.01250) | CVPR | [GitHub](https://github.com/DIL-IITH/TIU) | 3 |
@@ -726,15 +726,15 @@
 | Khaoula ElBedoui, Walid Barhoumi, Jungwon Cho | [<scp>SoK</scp> : Federated Learning and Unlearning for Medical Image Analysis](https://doi.org/10.1111/exsy.70063) | Expert Systems | — | 3 |
 | Rui Shao et al. | [Law LLM unlearning via interfere prompt, review output and update parameter: new challenges, method and baseline](https://doi.org/10.1016/j.eswa.2025.128612) | Expert Systems with Applications | — | 3 |
 | Sai Siddhartha Chary Aylapuram, V. Elluru, Shivang Agarwal | [Bias-Aware Machine Unlearning: Towards Fairer Vision Models via Controllable Forgetting](https://doi.org/10.1109/ICCVW69036.2025.00270) | ICCV | — | 3 |
-| Miao Yu et al. | [UniErase: Towards Balanced and Precise Unlearning in Language Models](https://arxiv.org/abs/2505.15674) | ICLR Conference Withdrawn Submission | — | 3 |
+| Miao Yu et al. | [UniErase: Towards Balanced and Precise Unlearning in Language Models](https://arxiv.org/abs/2505.15674) | ICLR Conference Withdrawn Submission | [GitHub](https://github.com/Ymm-cll/UniErase) | 3 |
 | N. Sepahvand et al. | [Leveraging Per-Instance Privacy for Machine Unlearning](https://doi.org/10.48550/arXiv.2505.18786) | ICML | — | 3 |
-| Taesoo Kim et al. | [Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech](https://doi.org/10.48550/arXiv.2507.20140) | ICML | — | 3 |
+| Taesoo Kim et al. | [Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech](https://doi.org/10.48550/arXiv.2507.20140) | ICML | [GitHub](https://github.com/mokcho/mokcho) | 3 |
 | Dahuin Jung | [EntUn: Mitigating the forget-retain dilemma in unlearning via entropy](https://doi.org/10.1016/j.icte.2025.06.007) | ICT express | — | 3 |
 | Amrita Roy Chowdhury, Zhifeng Kong, Kamalika Chaudhuri | [On the Reliability of Membership Inference Attacks](https://doi.org/10.1109/SaTML64287.2025.00036) | IEEE Conference on Secure and Trustworthy Machine Learning (SaTML) | — | 3 |
 | Kunho Kim et al. | [GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in LLMs](https://doi.org/10.1109/IJCNN64981.2025.11229073) | IEEE International Joint Conference on Neural Network | [GitHub](https://github.com/piso7/piso7) | 3 |
 | Yang Zhao et al. | [Exploring Federated Unlearning: Review, Comparison, and Insights](https://doi.org/10.1109/mnet.2025.3571462) | IEEE Network | — | 3 |
 | Yu Jiang et al. | [Certifying the Right to Be Forgotten: Primal–Dual Optimization for Sample and Label Unlearning in Vertical Federated Learning](https://doi.org/10.1109/tifs.2025.3636788) | IEEE Transactions on Information Forensics and Security | — | 3 |
-| Jian Chen et al. | [FedMUA: Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks](https://doi.org/10.1109/tifs.2025.3531141) | IEEE Transactions on Information Forensics and Security | — | 3 |
+| Jian Chen et al. | [FedMUA: Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks](https://doi.org/10.1109/tifs.2025.3531141) | IEEE Transactions on Information Forensics and Security | [GitHub](https://github.com/ity207/FedMUA) | 3 |
 | Changjun Zhou et al. | [Federated Unlearning With Fast Recovery](https://doi.org/10.1109/tmc.2025.3563265) | IEEE Transactions on Mobile Computing | — | 3 |
 | Ningning Ding et al. | [Incentivized Federated Learning and Unlearning](https://doi.org/10.1109/tmc.2025.3557857) | IEEE Transactions on Mobile Computing | — | 3 |
 | Yash Sinha, Murari Mandal, Mohan Kankanhalli | [Distill to Delete: Unlearning in Graph Networks With Knowledge Distillation](https://doi.org/10.1109/tnnls.2025.3607995) | IEEE Transactions on Neural Networks and Learning Systems | [GitHub](https://github.com/MachineUnlearn/D2DGN) | 3 |
@@ -752,17 +752,17 @@
 | Kongyang Chen et al. | [Fast yet versatile machine unlearning for deep neural networks](https://doi.org/10.1016/j.neunet.2025.107648) | Neural Networks | — | 3 |
 | Zhaobo Lu et al. | [FeaUn: Feature unlearning in vertical federated learning for IIoT against feature inference attacks](https://doi.org/10.1016/j.neucom.2025.131110) | Neurocomputing | — | 3 |
 | Pratiksha Thaker et al. | [Position: LLM Unlearning Benchmarks are Weak Measures of Progress](https://doi.org/10.1109/satml64287.2025.00035) | SaTML | — | 3 |
-| A. Richardson et al. | [Rethinking the Vulnerability of Concept Erasure and a New Method](https://arxiv.org/abs/2502.17537) | Submitted to ICLR | — | 3 |
+| A. Richardson et al. | [Rethinking the Vulnerability of Concept Erasure and a New Method](https://arxiv.org/abs/2502.17537) | Submitted to ICLR | [GitHub](https://github.com/notAI-tech/NudeNet) | 3 |
 | Weiqi Wang et al. | [TAPE: Tailored Posterior Difference for Auditing of Machine Unlearning](https://doi.org/10.1145/3696410.3714875) | The Web Conference | [GitHub](https://github.com/wwq5-code/TAPE) | 3 |
 | T. Shaik et al. | [Quantum Machine Unlearning: Foundations, Mechanisms, and Taxonomy](https://doi.org/10.48550/arXiv.2511.00406) | arXiv.org | — | 3 |
 | Ioannis Mavrothalassitis et al. | [Ascent Fails to Forget](https://doi.org/10.48550/arXiv.2509.26427) | arXiv.org | — | 3 |
 | Chengcan Wu et al. | [Reliable Unlearning Harmful Information in LLMs with Metamorphosis Representation Projection](https://doi.org/10.48550/arXiv.2508.15449) | arXiv.org | [GitHub](https://github.com/ChengcanWu/MRP) | 3 |
 | Xiaohua Feng et al. | [A Survey on Generative Model Unlearning: Fundamentals, Taxonomy, Evaluation, and Future Direction](https://doi.org/10.48550/arXiv.2507.19894) | arXiv.org | [GitHub](https://github.com/caxLee/Generative-model-unlearning-survey) | 3 |
 | Yang Xiao et al. | [The Right to be Forgotten in Pruning: Unveil Machine Unlearning on Sparse Models](https://doi.org/10.48550/arXiv.2507.18725) | arXiv.org | [GitHub](https://github.com/NKUShaw/SparseModels) | 3 |
-| Dimitri Staufer | [What Should LLMs Forget? Quantifying Personal Data in LLMs for Right-to-Be-Forgotten Requests](https://doi.org/10.48550/arXiv.2507.11128) | arXiv.org | — | 3 |
-| Taha Entesari et al. | [Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models](https://doi.org/10.48550/arXiv.2506.05314) | arXiv.org | — | 3 |
+| Dimitri Staufer | [What Should LLMs Forget? Quantifying Personal Data in LLMs for Right-to-Be-Forgotten Requests](https://doi.org/10.48550/arXiv.2507.11128) | arXiv.org | [HF](https://huggingface.co/datasets/humarin/chatgpt-paraphrases) | 3 |
+| Taha Entesari et al. | [Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models](https://doi.org/10.48550/arXiv.2506.05314) | arXiv.org | [GitHub](https://github.com/locuslab/open-unlearning) | 3 |
 | Jianheng Tang et al. | [ACU: Analytic Continual Unlearning for Efficient and Exact Forgetting with Privacy Preservation](https://doi.org/10.48550/arXiv.2505.12239) | arXiv.org | — | 3 |
-| Ali Ebrahimpour Boroojeny, Hari Sundaram, Varun Chandrasekaran | [AMUN: Adversarial Machine UNlearning](https://doi.org/10.48550/arXiv.2503.00917) | arXiv.org | — | 3 |
+| Ali Ebrahimpour Boroojeny, Hari Sundaram, Varun Chandrasekaran | [AMUN: Adversarial Machine UNlearning](https://doi.org/10.48550/arXiv.2503.00917) | arXiv.org | [GitHub](https://github.com/Ali-E/AMUN) | 3 |
 | Wonje Jeung et al. | [DUSK: Do Not Unlearn Shared Knowledge](https://doi.org/10.48550/arXiv.2505.15209) | arXiv.org | [GitHub](https://github.com/AI-ISL/DUSK) | 3 |
 | Aviv Shamsian et al. | [Go Beyond Your Means: Unlearning with Per-Sample Gradient Orthogonalization](https://doi.org/10.48550/arXiv.2503.02312) | arXiv.org | — | 3 |
 | Lulu Xue et al. | [Towards Reliable Forgetting: A Survey on Machine Unlearning Verification, Challenges, and Future Directions](https://doi.org/10.48550/arXiv.2506.15115) | arXiv.org | — | 3 |
@@ -779,11 +779,11 @@
 | Yuyang Xue et al. | [CRCE: Coreference-Retention Concept Erasure in Text-to-Image Diffusion Models](https://doi.org/10.48550/arXiv.2503.14232) | arXiv.org | [GitHub](https://github.com/vios-s/CRCE) | 3 |
 | Arman Zarei et al. | [Localizing Knowledge in Diffusion Transformers](https://doi.org/10.48550/arXiv.2505.18832) | arXiv.org | [GitHub](https://github.com/ArmanZarei/DiT-Knowledge-Localization) | 3 |
 | Sangamesh Kodge et al. | [SAP: Corrective Machine Unlearning with Scaled Activation Projection for Label Noise Robustness](https://doi.org/10.1609/aaai.v39i17.33972) | AAAI | [GitHub](https://github.com/sangamesh-kodge/LabelNoiseRobustness) | 2 |
-| Kunhao Li et al. | [Cross-Modal Unlearning via Influential Neuron Path Editing in Multimodal Large Language Models](https://doi.org/10.48550/arXiv.2511.06793) | AAAI | — | 2 |
+| Kunhao Li et al. | [Cross-Modal Unlearning via Influential Neuron Path Editing in Multimodal Large Language Models](https://doi.org/10.48550/arXiv.2511.06793) | AAAI | [GitHub](https://github.com/PreckLi/MIP-Editor) | 2 |
 | Shuai Zhao et al. | [Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation](https://doi.org/10.18653/v1/2025.findings-acl.255) | ACL | [GitHub](https://github.com/shuaizhao95/w2sdefense) | 2 |
 | S. Vasilev et al. | [Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation](https://doi.org/10.48550/arXiv.2505.06027) | ACL | [GitHub](https://github.com/eBay/unilogit-acl-2025) | 2 |
 | Ignacio Marco-Pérez et al. | [The Many Faces of Data Deletion: On the Significance and Implications of Deleting Data](https://doi.org/10.1145/3779299) | ACM Computing Surveys | — | 2 |
-| Feihong Yu et al. | [LEGO: A Lightweight and Efficient Multiple-Attribute Unlearning Framework for Recommender Systems](https://doi.org/10.1145/3746027.3755604) | ACM Multimedia | — | 2 |
+| Feihong Yu et al. | [LEGO: A Lightweight and Efficient Multiple-Attribute Unlearning Framework for Recommender Systems](https://doi.org/10.1145/3746027.3755604) | ACM Multimedia | [GitHub](https://github.com/mtuann/machine-unlearning-papers) | 2 |
 | Nguyen, Viet, Patel, Vishal M. | [CGCE: Classifier-Guided Concept Erasure in Generative Models](https://doi.org/10.48550/arXiv.2511.05865) | ArXiv.org | — | 2 |
 | Liu, Yezi et al. | [Recover-to-Forget: Gradient Reconstruction from LoRA for Efficient LLM Unlearning](https://doi.org/10.48550/arXiv.2512.07374) | ArXiv.org | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 2 |
 | Uyen N. Le-Khac, Vinh Truong | [A survey on large language models unlearning: taxonomy, evaluations, and future directions](https://doi.org/10.1007/s10462-025-11376-7) | Artificial Intelligence Review | — | 2 |
@@ -795,7 +795,7 @@
 | Karuna Bhaila, Minh-Hao Van, Xintao Wu | [Soft Prompting for Unlearning in Large Language Models](https://doi.org/10.18653/v1/2025.naacl-long.204) | CoRR | [GitHub](https://github.com/karuna-bhaila/llm_unlearning) | 2 |
 | Yi-Xing Peng et al. | [Person De-reidentification: A Variation-guided Identity Shift Modeling](https://doi.org/10.1109/CVPR52734.2025.02731) | Computer Vision and Pattern Recognition | [GitHub](https://github.com/yxsysu/Person-DeReID) | 2 |
 | Manaar Alam, Hithem Lamri, Michail Maniatakos | [ReVeil: Unconstrained Concealed Backdoor Attack on Deep Neural Networks using Machine Unlearning](https://doi.org/10.1109/dac63849.2025.11133199) | DAC | — | 2 |
-| Manaar Alam, Hithem Lamri, Michail Maniatakos | [ReVeil: Unconstrained Concealed Backdoor Attack on Deep Neural Networks using Machine Unlearning](https://doi.org/10.1109/DAC63849.2025.11133199) | Design Automation Conference | — | 2 |
+| Manaar Alam, Hithem Lamri, Michail Maniatakos | [ReVeil: Unconstrained Concealed Backdoor Attack on Deep Neural Networks using Machine Unlearning](https://doi.org/10.1109/DAC63849.2025.11133199) | Design Automation Conference | [GitHub](https://github.com/momalab/ReVeil) | 2 |
 | Wonje Jeung, Sangyeon Yoon, Albert No | [SEPS: A Separability Measure for Robust Unlearning in LLMs](https://doi.org/10.48550/arXiv.2505.14832) | EMNLP | [GitHub](https://github.com/AI-ISL/SEPS) | 2 |
 | Xianren Zhang et al. | [SUA: Stealthy Multimodal Large Language Model Unlearning Attack](https://doi.org/10.18653/v1/2025.emnlp-main.565) | EMNLP | — | 2 |
 | Yuntao Wen et al. | [Lock on Target! Precision Unlearning via Directional Control](https://doi.org/10.18653/v1/2025.findings-emnlp.1021) | EMNLP | — | 2 |
@@ -808,7 +808,7 @@
 | Jianxin Zhang et al. | [Model Recovery in Federated Unlearning With Restricted Server Data Resources](https://doi.org/10.1109/jiot.2025.3540463) | IEEE Internet of Things Journal | — | 2 |
 | Pu Wang, Xin Su, Zhuoran Zheng | [Instance-Wise Privacy Preservation for All-in-One Image Restoration](https://doi.org/10.1109/LSP.2025.3624077) | IEEE Signal Processing Letters | — | 2 |
 | Yang Wang, Xue Li, Siguang Chen | [Malicious Clients and Contribution Co-Aware Federated Unlearning](https://doi.org/10.1109/tai.2025.3556092) | IEEE Transactions on Artificial Intelligence | — | 2 |
-| Weiqi Wang et al. | [CRFU: Compressive Representation Forgetting Against Privacy Leakage on Machine Unlearning](https://doi.org/10.1109/tdsc.2025.3542092) | IEEE Transactions on Dependable and Secure Computing | — | 2 |
+| Weiqi Wang et al. | [CRFU: Compressive Representation Forgetting Against Privacy Leakage on Machine Unlearning](https://doi.org/10.1109/tdsc.2025.3542092) | IEEE Transactions on Dependable and Secure Computing | [GitHub](https://github.com/wwq5-code/CRFU) | 2 |
 | Yixiang Pan et al. | [The Safety Illusion? Testing the Boundaries of Concept Removal in Diffusion Models](https://doi.org/10.1109/TIP.2025.3620665) | IEEE Transactions on Image Processing | — | 2 |
 | Weiqi Wang et al. | [Evaluation of Machine Unlearning Through Model Difference](https://doi.org/10.1109/tifs.2025.3571666) | IEEE Transactions on Information Forensics and Security | — | 2 |
 | Fan Li et al. | [TCGU: Data-Centric Graph Unlearning Based on Transferable Condensation](https://doi.org/10.1109/tkde.2025.3638465) | IEEE Transactions on Knowledge and Data Engineering | [GitHub](https://github.com/Frostland12138/Awesome-Graph-Scaling) | 2 |
@@ -835,34 +835,34 @@
 | Aaradhya Pandey et al. | [Gaussian Certified Unlearning in High Dimensions: A Hypothesis Testing Approach](https://doi.org/10.48550/arXiv.2510.13094) | arXiv.org | — | 2 |
 | Kai Qin et al. | [Distribution Preference Optimization: A Fine-grained Perspective for LLM Unlearning](https://doi.org/10.48550/arXiv.2510.04773) | arXiv.org | — | 2 |
 | H. Lee, Ruixuan Liu, Li Xiong | [Direct Token Optimization: A Self-contained Approach to Large Language Model Unlearning](https://doi.org/10.48550/arXiv.2510.00125) | arXiv.org | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 2 |
-| Xiang Li et al. | [LoReUn: Data Itself Implicitly Provides Cues to Improve Machine Unlearning](https://doi.org/10.48550/arXiv.2507.22499) | arXiv.org | — | 2 |
+| Xiang Li et al. | [LoReUn: Data Itself Implicitly Provides Cues to Improve Machine Unlearning](https://doi.org/10.48550/arXiv.2507.22499) | arXiv.org | [GitHub](https://github.com/OPTML-Group/Unlearn-Saliency) | 2 |
 | Yaxin Xiao et al. | [Reminiscence Attack on Residuals: Exploiting Approximate Machine Unlearning for Privacy](https://doi.org/10.48550/arXiv.2507.20573) | arXiv.org | — | 2 |
 | Xuyang Zhong, Hao Luo, Chen Liu | [DualOptim: Enhancing Efficacy and Stability in Machine Unlearning with Dual Optimizers](https://doi.org/10.48550/arXiv.2504.15827) | arXiv.org | — | 2 |
 | Yegor Klochkov | [A mean teacher algorithm for unlearning of language models](https://doi.org/10.48550/arXiv.2504.13388) | arXiv.org | [GitHub](https://github.com/yklochkov-bytedance/mt-unlearn) | 2 |
 | Yijun Quan, Zushu Li, Giovanni Montana | [Efficient Verified Machine Unlearning For Distillation](https://doi.org/10.48550/arXiv.2503.22539) | arXiv.org | [GitHub](https://github.com/YijunQuan/VerifiedMU4Distill) | 2 |
-| Zonghao Huang, N. Gong, Michael K. Reiter | [Instance-Level Data-Use Auditing of Visual ML Models](https://doi.org/10.48550/arXiv.2503.22413) | arXiv.org | — | 2 |
+| Zonghao Huang, N. Gong, Michael K. Reiter | [Instance-Level Data-Use Auditing of Visual ML Models](https://doi.org/10.48550/arXiv.2503.22413) | arXiv.org | [GitHub](https://github.com/tensorflow/privacy/tree) | 2 |
 | Yingdan Shi, Ren Wang | [Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach](https://doi.org/10.48550/arXiv.2501.19403) | arXiv.org | [GitHub](https://github.com/TIML-Group/Conformal-Prediction-Unlearning) | 2 |
-| Jaeheun Jung et al. | [OPC: One-Point-Contraction Unlearning Toward Deep Feature Forgetting](https://doi.org/10.48550/arXiv.2507.07754) | arXiv.org | — | 2 |
+| Jaeheun Jung et al. | [OPC: One-Point-Contraction Unlearning Toward Deep Feature Forgetting](https://doi.org/10.48550/arXiv.2507.07754) | arXiv.org | [GitHub](https://github.com/pytorch/vision) | 2 |
 | Marco Arazzi, Antonino Nocera, P. Vinod | [When Forgetting Triggers Backdoors: A Clean Unlearning Attack](https://doi.org/10.48550/arXiv.2506.12522) | arXiv.org | — | 2 |
 | Alessio Mora et al. | [Federated Unlearning Made Practical: Seamless Integration via Negated Pseudo-Gradients](https://doi.org/10.48550/arXiv.2504.05822) | arXiv.org | — | 2 |
 | Sadiah Qureshi et al. | [Exploring Incremental Unlearning: Techniques, Challenges, and Future Directions](https://doi.org/10.48550/arXiv.2502.16708) | arXiv.org | — | 2 |
 | Hao Zheng et al. | [OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models](https://doi.org/10.48550/arXiv.2510.22535) | arXiv.org | [GitHub](https://github.com/zh121800/OFFSIDE) | 2 |
-| Chenchen Tan et al. | [Wisdom is Knowing What not to Say: Hallucination-Free LLMs Unlearning via Attention Shifting](https://doi.org/10.48550/arXiv.2510.17210) | arXiv.org | — | 2 |
-| Junbeom Kim et al. | [Scalable and Robust LLM Unlearning by Correcting Responses with Retrieved Exclusions](https://doi.org/10.48550/arXiv.2509.25973) | arXiv.org | — | 2 |
+| Chenchen Tan et al. | [Wisdom is Knowing What not to Say: Hallucination-Free LLMs Unlearning via Attention Shifting](https://doi.org/10.48550/arXiv.2510.17210) | arXiv.org | [GitHub](https://github.com/google-research/lm-extraction-benchmark) | 2 |
+| Junbeom Kim et al. | [Scalable and Robust LLM Unlearning by Correcting Responses with Retrieved Exclusions](https://doi.org/10.48550/arXiv.2509.25973) | arXiv.org | [GitHub](https://github.com/the-jb/cure) | 2 |
 | Hang Yan, Zheyuan Liu, Meng Jiang | [Dual-Space Smoothness for Robust and Balanced LLM Unlearning](https://doi.org/10.48550/arXiv.2509.23362) | arXiv.org | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 2 |
-| Nakyeong Yang et al. | [Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning](https://doi.org/10.48550/arXiv.2509.22263) | arXiv.org | — | 2 |
+| Nakyeong Yang et al. | [Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning](https://doi.org/10.48550/arXiv.2509.22263) | arXiv.org | [GitHub](https://github.com/centerforaisafety/wmdp) | 2 |
 | Xiaoyuan Zhu et al. | [LLM Unlearning Without an Expert Curated Dataset](https://doi.org/10.48550/arXiv.2508.06595) | arXiv.org | [GitHub](https://github.com/xyzhu123/Synthetic_Textbook) | 2 |
 | Huazheng Wang et al. | [Erasing Without Remembering: Safeguarding Knowledge Forgetting in Large Language Models](https://doi.org/10.48550/arXiv.2502.19982) | arXiv.org | [GitHub](https://github.com/MaybeLizzy/PERMU) | 2 |
 | Zhen Zeng et al. | [Towards Benign Memory Forgetting for Selective Multimodal Large Language Model Unlearning](https://doi.org/10.48550/arXiv.2511.20196) | arXiv.org | — | 2 |
 | Chongyu Fan et al. | [LLM Unlearning Under the Microscope: A Full-Stack View on Methods and Metrics](https://doi.org/10.48550/arXiv.2510.07626) | arXiv.org | [GitHub](https://github.com/OPTML-Group/Unlearn-FullStack) | 2 |
 | Bingqi Shang et al. | [Forgetting to Forget: Attention Sink as A Gateway for Backdooring LLM Unlearning](https://doi.org/10.48550/arXiv.2510.17021) | arXiv.org | [GitHub](https://github.com/OPTML-Group/Unlearn-Backdoor) | 2 |
 | Tianwei Ni et al. | [Teaching Large Language Models to Reason through Learning and Forgetting](https://doi.org/10.48550/arXiv.2504.11364) | arXiv.org | — | 2 |
-| Hengrui Jia et al. | [The Erasure Illusion: Stress-Testing the Generalization of LLM Forgetting Evaluation](https://doi.org/10.48550/arXiv.2512.19025) | arXiv.org | [GitHub](https://github.com/nick-jia/The-Erasure-Illusion-Stress-Testing-the-Generalization-of-LLM-Forgetting-Evaluation-) | 2 |
-| Xun Yuan et al. | [Towards Irreversible Machine Unlearning for Diffusion Models](https://doi.org/10.48550/arXiv.2512.03564) | arXiv.org | — | 2 |
+| Hengrui Jia et al. | [The Erasure Illusion: Stress-Testing the Generalization of LLM Forgetting Evaluation](https://doi.org/10.48550/arXiv.2512.19025) | arXiv.org | — | 2 |
+| Xun Yuan et al. | [Towards Irreversible Machine Unlearning for Diffusion Models](https://doi.org/10.48550/arXiv.2512.03564) | arXiv.org | [GitHub](https://github.com/OPTML-Group/UnlearnCanvas) | 2 |
 | Justin Lee et al. | [Continual Unlearning for Text-to-Image Diffusion Models: A Regularization Perspective](https://doi.org/10.48550/arXiv.2511.07970) | arXiv.org | — | 2 |
 | Jiaqi Liu, Lan Zhang, Xiaoyong Yuan | [DyME: Dynamic Multi-Concept Erasure in Diffusion Models with Bi-Level Orthogonal LoRA Adaptation](https://doi.org/10.48550/arXiv.2509.21433) | arXiv.org | — | 2 |
 | Finn Carter | [TRACE: Trajectory-Constrained Concept Erasure in Diffusion Models](https://doi.org/10.48550/arXiv.2505.23312) | arXiv.org | — | 2 |
-| Die Chen et al. | [Comprehensive Evaluation and Analysis for NSFW Concept Erasure in Text-to-Image Diffusion Models](https://doi.org/10.48550/arXiv.2505.15450) | arXiv.org | — | 2 |
+| Die Chen et al. | [Comprehensive Evaluation and Analysis for NSFW Concept Erasure in Text-to-Image Diffusion Models](https://doi.org/10.48550/arXiv.2505.15450) | arXiv.org | [GitHub](https://github.com/ECNU-CILAB/ErasureBenchmark) | 2 |
 | Pierre Lubitzsch et al. | [Towards a Real-World Aligned Benchmark for Unlearning in Recommender Systems](https://doi.org/10.48550/arXiv.2508.17076) | arXiv.org | [GitHub](https://github.com/pierre-lubitzsch/towards-unlearning-in-recsys) | 2 |
 | Dasol Choi, Dongbin Na | [Distribution-Level Feature Distancing for Machine Unlearning: Towards a Better Trade-off Between Model Utility and Forgetting](https://doi.org/10.1609/aaai.v39i3.32256) | AAAI | — | 1 |
 | Qipeng Song et al. | [Synthetic Forgetting without Access: A Few-shot Zero-glance Framework for Machine Unlearning](https://doi.org/10.48550/arXiv.2511.13116) | AAAI | — | 1 |
@@ -874,14 +874,14 @@
 | Yizhou Lin et al. | [ICE: Intercede Concept Erasure in Text-to-Image Diffusion Models](https://doi.org/10.1145/3746027.3754992) | ACM Multimedia | — | 1 |
 | Qiang Chen et al. | [Graph Unlearning Meets Influence-aware Negative Preference Optimization](https://doi.org/10.1145/3746027.3754941) | ACM Multimedia | [GitHub](https://github.com/sh-qiangchen/INPO) | 1 |
 | Guoxuan Chen, Lianghao Xia, Chao Huang | [Pre-training for Recommendation Unlearning](https://doi.org/10.1145/3726302.3730060) | Annual International ACM SIGIR Conference on Research and Development in Information Retrieval | [GitHub](https://github.com/HKUDS/UnlearnRec) | 1 |
-| Emma Reyner-Fuentes, Esther Rituerto-González, Carmen Peláez-Moreno | [Machine Unlearning for Speaker-Agnostic Detection of Gender-Based Violence Condition in Speech](https://doi.org/10.3390/app152212270) | Applied Sciences | — | 1 |
+| Emma Reyner-Fuentes, Esther Rituerto-González, Carmen Peláez-Moreno | [Machine Unlearning for Speaker-Agnostic Detection of Gender-Based Violence Condition in Speech](https://doi.org/10.3390/app152212270) | Applied Sciences | [GitHub](https://github.com/emmareyner/AdversarialTraining) | 1 |
 | Huanyi Ye et al. | [Enhancing AI safety of machine unlearning for ensembled models](https://doi.org/10.1016/j.asoc.2025.113011) | Applied Soft Computing | — | 1 |
 | Biswas, Shristi Das, Roy, Arani, Roy, Kaushik | [Now You See It, Now You Don't - Instant Concept Erasure for Safe Text-to-Image and Video Generation](https://doi.org/10.48550/arXiv.2511.18684) | ArXiv.org | — | 1 |
 | Ranjit Kumar et al. | [Machine Unlearning for Trustworthy AI: A Systematic Review of Techniques, Challenges, and Applications](https://doi.org/10.1007/s11831-025-10436-z) | Archives of Computational Methods in Engineering | — | 1 |
 | Àlex Pujol Vidal et al. | [Machine Unlearning in Hyperbolic vs. Euclidean Multimodal Contrastive Learning: Adapting Alignment Calibration to MERU](https://doi.org/10.1109/CVPRW67362.2025.00152) | CVPR | [GitHub](https://github.com/alexpv01/HAC) | 1 |
 | Christoforos N. Spartalis et al. | [LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty](https://doi.org/10.1109/cvpr52734.2025.00939) | CVPR | [GitHub](https://github.com/cspartalis/LoTUS) | 1 |
 | Yimin Wen et al. | [Unlearning Recently Learned Data to Preserve Historical Learning for Dynamic Data Stream Classification](https://doi.org/10.23919/cje.2024.00.219) | Chinese Journal of Electronics | — | 1 |
-| Jan Bronec et al. | [Atyaephyra at SemEval-2025 Task 4: Low-Rank Negative Preference Optimization](https://arxiv.org/abs/2503.13690) | CoRR | — | 1 |
+| Jan Bronec et al. | [Atyaephyra at SemEval-2025 Task 4: Low-Rank Negative Preference Optimization](https://arxiv.org/abs/2503.13690) | CoRR | [GitHub](https://github.com/jjbrophy47/machine_unlearning) | 1 |
 | Nuo Xu et al. | [VideoEraser: Concept Erasure in Text-to-Video Diffusion Models](https://doi.org/10.18653/v1/2025.emnlp-main.304) | CoRR | [GitHub](https://github.com/bluedream02/VideoEraser) | 1 |
 | Muhammad Shaheryar, Jong Taek Lee, Soon Ki Jung | [Black Hole-Driven Identity Absorbing in Diffusion Models](https://doi.org/10.1109/CVPR52734.2025.02658) | Computer Vision and Pattern Recognition | — | 1 |
 | Gaoyang Liu et al. | [Prototype Surgery: Tailoring Neural Prototypes via Soft Labels for Efficient Machine Unlearning](https://doi.org/10.1145/3719027.3744827) | Conference on Computer and Communications Security | — | 1 |
@@ -897,7 +897,7 @@
 | Naglaa E. Ghannam, Esraa A. Mahareek | [Privacy-Preserving Federated Unlearning with Ontology-Guided Relevance Modeling for Secure Distributed Systems](https://doi.org/10.3390/fi17080335) | Future Internet | — | 1 |
 | Loveth A Ebong, Gertrude Fischer | [Cloud Security Using Crypto-Shredding For Secure Data Deletion: A Reduction In Cyber Security Risks](https://doi.org/10.4314/gjpas.v31i4.6) | Global Journal of Pure and Applied Science | — | 1 |
 | Ibtihel Amara et al. | [Erasing More Than Intended? How Concept Erasure Degrades the Generation of Non-Target Concepts](https://doi.org/10.1109/iccv51701.2025.01524) | ICCV | [GitHub](https://github.com/jjbrophy47/machine_unlearning) | 1 |
-| M. Maheri et al. | [WARP: Weight Teleportation for Attack-Resilient Unlearning Protocols](https://arxiv.org/abs/2512.00272) | ICLR Poster | — | 1 |
+| M. Maheri et al. | [WARP: Weight Teleportation for Attack-Resilient Unlearning Protocols](https://arxiv.org/abs/2512.00272) | ICLR Poster | [GitHub](https://github.com/mammadmaheri7/WARP_Unlearning) | 1 |
 | Lin Lu, Ayush Sekhari, Karthik Sridharan | [System-Aware Unlearning Algorithms: Use Lesser, Forget Faster](https://doi.org/10.48550/arXiv.2506.06073) | ICML | — | 1 |
 | Hong Xi Tae, Chee Seng Chan | [A Survey of Challenges and Opportunities in Vertical Federated Unlearning](https://doi.org/10.1109/access.2025.3600884) | IEEE Access | [GitHub](https://github.com/bryanhx/Vertical-Federated-Unlearning-Benchmark) | 1 |
 | Shunichi Watanabe | [Pseudo-Labeling for Enhanced User Privacy in Approximate Machine Unlearning](https://doi.org/10.1109/ICASSP49660.2025.10890795) | IEEE International Conference on Acoustics, Speech, and Signal Processing | — | 1 |
@@ -910,7 +910,7 @@
 | Wathsara Daluwatta et al. | [SSFU: Selective Semantic Feature Unlearning for Federated Learning in 6G Internet of Things Systems](https://doi.org/10.1109/jiot.2025.3625756) | IEEE Internet of Things Journal | — | 1 |
 | Jiayi Wang et al. | [A Zero-Shot Federated Unlearning Framework With Stability Verification](https://doi.org/10.1109/tccn.2025.3594672) | IEEE Transactions on Cognitive Communications and Networking | [GitHub](https://github.com/kayeewww/fuzv) | 1 |
 | Yan Qu et al. | [Fuzzified Federated Multi-Task Unlearning for Efficient and Privacy-Preserving Swarm Consumer Electronics Systems](https://doi.org/10.1109/tce.2025.3571956) | IEEE Transactions on Consumer Electronics | — | 1 |
-| Weiqi Wang et al. | [SMS: Self-Supervised Model Seeding for Verification of Machine Unlearning](https://doi.org/10.1109/TDSC.2025.3615615) | IEEE Transactions on Dependable and Secure Computing | — | 1 |
+| Weiqi Wang et al. | [SMS: Self-Supervised Model Seeding for Verification of Machine Unlearning](https://doi.org/10.1109/TDSC.2025.3615615) | IEEE Transactions on Dependable and Secure Computing | [GitHub](https://github.com/wwq5-code/SMS) | 1 |
 | Yuepeng Hu et al. | [Periodic Recovery From Poisoning Attacks in Machine Learning](https://doi.org/10.1109/TDSC.2025.3560239) | IEEE Transactions on Dependable and Secure Computing | [GitHub](https://github.com/hifi-hyp/PeriRecover) | 1 |
 | Shang Wang et al. | [When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?](https://doi.org/10.1109/tdsc.2025.3620832) | IEEE Transactions on Dependable and Secure Computing | — | 1 |
 | Jielong Yang et al. | [Machine Unlearning for Source-Free Unsupervised Partial-Domain Adaptation in Remote Sensing](https://doi.org/10.1109/tgrs.2025.3637240) | IEEE Transactions on Geoscience and Remote Sensing | — | 1 |
@@ -942,7 +942,7 @@
 | Tian Tian et al. | [Blockchain-based verifiable data deletion and software management for cloud storage](https://doi.org/10.1117/12.3067620) | International Conference on Telecommunications, Optics and Computer Science (TOCS ) | — | 1 |
 | Mr. Veerasagar S S | [Vershachi Unlearning: A Framework for Machine Unlearning](https://doi.org/10.22214/ijraset.2025.67269) | International Journal for Research in Applied Science and Engineering Technology | — | 1 |
 | Nishat Mahdiya Khan et al. | [Zero Trust Networks and Federated Unlearning Based <scp>6G</scp> Edge Networks: Attack Scenario, Security Model and Future Directions](https://doi.org/10.1002/itl2.70056) | Internet Technology Letters | — | 1 |
-| Chetia Phukan et al. | [Towards Machine Unlearning for Paralinguistic Speech Processing](https://doi.org/10.48550/arXiv.2506.02230) | Interspeech | — | 1 |
+| Chetia Phukan et al. | [Towards Machine Unlearning for Paralinguistic Speech Processing](https://doi.org/10.48550/arXiv.2506.02230) | Interspeech | [HF](https://huggingface.co/facebook/wav2vec2-xls-r-300m) | 1 |
 | Kun Gao et al. | [Federated Unlearning With Reinforcement Learning: Adaptive Privacy Preservation for Clients](https://doi.org/10.1016/j.jisa.2025.104164) | Journal of Information Security and Applications | — | 1 |
 | Yiyang Huang, Clément L. Canonne | [Tight Bounds for Machine Unlearning via Differential Privacy](https://doi.org/10.29012/jpc.924) | Journal of Privacy and Confidentiality | [GitHub](https://github.com/XiangmanLI/Harmful-Information-Unlearning) | 1 |
 | Jiali Wang et al. | [Weight masking in image classification networks: class-specific machine unlearning](https://doi.org/10.1007/s10115-024-02312-2) | Knowledge and Information Systems | — | 1 |
@@ -965,16 +965,16 @@
 | Zengyan Li, Qingqing Ye, Haibo Hu | [FUNU: Boosting Machine Unlearning Efficiency by Filtering Unnecessary Unlearning](https://doi.org/10.1145/3696410.3714711) | The Web Conference | — | 1 |
 | Fan Liu, Hao Liu | [Subgraph Federated Unlearning](https://doi.org/10.1145/3696410.3714821) | The Web Conference | [GitHub](https://github.com/usail-hkust/FedUnlearnSFU) | 1 |
 | Wenbin Wang et al. | [Poisoning Attacks and Defenses to Federated Unlearning](https://doi.org/10.1145/3701716.3715494) | The Web Conference | — | 1 |
-| Subhodip Panda et al. | [Unlearning in Diffusion models under Data Constraints: A Variational Inference Approach](https://arxiv.org/abs/2510.04058) | Trans. Mach. Learn. Res | — | 1 |
+| Subhodip Panda et al. | [Unlearning in Diffusion models under Data Constraints: A Variational Inference Approach](https://arxiv.org/abs/2510.04058) | Trans. Mach. Learn. Res | [GitHub](https://github.com/Subhodip123/VDU) | 1 |
 | G. Nahass et al. | [Targeted Unlearning Using Perturbed Sign Gradient Methods With Applications On Medical Images](https://doi.org/10.48550/arXiv.2505.21872) | Trans. Mach. Learn. Res | — | 1 |
 | Enrico Cassano et al. | [SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders](https://arxiv.org/abs/2509.21379) | arXiv | — | 1 |
 | Lu Wei, Yuta Nakashima, Noa García | [EMMA: Concept Erasure Benchmark with Comprehensive Semantic Metrics and Diverse Categories](https://doi.org/10.48550/arXiv.2512.17320) | arXiv (Cornell University) | [GitHub](https://github.com/lobsterlulu/EMMA) | 1 |
 | Carla Crivoi, R. Ionescu | [Machine Unlearning in the Era of Quantum Machine Learning: An Empirical Study](https://doi.org/10.48550/arXiv.2512.19253) | arXiv.org | [GitHub](https://github.com/CrivoiCarla/HQML) | 1 |
 | Bokang Zhang et al. | [FedSGT: Exact Federated Unlearning via Sequential Group-based Training](https://doi.org/10.48550/arXiv.2511.23393) | arXiv.org | [GitHub](https://github.com/deucalionAlpha/FedSGT) | 1 |
-| Antoine Boutet, Lucas Magnana | [Leverage Unlearning to Sanitize LLMs](https://doi.org/10.48550/arXiv.2510.21322) | arXiv.org | — | 1 |
+| Antoine Boutet, Lucas Magnana | [Leverage Unlearning to Sanitize LLMs](https://doi.org/10.48550/arXiv.2510.21322) | arXiv.org | [HF](https://huggingface.co/dslim/bert-base-NER) | 1 |
 | Kodai Kawamura et al. | [Approximate Domain Unlearning for Vision-Language Models](https://doi.org/10.48550/arXiv.2510.08132) | arXiv.org | [GitHub](https://github.com/kodaikawamura/domain-unlearning) | 1 |
 | Wenhan Wu et al. | [Beyond Sharp Minima: Robust LLM Unlearning via Feedback-Guided Multi-Point Optimization](https://doi.org/10.48550/arXiv.2509.20230) | arXiv.org | — | 1 |
-| Qitan Shi et al. | [ReTrack: Data Unlearning in Diffusion Models through Redirecting the Denoising Trajectory](https://doi.org/10.48550/arXiv.2509.13007) | arXiv.org | — | 1 |
+| Qitan Shi et al. | [ReTrack: Data Unlearning in Diffusion Models through Redirecting the Denoising Trajectory](https://doi.org/10.48550/arXiv.2509.13007) | arXiv.org | [GitHub](https://github.com/sqt24/ReTrack) | 1 |
 | Betty Mayeku, Sandra Hummel, Parisa Memarmoshrefi | [Machine Unlearning for Responsible and Adaptive AI in Education](https://doi.org/10.48550/arXiv.2509.10590) | arXiv.org | — | 1 |
 | A. Balordi et al. | [Tackling Federated Unlearning as a Parameter Estimation Problem](https://doi.org/10.48550/arXiv.2508.19065) | arXiv.org | [GitHub](https://github.com/lorenzomanini/FedUnlearn-PE) | 1 |
 | Nicolò Romandini et al. | [FedUP: Efficient Pruning-based Federated Unlearning for Model Poisoning Attacks](https://doi.org/10.48550/arXiv.2508.13853) | arXiv.org | — | 1 |
@@ -988,28 +988,28 @@
 | Liou Tang, James B. D. Joshi, Ashish Kundu | [Apollo: A Posteriori Label-Only Membership Inference Attack Towards Machine Unlearning](https://doi.org/10.48550/arXiv.2506.09923) | arXiv.org | — | 1 |
 | Jacob L. Block, Aryan Mokhtari, Sanjay Shakkottai | [Machine Unlearning under Overparameterization](https://doi.org/10.48550/arXiv.2505.22601) | arXiv.org | [GitHub](https://github.com/jacob-block/overparameterized-unlearning) | 1 |
 | Le Ma et al. | [Losing is for Cherishing: Data Valuation Based on Machine Unlearning and Shapley Value](https://doi.org/10.48550/arXiv.2505.16147) | arXiv.org | — | 1 |
-| Hanyu Duan et al. | [Ready2Unlearn: A Learning-Time Approach for Preparing Models with Future Unlearning Readiness](https://doi.org/10.48550/arXiv.2505.10845) | arXiv.org | — | 1 |
+| Hanyu Duan et al. | [Ready2Unlearn: A Learning-Time Approach for Preparing Models with Future Unlearning Readiness](https://doi.org/10.48550/arXiv.2505.10845) | arXiv.org | [HF](https://huggingface.co/meta-llama/Llama-3.2-1B) | 1 |
 | Yaxian Hu, Bernhard Scholkopf, Amartya Sanyal | [Online Learning and Unlearning](https://doi.org/10.48550/arXiv.2505.08557) | arXiv.org | — | 1 |
 | Xuran Li et al. | [PRUNE: A Patching Based Repair Framework for Certifiable Unlearning of Neural Networks](https://doi.org/10.48550/arXiv.2505.06520) | arXiv.org | — | 1 |
 | Abha Jha et al. | [Backdoor Defense in Diffusion Models via Spatial Attention Unlearning](https://doi.org/10.48550/arXiv.2504.18563) | arXiv.org | — | 1 |
-| Xiaohua Feng et al. | [A Neuro-inspired Interpretation of Unlearning in Large Language Models through Sample-level Unlearning Difficulty](https://doi.org/10.48550/arXiv.2504.06658) | arXiv.org | — | 1 |
+| Xiaohua Feng et al. | [A Neuro-inspired Interpretation of Unlearning in Large Language Models through Sample-level Unlearning Difficulty](https://doi.org/10.48550/arXiv.2504.06658) | arXiv.org | [GitHub](https://github.com/unitaryai/detoxify) | 1 |
 | H. Lee et al. | [Node-level Contrastive Unlearning on Graph Neural Networks](https://doi.org/10.48550/arXiv.2503.02959) | arXiv.org | — | 1 |
-| Bo Yang | [CE-U: Cross Entropy Unlearning](https://doi.org/10.48550/arXiv.2503.01224) | arXiv.org | — | 1 |
+| Bo Yang | [CE-U: Cross Entropy Unlearning](https://doi.org/10.48550/arXiv.2503.01224) | arXiv.org | [GitHub](https://github.com/jjbrophy47/machine_unlearning) | 1 |
 | Weipeng Jiang et al. | [Holistic Audit Dataset Generation for LLM Unlearning via Knowledge Graph Traversal and Redundancy Removal](https://doi.org/10.48550/arXiv.2502.18810) | arXiv.org | — | 1 |
 | Mingliang Hou et al. | [PrivacyCD: Hierarchical Unlearning for Protecting Student Privacy in Cognitive Diagnosis](https://doi.org/10.48550/arXiv.2511.03966) | arXiv.org | — | 1 |
 | Mingliang Hou et al. | [P-MIA: A Profiled-Based Membership Inference Attack on Cognitive Diagnosis Models](https://doi.org/10.48550/arXiv.2511.04716) | arXiv.org | — | 1 |
-| Tomoya Yamashita et al. | [Sparse-Autoencoder-Guided Internal Representation Unlearning for Large Language Models](https://doi.org/10.48550/arXiv.2509.15631) | arXiv.org | — | 1 |
+| Tomoya Yamashita et al. | [Sparse-Autoencoder-Guided Internal Representation Unlearning for Large Language Models](https://doi.org/10.48550/arXiv.2509.15631) | arXiv.org | [GitHub](https://github.com/tatsu-lab/alpaca) | 1 |
 | Yisheng Zhong, Zhengbang Yang, Zhuangdi Zhu | [Hierarchical Federated Unlearning for Large Language Models](https://doi.org/10.48550/arXiv.2510.17895) | arXiv.org | — | 1 |
 | Tomoya Yamashita et al. | [Concept Unlearning in Large Language Models via Self-Constructed Knowledge Triplets](https://doi.org/10.48550/arXiv.2509.15621) | arXiv.org | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 1 |
 | Jiaxing Miao et al. | [CUFG: Curriculum Unlearning Guided by the Forgetting Gradient](https://doi.org/10.48550/arXiv.2509.14633) | arXiv.org | [GitHub](https://github.com/JiaxingMiao606/CUFG) | 1 |
-| Jinwei Hu et al. | [FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model](https://doi.org/10.48550/arXiv.2502.01472) | arXiv.org | — | 1 |
+| Jinwei Hu et al. | [FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model](https://doi.org/10.48550/arXiv.2502.01472) | arXiv.org | [GitHub](https://github.com/CharlesJW222/FALCON) | 1 |
 | Agnieszka Polowczyk et al. | [Memory Self-Regeneration: Uncovering Hidden Knowledge in Unlearned Models](https://doi.org/10.48550/arXiv.2510.03263) | arXiv.org | [GitHub](https://github.com/gmum/MemoRa) | 1 |
 | Taozhao Chen et al. | [Feature-Selective Representation Misdirection for Machine Unlearning](https://doi.org/10.48550/arXiv.2512.16297) | arXiv.org | — | 1 |
 | Hadi Reisizadeh et al. | [Leak@k: Unlearning Does Not Make LLMs Forget Under Probabilistic Decoding](https://doi.org/10.48550/arXiv.2511.04934) | arXiv.org | [HF](https://huggingface.co/Jiajunruan/NPO-Fix) | 1 |
 | Tatsuki Kawakami et al. | [PULSE: Practical Evaluation Scenarios for Large Multimodal Model Unlearning](https://doi.org/10.48550/arXiv.2507.01271) | arXiv.org | — | 1 |
 | Kyomin Hwang et al. | [Uncovering the Potential Risks in Unlearning: Danger of English-only Unlearning in Multilingual LLMs](https://doi.org/10.48550/arXiv.2510.23949) | arXiv.org | — | 1 |
 | Sungjun Cho et al. | [Reference-Specific Unlearning Metrics Can Hide the Truth: A Reality Check](https://doi.org/10.48550/arXiv.2510.12981) | arXiv.org | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 1 |
-| Ameya Anjarlekar, S. Pombra | [LLM Unlearning using Gradient Ratio-Based Influence Estimation and Noise Injection](https://doi.org/10.48550/arXiv.2508.06467) | arXiv.org | — | 1 |
+| Ameya Anjarlekar, S. Pombra | [LLM Unlearning using Gradient Ratio-Based Influence Estimation and Noise Injection](https://doi.org/10.48550/arXiv.2508.06467) | arXiv.org | [HF](https://huggingface.co/datasets/allenai/c4) | 1 |
 | Dunyuan Xu et al. | [From Learning to Unlearning: Biomedical Security Protection in Multimodal Large Language Models](https://doi.org/10.48550/arXiv.2508.04192) | arXiv.org | — | 1 |
 | Philipp Spohn et al. | [Align-then-Unlearn: Embedding Alignment for LLM Unlearning](https://doi.org/10.48550/arXiv.2506.13181) | arXiv.org | [GitHub](https://github.com/ExplainableML/align-then-unlearn) | 1 |
 | Evelyn Ma et al. | [GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models](https://doi.org/10.48550/arXiv.2506.10946) | arXiv.org | — | 1 |
@@ -1030,7 +1030,7 @@
 | Die Chen et al. | [Comprehensive Assessment and Analysis for NSFW Content Erasure in Text-to-Image Diffusion Models](https://doi.org/10.48550/arXiv.2502.12527) | arXiv.org | [GitHub](https://github.com/lzws/ErasureBenchmark) | 1 |
 | Zhenyu Yu, Mohd. Yamani Idna Idris, Pei Wang | [Prompt-Driven and Training-Free Forgetting Approach and Dataset for Large Language Models](https://doi.org/10.48550/arXiv.2504.12574) | arXiv.org | — | 1 |
 | Enrico Cassano et al. | [SAEmnesia: Erasing Concepts in Diffusion Models with Sparse Autoencoders](https://doi.org/10.48550/arXiv.2509.21379) | arXiv.org | — | 1 |
-| Anudeep Das et al. | [Do Concept Replacement Techniques Really Erase Unacceptable Concepts?](https://doi.org/10.48550/arXiv.2506.08991) | arXiv.org | — | 1 |
+| Anudeep Das et al. | [Do Concept Replacement Techniques Really Erase Unacceptable Concepts?](https://doi.org/10.48550/arXiv.2506.08991) | arXiv.org | [GitHub](https://github.com/DataSmithLab/Moderator) | 1 |
 | K. P. K. Devan et al. | [Machine Unlearning In Recommendation Systems](https://doi.org/10.1109/ictest64710.2025.11042432) |  | — | 0 |
 | Feng Han et al. | [DuMo: Dual Encoder Modulation Network for Precise Concept Erasure](https://doi.org/10.1609/aaai.v39i3.32343) | AAAI | [GitHub](https://github.com/Maplebb/DuMo) | 0 |
 | Huu-Tien Dang et al. | [On Effects of Steering Latent Representation for Large Language Model Unlearning](https://doi.org/10.1609/aaai.v39i22.34544) | AAAI | [GitHub](https://github.com/RebelsNLU-jaist/llm-unlearning) | 0 |
@@ -1038,7 +1038,7 @@
 | Xue Jiang et al. | [Large Language Model Unlearning for Source Code](https://doi.org/10.48550/arXiv.2506.17125) | AAAI | [GitHub](https://github.com/dinhngoctuyen4125/PROD_test) | 0 |
 | Chao-Hui He et al. | [Forgetting by Pruning: Data Deletion in Join Cardinality Estimation](https://doi.org/10.48550/arXiv.2511.20293) | AAAI | [GitHub](https://github.com/CSQianDong/Awesome-arXiv-Daily-Reporter) | 0 |
 | Feng Guo et al. | [Beyond Superficial Forgetting: Thorough Unlearning through Knowledge Density Estimation and Block Re-insertion](https://doi.org/10.48550/arXiv.2511.11667) | AAAI | [GitHub](https://github.com/tamlhp/awesome-machine-unlearning) | 0 |
-| Fuyao Zhang et al. | [Oblivionis: A Lightweight Learning and Unlearning Framework for Federated Large Language Models](https://doi.org/10.48550/arXiv.2508.08875) | AAAI | — | 0 |
+| Fuyao Zhang et al. | [Oblivionis: A Lightweight Learning and Unlearning Framework for Federated Large Language Models](https://doi.org/10.48550/arXiv.2508.08875) | AAAI | [GitHub](https://github.com/fyzhang1/Oblivionis) | 0 |
 | Jiaqi Li et al. | [Forget the Token and Pixel: Rethinking Gradient Ascent for Concept Unlearning in Multimodal Generative Models](https://doi.org/10.18653/v1/2025.findings-acl.630) | ACL | [GitHub](https://github.com/DiWHNJ/FTTP) | 0 |
 | Tianle Gu et al. | [From Evasion to Concealment: Stealthy Knowledge Unlearning for LLMs](https://doi.org/10.18653/v1/2025.findings-acl.535) | ACL | — | 0 |
 | Ayana Niwa, Masahiro Kaneko, Kentaro Inui | [Rectifying Belief Space via Unlearning to Harness LLMs’ Reasoning](https://doi.org/10.18653/v1/2025.findings-acl.1285) | ACL | — | 0 |
@@ -1075,7 +1075,7 @@
 | Jundong Chen et al. | [Learning to Unlearn for Bayesian Personalized Ranking via Influence Function](https://doi.org/10.23919/cje.2023.00.417) | Chinese Journal of Electronics | — | 0 |
 | Yifei Zou et al. | [Conditional Machine Unlearning: Balancing Privacy and Regulation](https://doi.org/10.23919/cje.2024.00.343) | Chinese journal of electronics | — | 0 |
 | MohammadParsa Dini, Human Jafari | [Adaptive-lambda Subtracted Importance Sampled Scores in Machine Unlearning for DDPMs and VAEs](https://arxiv.org/abs/2512.01054) | CoRR | — | 0 |
-| Zhihao Liu et al. | [Towards Mitigating Excessive Forgetting in LLM Unlearning via Entanglement-Guidance with Proxy Constraint](https://arxiv.org/abs/2508.20443) | CoRR | — | 0 |
+| Zhihao Liu et al. | [Towards Mitigating Excessive Forgetting in LLM Unlearning via Entanglement-Guidance with Proxy Constraint](https://arxiv.org/abs/2508.20443) | CoRR | [GitHub](https://github.com/KJaebye/EmbodiedAI-Robotics-arXiv-Daily-Reporter) | 0 |
 | Wonje Jeung, Sangyeon Yoon, Albert No | [SEPS: A Separability Measure for Robust Unlearning in LLMs](https://doi.org/10.18653/v1/2025.emnlp-main.283) | CoRR | [GitHub](https://github.com/AI-ISL/SEPS.Table) | 0 |
 | Zibin Pan et al. | [Multi-Objective Large Language Model Unlearning](https://doi.org/10.1109/icassp49660.2025.10889776) | CoRR | [GitHub](https://github.com/zibinpan/MOLLM) | 0 |
 | Yoav Gur-Arieh et al. | [Precise In-Parameter Concept Erasure in Large Language Models](https://doi.org/10.18653/v1/2025.emnlp-main.960) | CoRR | [GitHub](https://github.com/yoavgur/PISCES) | 0 |
@@ -1117,12 +1117,12 @@
 | Wenhan Wu et al. | [Defending against Attribute Inference Attacks in Post-Training of Recommendation Systems via Unlearning](https://doi.org/10.1109/icde65448.2025.00200) | ICDE | [GitHub](https://github.com/Anya-bond/Awesome-Privacy-RecSys) | 0 |
 | Liu Li et al. | [Fairness-aware Graph Unlearning with Knowledge Distillation](https://doi.org/10.1109/swc65939.2025.00109) | ICICS | — | 0 |
 | Xiaohua Feng et al. | [Controllable Unlearning for Image-to-Image Generative Models via ϵ-Constrained Optimization](https://www.semanticscholar.org/paper/470c1c5e9885cd170bb638c100e2a0f73a4c4916) | ICLR | — | 0 |
-| Yahya Alkhatib, Muhammad Jamal, Wee Peng Tay | [Conformal Unlearning: A New Paradigm for Unlearning in Conformal Predictors](https://arxiv.org/abs/2508.03245) | ICLR Conference Withdrawn Submission | — | 0 |
+| Yahya Alkhatib, Muhammad Jamal, Wee Peng Tay | [Conformal Unlearning: A New Paradigm for Unlearning in Conformal Predictors](https://arxiv.org/abs/2508.03245) | ICLR Conference Withdrawn Submission | [GitHub](https://github.com/chenyaofo/pytorch-cifar-models) | 0 |
 | Youssef Allouah, R. Guerraoui, Sanmi Koyejo | [Distributional Machine Unlearning via Selective Data Removal](https://arxiv.org/abs/2507.15112) | ICLR Poster | [GitHub](https://github.com/ysfalh/unlearning-distribution) | 0 |
-| Keivan Rezaei et al. | [Revisiting the Past: Data Unlearning with Model State History](https://arxiv.org/abs/2506.20941) | ICLR Poster | — | 0 |
+| Keivan Rezaei et al. | [Revisiting the Past: Data Unlearning with Model State History](https://arxiv.org/abs/2506.20941) | ICLR Poster | [GitHub](https://github.com/jjbrophy47/machine_unlearning) | 0 |
 | Puwei Lian et al. | [Achieving Zero-Glance Unlearning with Data-Free Inversion and Selective Parameters Suppression](https://doi.org/10.1109/icme59968.2025.11209383) | ICME | — | 0 |
 | Xiuyuan Wang et al. | [Efficient Source-free Unlearning via Energy-Guided Data Synthesis and Discrimination-Aware Multitask Optimization](https://www.semanticscholar.org/paper/b4cc7b4d8004ba085563fcdaf67359dca0d98a43) | ICML | — | 0 |
-| Natalie Lang, Alon Helvits, Nir Shlezinger | [Memory-Efficient Distributed Unlearning](https://doi.org/10.1109/ACCESS.2026.3663428) | IEEE Access | — | 0 |
+| Natalie Lang, Alon Helvits, Nir Shlezinger | [Memory-Efficient Distributed Unlearning](https://doi.org/10.1109/ACCESS.2026.3663428) | IEEE Access | [GitHub](https://github.com/alonhelvits/FedUL) | 0 |
 | Win Kent Ong, Chee Seng Chan | [Maverick++: Collaboration-Free Unlearning for Medical Privacy Preservation in Healthcare Federated Systems](https://doi.org/10.1109/ACCESS.2025.3611992) | IEEE Access | [GitHub](https://github.com/OngWinKent/Maverick) | 0 |
 | Hyun Kwon, Jang-Woon Baek | [A Targeted Machine Unlearning Method for Sensitive Data in Military Helicopter Models](https://doi.org/10.1109/ACCESS.2025.3631684) | IEEE Access | — | 0 |
 | Nexhi Sula et al. | [Silver Linings in the Shadows: Harnessing Membership Fingerprinting for Machine Unlearning](https://doi.org/10.1109/CNS66487.2025.11195030) | IEEE Conference on Communications and Network Security | — | 0 |
@@ -1215,7 +1215,7 @@
 | Deepika Rajwade et al. | [Machine Unlearning: A Comprehensive Framework for Efficient Data Removal in Deep Learning Systems](https://doi.org/10.38124/ijisrt/25oct892) | International Journal of Innovative Science and Research Technology | — | 0 |
 | Smieee G. Pradeep Reddy et al. | [Machine Unlearning: The Right to Be Forgotten for Privacy-Preserving Artificial Intelligence](https://doi.org/10.1109/ISAECT68904.2025.11318751) | International Symposium Advanced Electrical and Communication Technologies | — | 0 |
 | So Yeon Kim et al. | [Selective LLM Unlearning via SAE-Based Token Importance Score](https://doi.org/10.1109/ISNCC66965.2025.11250473) | International Symposium on Networks, Computers and Communications | — | 0 |
-| Bingguang Lu et al. | [BadFU: Backdoor Federated Learning through Adversarial Machine Unlearning](https://doi.org/10.1109/RAID67961.2025.00020) | International Symposium on Recent Advances in Intrusion Detection | — | 0 |
+| Bingguang Lu et al. | [BadFU: Backdoor Federated Learning through Adversarial Machine Unlearning](https://doi.org/10.1109/RAID67961.2025.00020) | International Symposium on Recent Advances in Intrusion Detection | [GitHub](https://github.com/BingguangLu/BadFU) | 0 |
 | Jie Zhang et al. | [EMMU: Efficient Information-Level Multimodal Machine Unlearning with High Model Fidelity](https://doi.org/10.1109/IWQoS65803.2025.11143267) | International Workshop on Quality of Service | — | 0 |
 | Pengfei Wang et al. | [Eliminating Poor-Quality Data Impacts from Multiple Participants with Federated Unlearning](https://doi.org/10.1109/IWQoS65803.2025.11143467) | International Workshop on Quality of Service | — | 0 |
 | Zhe Liu | [Unlearning LLM-Based Speech Recognition Models](https://doi.org/10.21437/interspeech.2025-287) | Interspeech | — | 0 |
@@ -1254,7 +1254,7 @@
 | Kien Nguyen, Anh Tran, Cuong Pham | [SuMa: A Subspace Mapping Approach for Robust and Effective Concept Erasure in Text-to-Image Diffusion Models](https://doi.org/10.1109/iccv51701.2025.01821) | arXiv.org | — | 0 |
 | Ruidong Chen et al. | [TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models](https://doi.org/10.1109/iccv51701.2025.01759) | arXiv.org | [GitHub](https://github.com/ddgoodgood/TRCE) | 0 |
 | Jiahui Geng, Qing Li | [SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders](https://doi.org/10.1109/iccv51701.2025.00290) | arXiv.org | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 0 |
-| Xiaoqi Han et al. | [Consistency-Aware Editing for Entity-level Unlearning in Language Models](https://doi.org/10.48550/arXiv.2601.08840) | arXiv.org | — | 0 |
+| Xiaoqi Han et al. | [Consistency-Aware Editing for Entity-level Unlearning in Language Models](https://doi.org/10.48550/arXiv.2601.08840) | arXiv.org | [GitHub](https://github.com/tatsu-lab/alpaca) | 0 |
 | Claudio Savelli et al. | [FAME: Fictional Actors for Multilingual Erasure](https://doi.org/10.48550/arXiv.2512.15235) | arXiv.org | [HF](https://huggingface.co/ClaudioSavelli/FAME_base_llama32-1b-instruct-qa) | 0 |
 | Ashish Mishra et al. | [Erasing CLIP Memories: Non-Destructive, Data-Free Zero-Shot class Unlearning in CLIP Models](https://doi.org/10.48550/arXiv.2512.14137) | arXiv.org | — | 0 |
 | Ashish Mishra et al. | [Selective, Controlled and Domain-Agnostic Unlearning in Pretrained CLIP: A Training- and Data-Free Approach](https://doi.org/10.48550/arXiv.2512.14113) | arXiv.org | — | 0 |
@@ -1270,27 +1270,27 @@
 | Shizhou Xu et al. | [Forgetting-MarI: LLM Unlearning via Marginal Information Regularization](https://doi.org/10.48550/arXiv.2511.11914) | arXiv.org | [GitHub](https://github.com/tamlhp/awesome-machine-unlearning) | 0 |
 | Lisong He, Yi Yang, Xiangyu Chang | [Beyond Uniform Deletion: A Data Value-Weighted Framework for Certified Machine Unlearning](https://doi.org/10.48550/arXiv.2511.06794) | arXiv.org | — | 0 |
 | Junpeng Zhao et al. | [Learning to Fast Unrank in Collaborative Filtering Recommendation](https://doi.org/10.48550/arXiv.2511.06803) | arXiv.org | [GitHub](https://github.com/Juniper42/L2UnRank) | 0 |
-| Eun-su Cho et al. | [FiCABU: A Fisher-Based, Context-Adaptive Machine Unlearning Processor for Edge AI](https://doi.org/10.48550/arXiv.2511.05605) | arXiv.org | — | 0 |
-| Minyi Peng et al. | [MPRU: Modular Projection-Redistribution Unlearning as Output Filter for Classification Pipelines](https://doi.org/10.48550/arXiv.2510.26230) | arXiv.org | — | 0 |
+| Eun-su Cho et al. | [FiCABU: A Fisher-Based, Context-Adaptive Machine Unlearning Processor for Edge AI](https://doi.org/10.48550/arXiv.2511.05605) | arXiv.org | [GitHub](https://github.com/chipsalliance/rocket-chip) | 0 |
+| Minyi Peng et al. | [MPRU: Modular Projection-Redistribution Unlearning as Output Filter for Classification Pipelines](https://doi.org/10.48550/arXiv.2510.26230) | arXiv.org | [GitHub](https://github.com/dgunamardi/MPRU) | 0 |
 | J. Lanyon et al. | [On the limitation of evaluating machine unlearning using only a single training seed](https://doi.org/10.48550/arXiv.2510.26714) | arXiv.org | [GitHub](https://github.com/jtlan90/evaluating-machine-unlearning-using-only-a-single-training-seed) | 0 |
-| Jinseong Park, Mijung Park | [Data Unlearning Beyond Uniform Forgetting via Diffusion Time and Frequency Selection](https://doi.org/10.48550/arXiv.2510.17917) | arXiv.org | — | 0 |
+| Jinseong Park, Mijung Park | [Data Unlearning Beyond Uniform Forgetting via Diffusion Time and Frequency Selection](https://doi.org/10.48550/arXiv.2510.17917) | arXiv.org | [GitHub](https://github.com/christophschuhmann/improved-aesthetic-predictor) | 0 |
 | Amel Abdelraheem et al. | [Backdoor Unlearning by Linear Task Decomposition](https://doi.org/10.48550/arXiv.2510.14845) | arXiv.org | — | 0 |
 | Ziheng Huang et al. | [Federated Unlearning in the Wild: Rethinking Fairness and Data Discrepancy](https://doi.org/10.48550/arXiv.2510.07022) | arXiv.org | — | 0 |
 | Karuna Bhaila et al. | [Cross-Modal Attention Guided Unlearning in Vision-Language Models](https://doi.org/10.48550/arXiv.2510.07567) | arXiv.org | — | 0 |
 | Zhao Ren et al. | [Machine Unlearning in Speech Emotion Recognition via Forget Set Alone](https://doi.org/10.48550/arXiv.2510.04251) | arXiv.org | — | 0 |
 | Xiang Zhang et al. | [Rotation Control Unlearning: Quantifying and Controlling Continuous Unlearning for LLM with The Cognitive Rotation Space](https://doi.org/10.48550/arXiv.2509.25743) | arXiv.org | — | 0 |
 | Jinghan Xu et al. | [Preserving Cross-Modal Stability for Visual Unlearning in Multimodal Scenarios](https://doi.org/10.48550/arXiv.2509.23895) | arXiv.org | — | 0 |
-| Sadia Asif, Mohammad Mohammadi Amiri | [OFMU: Optimization-Driven Framework for Machine Unlearning](https://doi.org/10.48550/arXiv.2509.22483) | arXiv.org | — | 0 |
+| Sadia Asif, Mohammad Mohammadi Amiri | [OFMU: Optimization-Driven Framework for Machine Unlearning](https://doi.org/10.48550/arXiv.2509.22483) | arXiv.org | [HF](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) | 0 |
 | Nicola Novello et al. | [A Unified Framework for Diffusion Model Unlearning with f-Divergence](https://doi.org/10.48550/arXiv.2509.21167) | arXiv.org | — | 0 |
-| Ali Faraji, M. Papagelis | [TraceHiding: Scalable Machine Unlearning for Mobility Data](https://doi.org/10.48550/arXiv.2509.17241) | arXiv.org | — | 0 |
-| Bihao Zhan et al. | [Forget What's Sensitive, Remember What Matters: Token-Level Differential Privacy in Memory Sculpting for Continual Learning](https://doi.org/10.48550/arXiv.2509.12958) | arXiv.org | — | 0 |
-| A. K. Patra, Lingaraj Sahoo | [MRD-LiNet: A Novel Lightweight Hybrid CNN with Gradient-Guided Unlearning for Improved Drought Stress Identification](https://doi.org/10.48550/arXiv.2509.06367) | arXiv.org | — | 0 |
+| Ali Faraji, M. Papagelis | [TraceHiding: Scalable Machine Unlearning for Mobility Data](https://doi.org/10.48550/arXiv.2509.17241) | arXiv.org | [GitHub](https://github.com/alifa98/TraceHiding) | 0 |
+| Bihao Zhan et al. | [Forget What's Sensitive, Remember What Matters: Token-Level Differential Privacy in Memory Sculpting for Continual Learning](https://doi.org/10.48550/arXiv.2509.12958) | arXiv.org | [HF](https://huggingface.co/datasets/mavinsao/reddit-mental-illnes) | 0 |
+| A. K. Patra, Lingaraj Sahoo | [MRD-LiNet: A Novel Lightweight Hybrid CNN with Gradient-Guided Unlearning for Improved Drought Stress Identification](https://doi.org/10.48550/arXiv.2509.06367) | arXiv.org | [GitHub](https://github.com/tzutalin/labelImg) | 0 |
 | Nan Wang et al. | [zkUnlearner: A Zero-Knowledge Framework for Verifiable Unlearning with Multi-Granularity and Forgery-Resistance](https://doi.org/10.48550/arXiv.2509.07290) | arXiv.org | — | 0 |
 | Rishabh Dixit, Yuan Hui, Rayan Saab | [The Measure of Deception: An Analysis of Data Forging in Machine Unlearning](https://doi.org/10.48550/arXiv.2509.05865) | arXiv.org | — | 0 |
 | Wenjie Bao et al. | [Module-Aware Parameter-Efficient Machine Unlearning on Transformers](https://doi.org/10.48550/arXiv.2508.17233) | arXiv.org | — | 0 |
 | Aristeidis Sidiropoulos et al. | [Evaluating the Defense Potential of Machine Unlearning against Membership Inference Attacks](https://doi.org/10.48550/arXiv.2508.16150) | arXiv.org | — | 0 |
 | Liu Yang et al. | [Curriculum Approximate Unlearning for Session-based Recommendation](https://doi.org/10.48550/arXiv.2508.15263) | arXiv.org | — | 0 |
-| X. Abdullah | [Unlearning at Scale: Implementing the Right to be Forgotten in Large Language Models](https://doi.org/10.48550/arXiv.2508.12220) | arXiv.org | — | 0 |
+| X. Abdullah | [Unlearning at Scale: Implementing the Right to be Forgotten in Large Language Models](https://doi.org/10.48550/arXiv.2508.12220) | arXiv.org | [GitHub](https://github.com/zepharaai/artifact) | 0 |
 | Yuhao Sun et al. | [Invisible Watermarks, Visible Gains: Steering Machine Unlearning with Bi-Level Watermarking Design](https://doi.org/10.48550/arXiv.2508.10065) | arXiv.org | — | 0 |
 | Hang Yin et al. | [Graph Unlearning via Embedding Reconstruction - A Range-Null Space Decomposition Approach](https://doi.org/10.48550/arXiv.2508.02044) | arXiv.org | — | 0 |
 | Kehao Miao et al. | [Towards Evaluation for Real-World LLM Unlearning](https://doi.org/10.48550/arXiv.2508.01324) | arXiv.org | — | 0 |
@@ -1303,7 +1303,7 @@
 | Xiangman Li et al. | [PDLRecover: Privacy-preserving Decentralized Model Recovery with Machine Unlearning](https://doi.org/10.48550/arXiv.2506.15112) | arXiv.org | — | 0 |
 | Ya-Nan Yuan et al. | [Unlearning-Enhanced Website Fingerprinting Attack: Against Backdoor Poisoning in Anonymous Networks](https://doi.org/10.48550/arXiv.2506.13563) | arXiv.org | [GitHub](https://github.com/threadedrabbit/machine-unlearning-arxiv-daily) | 0 |
 | Aleksey Kudelya, Alexander Shirnin | [Lacuna Inc. at SemEval-2025 Task 4: LoRA-Enhanced Influence-Based Unlearning for LLMs](https://doi.org/10.48550/arXiv.2506.04044) | arXiv.org | — | 0 |
-| Minsu Kim, Nakyeong Yang, Kyomin Jung | [Rethinking Post-Unlearning Behavior of Large Vision-Language Models](https://doi.org/10.48550/arXiv.2506.02541) | arXiv.org | — | 0 |
+| Minsu Kim, Nakyeong Yang, Kyomin Jung | [Rethinking Post-Unlearning Behavior of Large Vision-Language Models](https://doi.org/10.48550/arXiv.2506.02541) | arXiv.org | [GitHub](https://github.com/jjbrophy47/machine_unlearning) | 0 |
 | SeungBum Ha, Saerom Park, Sung Whan Yoon | [Unlearning's Blind Spots: Over-Unlearning and Prototypical Relearning Attack](https://doi.org/10.48550/arXiv.2506.01318) | arXiv.org | [GitHub](https://github.com/Seung-B/Spotter-Unlearning) | 0 |
 | Öykü Deniz Köse, Gonzalo Mateos, Yanning Shen | [Unlearning Algorithmic Biases over Graphs](https://doi.org/10.48550/arXiv.2505.14945) | arXiv.org | — | 0 |
 | Brennon Brimhall et al. | [Mirror Mirror on the Wall, Have I Forgotten it All? A New Framework for Evaluating Machine Unlearning](https://doi.org/10.48550/arXiv.2505.08138) | arXiv.org | — | 0 |
@@ -1314,7 +1314,7 @@
 | Piyush Nagasubramaniam et al. | [Prompting Forgetting: Unlearning in GANs via Textual Guidance](https://doi.org/10.48550/arXiv.2504.01218) | arXiv.org | — | 0 |
 | Tetsuya Hoya, Shunpei Morita | [Automatic Construction of Pattern Classifiers Capable of Continuous Incremental Learning and Unlearning Tasks Based on Compact-Sized Probabilistic Neural Network](https://doi.org/10.48550/arXiv.2501.00725) | arXiv.org | — | 0 |
 | Hithem Lamri, Michail Maniatakos | [Fully Decentralized Certified Unlearning](https://doi.org/10.48550/arXiv.2512.08443) | arXiv.org | — | 0 |
-| Mostafa Mozafari et al. | [Subtract the Corruption: Training-Data-Free Corrective Machine Unlearning using Task Arithmetic](https://doi.org/10.48550/arXiv.2511.18660) | arXiv.org | — | 0 |
+| Mostafa Mozafari et al. | [Subtract the Corruption: Training-Data-Free Corrective Machine Unlearning using Task Arithmetic](https://doi.org/10.48550/arXiv.2511.18660) | arXiv.org | [GitHub](https://github.com/mosix11/CUTS) | 0 |
 | Siqiao Mu, Diego Klabjan | [Descend or Rewind? Stochastic Gradient Descent Unlearning](https://doi.org/10.48550/arXiv.2511.15983) | arXiv.org | [GitHub](https://github.com/anonymous-1234567/r2d2) | 0 |
 | Yinyi Luo et al. | [KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://doi.org/10.48550/arXiv.2510.02392) | arXiv.org | [GitHub](https://github.com/AIFrontierLab/KnowledgeSmith) | 0 |
 | Wenhao Yang et al. | [Factor Decorrelation Enhanced Data Removal from Deep Predictive Models](https://doi.org/10.48550/arXiv.2509.23443) | arXiv.org | [GitHub](https://github.com/WUT-IDEA/DecoRemoval) | 0 |
@@ -1345,24 +1345,24 @@
 | Yuefeng Peng et al. | [Forget to Know, Remember to Use: Context-Aware Unlearning for Large Language Models](https://doi.org/10.48550/arXiv.2510.17620) | arXiv.org | — | 0 |
 | Praveen Bushipaka, Lucia C. Passaro, Tommaso Cucinotta | [Standard vs. Modular Sampling: Best Practices for Reliable LLM Unlearning](https://doi.org/10.48550/arXiv.2509.05316) | arXiv.org | [GitHub](https://github.com/praveensonu/MELU) | 0 |
 | Saransh Agrawal, Kuan-Hao Huang | [SHA256 at SemEval-2025 Task 4: Selective Amnesia - Constrained Unlearning for Large Language Models via Knowledge Isolation](https://doi.org/10.48550/arXiv.2504.12996) | arXiv.org | [GitHub](https://github.com/LAB-FLAIR/Constrained-Unlearning-for-LLM) | 0 |
-| Weiwei Wang | [Real Time Detection and Quantitative Analysis of Spurious Forgetting in Continual Learning](https://doi.org/10.48550/arXiv.2512.20634) | arXiv.org | — | 0 |
-| Dinesh P. Srivasthav, B. Garlapati | [Cyber for AI at SemEval-2025 Task 4: Forgotten but Not Lost: The Balancing Act of Selective Unlearning in Large Language Models](https://doi.org/10.48550/arXiv.2503.04795) | arXiv.org | — | 0 |
-| Changjun Zhou et al. | [Dual-Phase Federated Deep Unlearning via Weight-Aware Rollback and Reconstruction](https://doi.org/10.48550/arXiv.2512.13381) | arXiv.org | — | 0 |
+| Weiwei Wang | [Real Time Detection and Quantitative Analysis of Spurious Forgetting in Continual Learning](https://doi.org/10.48550/arXiv.2512.20634) | arXiv.org | [GitHub](https://github.com/charles-wang888/spurious-forgetting-analysis) | 0 |
+| Dinesh P. Srivasthav, B. Garlapati | [Cyber for AI at SemEval-2025 Task 4: Forgotten but Not Lost: The Balancing Act of Selective Unlearning in Large Language Models](https://doi.org/10.48550/arXiv.2503.04795) | arXiv.org | [HF](https://huggingface.co/datasets/allenai/dolma) | 0 |
+| Changjun Zhou et al. | [Dual-Phase Federated Deep Unlearning via Weight-Aware Rollback and Reconstruction](https://doi.org/10.48550/arXiv.2512.13381) | arXiv.org | [GitHub](https://github.com/00taotao/DPUL) | 0 |
 | Lorenzo Simone, Davide Bacciu, Shuangge Ma | [ContinualFlow: Learning and Unlearning with Neural Flow Matching](https://doi.org/10.48550/arXiv.2506.18747) | arXiv.org | — | 0 |
-| Hao Chen, Yiwei Wang, Songze Li | [Bi-Erasing: A Bidirectional Framework for Concept Removal in Diffusion Models](https://doi.org/10.48550/arXiv.2512.13039) | arXiv.org | — | 0 |
+| Hao Chen, Yiwei Wang, Songze Li | [Bi-Erasing: A Bidirectional Framework for Concept Removal in Diffusion Models](https://doi.org/10.48550/arXiv.2512.13039) | arXiv.org | [GitHub](https://github.com/chenahong/Bi-Erasing) | 0 |
 | Dawid Malarz et al. | [From Unlearning to UNBRANDING: A Benchmark for Trademark-Safe Text-to-Image Generation](https://doi.org/10.48550/arXiv.2512.13953) | arXiv.org | [GitHub](https://github.com/gmum/UNBRANDING) | 0 |
 | Naveen George et al. | [Distill, Forget, Repeat: A Framework for Continual Unlearning in Text-to-Image Diffusion Models](https://doi.org/10.48550/arXiv.2512.02657) | arXiv.org | [GitHub](https://github.com/CSQianDong/Awesome-arXiv-Daily-Reporter) | 0 |
-| Jiwoo Shin et al. | [Prompt-Based Safety Guidance Is Ineffective for Unlearned Text-to-Image Diffusion Models](https://doi.org/10.48550/arXiv.2511.04834) | arXiv.org | — | 0 |
+| Jiwoo Shin et al. | [Prompt-Based Safety Guidance Is Ineffective for Unlearned Text-to-Image Diffusion Models](https://doi.org/10.48550/arXiv.2511.04834) | arXiv.org | [GitHub](https://github.com/naver-ai/DUO) | 0 |
 | Qinghong Yin, Yu Tian, Yue Zhang | [Rethinking Robust Adversarial Concept Erasure in Diffusion Models](https://doi.org/10.48550/arXiv.2510.27285) | arXiv.org | [GitHub](https://github.com/Qhong-522/S-GRACE) | 0 |
 | Youngsik Hwang, Dong-Young Lim | [Controllable Machine Unlearning via Gradient Pivoting](https://doi.org/10.48550/arXiv.2510.19226) | arXiv.org | — | 0 |
 | Hongxu Chen et al. | [Zero-Residual Concept Erasure via Progressive Alignment in Text-to-Image Model](https://doi.org/10.48550/arXiv.2508.04472) | arXiv.org | — | 0 |
 | Hyun Jun Yook et al. | [ZIUM: Zero-Shot Intent-Aware Adversarial Attack on Unlearned Models](https://doi.org/10.48550/arXiv.2507.21985) | arXiv.org | — | 0 |
-| Zixuan Fu et al. | [FADE: Adversarial Concept Erasure in Flow Models](https://doi.org/10.48550/arXiv.2507.12283) | arXiv.org | — | 0 |
+| Zixuan Fu et al. | [FADE: Adversarial Concept Erasure in Flow Models](https://doi.org/10.48550/arXiv.2507.12283) | arXiv.org | [GitHub](https://github.com/jjbrophy47/machine_unlearning) | 0 |
 | Shreyas Udaya, A. Lakshmi | [Few-Shot Concept Unlearning with Low Rank Adaptation](https://doi.org/10.48550/arXiv.2505.12395) | arXiv.org | — | 0 |
 | Siyi Chen et al. | [The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning](https://doi.org/10.48550/arXiv.2504.21307) | arXiv.org | [GitHub](https://github.com/YiweiXie/Awesome-Comprehensive-Concept-Suppression) | 0 |
 | Bocheng Ju et al. | [DRAGD: A Federated Unlearning Data Reconstruction Attack Based on Gradient Differences](https://doi.org/10.48550/arXiv.2507.09602) | arXiv.org | — | 0 |
 | K. Basha, Athira Nambiar | [Supervised Contrastive Machine Unlearning of Background Bias in Sonar Image Classification with Fine-Grained Explainable AI](https://doi.org/10.48550/arXiv.2512.01291) | arXiv.org | — | 0 |
-| Yuyuan Li et al. | [Reproducibility Companion Paper: Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems](https://doi.org/10.48550/arXiv.2503.23032) | arXiv.org | — | 0 |
+| Yuyuan Li et al. | [Reproducibility Companion Paper: Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems](https://doi.org/10.48550/arXiv.2503.23032) | arXiv.org | [GitHub](https://github.com/oktton/Attribute-wise-Unlearning) | 0 |
 
 ## 2024
 
@@ -1396,7 +1396,7 @@
 | Debeshee Das, Jie Zhang, F. Tramèr | [Blind Baselines Beat Membership Inference Attacks for Foundation Models](https://doi.org/10.1109/SPW67851.2025.00016) | IEEE Security and Privacy Workshops (SPW) | [GitHub](https://github.com/ethz-spylab/Blind-MIA) | 68 |
 | Zhuoran Jin et al. | [RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://doi.org/10.48550/arXiv.2406.10890) | NeurIPS | [GitHub](https://github.com/jinzhuoran/rwku) | 66 |
 | Yaxuan Wang et al. | [LLM Unlearning via Loss Adjustment with Only Forget Data](https://doi.org/10.48550/arXiv.2410.11143) | ICLR | [GitHub](https://github.com/UCSC-REAL/FLAT) | 63 |
-| Hongsheng Hu et al. | [Learn What You Want to Unlearn: Unlearning Inversion Attacks against Machine Unlearning](https://doi.org/10.1109/SP54263.2024.00248) | IEEE S&P | — | 62 |
+| Hongsheng Hu et al. | [Learn What You Want to Unlearn: Unlearning Inversion Attacks against Machine Unlearning](https://doi.org/10.1109/SP54263.2024.00248) | IEEE S&P | [GitHub](https://github.com/pytorch/opacus/blob) | 62 |
 | Yihua Zhang et al. | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://doi.org/10.48550/arXiv.2402.11846) | arXiv.org | — | 62 |
 | Zhiwei Zhang et al. | [Catastrophic Failure of LLM Unlearning via Quantization](https://arxiv.org/abs/2410.16454) | ICLR | [GitHub](https://github.com/zzwjames/FailureLLMUnlearning) | 59 |
 | Ziyao Liu et al. | [Threats, Attacks, and Defenses in Machine Unlearning: A Survey](https://doi.org/10.1109/OJCS.2025.3543483) | IEEE Open Journal of the Computer Society | — | 59 |
@@ -1410,7 +1410,7 @@
 | Weikai Lu et al. | [Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](https://doi.org/10.48550/arXiv.2404.05880) | arXiv.org | [GitHub](https://github.com/ZeroNLP/Eraser) | 53 |
 | Eoin Farrell, Yeu-Tong Lau, Arthur Conmy | [Applying sparse autoencoders to unlearn knowledge in language models](https://doi.org/10.48550/arXiv.2410.19278) | arXiv.org | [GitHub](https://github.com/efarrell1/train_sparse_autoencoder) | 53 |
 | Jing Huang, Diyi Yang, Christopher Potts | [Demystifying Verbatim Memorization in Large Language Models](https://doi.org/10.48550/arXiv.2407.17817) | EMNLP | [GitHub](https://github.com/explanare/verbatim-memorization) | 52 |
-| Shengyuan Hu et al. | [Unlearning or Obfuscating? Jogging the Memory of Unlearned LLMs via Benign Relearning](https://arxiv.org/abs/2406.13356) | ICLR | — | 50 |
+| Shengyuan Hu et al. | [Unlearning or Obfuscating? Jogging the Memory of Unlearned LLMs via Benign Relearning](https://arxiv.org/abs/2406.13356) | ICLR | [GitHub](https://github.com/s-huu/jog_llm_memory) | 50 |
 | Zheyuan Liu et al. | [Machine Unlearning in Generative AI: A Survey](https://doi.org/10.48550/arXiv.2407.20516) | arXiv.org | [GitHub](https://github.com/franciscoliu/GenAI-MU-Reading) | 50 |
 | Jing Wu, Mehrtash Harandi | [Scissorhands: Scrub Data Influence via Connection Sensitivity in Networks](https://doi.org/10.48550/arXiv.2401.06187) | ECCV | [GitHub](https://github.com/JingWu321/Scissorhands) | 49 |
 | Pratiksha Thaker et al. | [Position: LLM Unlearning Benchmarks are Weak Measures of Progress](https://doi.org/10.1109/SaTML64287.2025.00035) | IEEE Conference on Secure and Trustworthy Machine Learning (SaTML) | [HF](https://huggingface.co/datasets/forgelab/wmdp-swap) | 49 |
@@ -1418,10 +1418,10 @@
 | Yong-Hyun Park et al. | [Direct Unlearning Optimization for Robust and Safe Text-to-Image Models](https://doi.org/10.48550/arXiv.2407.21035) | NeurIPS | [GitHub](https://github.com/naver-ai/DUO) | 48 |
 | Jing Wu et al. | [EraseDiff: Erasing Data Influence in Diffusion Models](https://doi.org/10.48550/arXiv.2401.05779) | arXiv.org | [GitHub](https://github.com/JingWu321/EraseDiff) | 48 |
 | Ruchika Chavhan, Da Li, Timothy M. Hospedales | [ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning](https://doi.org/10.48550/arXiv.2405.19237) | ICLR | [GitHub](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak) | 47 |
-| Eleni Triantafillou et al. | [Are we making progress in unlearning? Findings from the first NeurIPS unlearning competition](https://doi.org/10.48550/arXiv.2406.09073) | arXiv.org | — | 47 |
-| Eli Chien et al. | [Langevin Unlearning: A New Perspective of Noisy Gradient Descent for Machine Unlearning](https://doi.org/10.48550/arXiv.2401.10371) | NeurIPS | — | 45 |
+| Eleni Triantafillou et al. | [Are we making progress in unlearning? Findings from the first NeurIPS unlearning competition](https://doi.org/10.48550/arXiv.2406.09073) | arXiv.org | [GitHub](https://github.com/google-deepmind/unlearning_evaluation) | 47 |
+| Eli Chien et al. | [Langevin Unlearning: A New Perspective of Noisy Gradient Descent for Machine Unlearning](https://doi.org/10.48550/arXiv.2401.10371) | NeurIPS | [GitHub](https://github.com/Graph-COM/Langevin_unlearning) | 45 |
 | Boyi Wei et al. | [Evaluating Copyright Takedown Methods for Language Models](https://doi.org/10.48550/arXiv.2406.18664) | NeurIPS | [HF](https://huggingface.co/spaces/boyiwei/CoTaEval_leaderboard) | 44 |
-| Lingzhi Wang et al. | [Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation in Language Models](https://doi.org/10.48550/arXiv.2402.05813) | AAAI | — | 43 |
+| Lingzhi Wang et al. | [Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation in Language Models](https://doi.org/10.48550/arXiv.2402.05813) | AAAI | [GitHub](https://github.com/google-research/lm-extraction-benchmark) | 43 |
 | Shilin Lu et al. | [MACE: Mass Concept Erasure in Diffusion Models](https://doi.org/10.1109/cvpr52733.2024.00615) | CVPR | [GitHub](https://github.com/Shilin-LU/MACE) | 42 |
 | Zheyuan Liu et al. | [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://doi.org/10.48550/arXiv.2410.22108) | NAACL | [GitHub](https://github.com/franciscoliu/MLLMU-Bench) | 42 |
 | A. Cooper et al. | [Machine Unlearning Doesn't Do What You Think: Lessons for Generative AI Policy, Research, and Practice](https://doi.org/10.48550/arXiv.2412.06966) | arXiv.org | — | 42 |
@@ -1456,7 +1456,7 @@
 | Sungmin Cha et al. | [Learning to Unlearn: Instance-Wise Unlearning for Pre-trained Classifiers](https://doi.org/10.1609/aaai.v38i10.28996) | AAAI | [GitHub](https://github.com/csm9493/L2UL) | 27 |
 | Martin Bertran et al. | [Reconstruction Attacks on Machine Unlearning: Simple Models are Vulnerable](https://doi.org/10.48550/arXiv.2405.20272) | NeurIPS | — | 27 |
 | Hongsheng Hu et al. | [Learn What You Want to Unlearn: Unlearning Inversion Attacks against Machine Unlearning](https://doi.org/10.1109/sp54263.2024.00248) | SP | — | 27 |
-| Hongbang Yuan et al. | [Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models](https://doi.org/10.48550/arXiv.2408.10682) | AAAI | — | 26 |
+| Hongbang Yuan et al. | [Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models](https://doi.org/10.48550/arXiv.2408.10682) | AAAI | [HF](https://huggingface.co/muse-bench/MUSE-news) | 26 |
 | Bo Tian et al. | [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://doi.org/10.48550/arXiv.2407.01920) | EMNLP | [GitHub](https://github.com/zjunlp/knowundo) | 26 |
 | Qizhou Wang et al. | [Towards Effective Evaluations and Comparisons for LLM Unlearning Methods](https://arxiv.org/abs/2406.09179) | ICLR | [GitHub](https://github.com/tmlr-group/Unlearning-with-Control) | 26 |
 | Andrei Muresanu et al. | [Fast Exact Unlearning for In-Context Learning Data for LLMs](https://arxiv.org/abs/2402.00751) | ICML | — | 26 |
@@ -1488,7 +1488,7 @@
 | Daniel Trippa et al. | [∇ τ: Gradient-based and Task-Agnostic machine Unlearning](https://doi.org/10.48550/arXiv.2403.14339) | arXiv.org | — | 22 |
 | Jai Doshi, Asa Cooper Stickland | [Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning Methods](https://doi.org/10.48550/arXiv.2411.12103) | arXiv.org | [GitHub](https://github.com/jaidoshi/knowledge-erasure) | 22 |
 | Binchi Zhang et al. | [Verification of Machine Unlearning is Fragile](https://doi.org/10.48550/arXiv.2408.00929) | ICML | [GitHub](https://github.com/zhangbinchi/unlearning-verification-is-fragile) | 21 |
-| Shang Wang et al. | [When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?](https://doi.org/10.1109/TDSC.2025.3620832) | IEEE Transactions on Dependable and Secure Computing | — | 21 |
+| Shang Wang et al. | [When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?](https://doi.org/10.1109/TDSC.2025.3620832) | IEEE Transactions on Dependable and Secure Computing | [GitHub](https://github.com/infiniflow/ragflow) | 21 |
 | Xuhan Zuo et al. | [Federated Learning With Blockchain-Enhanced Machine Unlearning: A Trustworthy Approach](https://doi.org/10.1109/TSC.2025.3553709) | IEEE Transactions on Services Computing | — | 21 |
 | Zhenhua Liu et al. | [Learning to Refuse: Towards Mitigating Privacy Risks in LLMs](https://doi.org/10.48550/arXiv.2407.10058) | International Conference on Computational Linguistics | [GitHub](https://github.com/zhliu0106/learning-to-refuse) | 21 |
 | Sheng-Yu Wang et al. | [Data Attribution for Text-to-Image Models by Unlearning Synthesized Images](https://doi.org/10.48550/arXiv.2406.09408) | NeurIPS | [GitHub](https://github.com/PeterWang512/AttributeByUnlearning) | 21 |
@@ -1504,7 +1504,7 @@
 | Yan Scholten, Stephan Günnemann, Leo Schwinn | [A Probabilistic Perspective on Unlearning and Alignment for Large Language Models](https://doi.org/10.48550/arXiv.2410.03523) | ICLR | [GitHub](https://github.com/yascho/probabilistic-unlearning) | 19 |
 | Lijie Hu et al. | [Editable Concept Bottleneck Models](https://doi.org/10.48550/arXiv.2405.15476) | ICML | [GitHub](https://github.com/kaustpradalab/ECBM) | 19 |
 | Chen Wu et al. | [Unlearning Backdoor Attacks in Federated Learning](https://doi.org/10.1109/cns62487.2024.10735680) | IEEE Conference on Communications and Network Security (CNS) | — | 19 |
-| Yijing Lin et al. | [Scalable Federated Unlearning via Isolated and Coded Sharding](https://doi.org/10.48550/arXiv.2401.15957) | IJCAI | — | 19 |
+| Yijing Lin et al. | [Scalable Federated Unlearning via Isolated and Coded Sharding](https://doi.org/10.48550/arXiv.2401.15957) | IJCAI | [GitHub](https://github.com/karpathy/nanoGPT) | 19 |
 | Yijing Lin et al. | [Incentive and Dynamic Client Selection for Federated Unlearning](https://doi.org/10.1145/3589334.3645462) | The Web Conference | — | 19 |
 | Alex Cloud et al. | [Gradient Routing: Masking Gradients to Localize Computation in Neural Networks](https://doi.org/10.48550/arXiv.2410.04332) | arXiv.org | [GitHub](https://github.com/kxcloud/gradient-routing) | 19 |
 | Kang Gu et al. | [Second-Order Information Matters: Revisiting Machine Unlearning for Large Language Models](https://doi.org/10.48550/arXiv.2403.10557) | arXiv.org | — | 19 |
@@ -1519,14 +1519,14 @@
 | Youming Tao et al. | [Communication Efficient and Provable Federated Unlearning](https://doi.org/10.14778/3641204.3641220) | VLDB Endowment | [GitHub](https://github.com/Happy2Git/FATS_supplement) | 18 |
 | Zhiwei Zhang et al. | [Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge](https://doi.org/10.48550/arXiv.2410.16454) | arXiv.org | — | 18 |
 | Tianle Gu et al. | [MEOW: MEMOry Supervised LLM Unlearning Via Inverted Facts](https://doi.org/10.48550/arXiv.2409.11844) | arXiv.org | [GitHub](https://github.com/Carol-gutianle/MEOW) | 18 |
-| Md. Rafi Ur Rashid et al. | [Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language Models for Privacy Leakage](https://doi.org/10.48550/arXiv.2408.17354) | AAAI | — | 17 |
+| Md. Rafi Ur Rashid et al. | [Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language Models for Privacy Leakage](https://doi.org/10.48550/arXiv.2408.17354) | AAAI | [HF](https://huggingface.co/docs/hub/en) | 17 |
 | Zheyuan Liu et al. | [Towards Safer Large Language Models through Machine Unlearning](https://doi.org/10.18653/v1/2024.findings-acl.107) | ACL (Findings) | [GitHub](https://github.com/KID-22/LLM-Unlearning-Paper-List) | 17 |
 | Zhexin Zhang et al. | [From Theft to Bomb-Making: The Ripple Effect of Unlearning in Defending Against Jailbreak Attacks](https://arxiv.org/abs/2407.02855) | Submitted to ICLR | [GitHub](https://github.com/thu-coai/safeunlearning) | 17 |
 | Yash Sinha, Murari Mandal, Mohan S. Kankanhalli | [UnStar: Unlearning with Self-Taught Anti-Sample Reasoning for LLMs](https://doi.org/10.48550/arXiv.2410.17050) | Trans. Mach. Learn. Res | — | 17 |
 | Siqiao Mu, Diego Klabjan | [Rewind-to-Delete: Certified Machine Unlearning for Nonconvex Functions](https://doi.org/10.48550/arXiv.2409.09778) | arXiv.org | [GitHub](https://github.com/siqiaomu/r2d) | 17 |
 | Minseok Choi et al. | [SNAP: Unlearning Selective Knowledge in Large Language Models with Negative Instructions](https://doi.org/10.48550/arXiv.2406.12329) | arXiv.org | — | 17 |
 | Tomer Ashuach, Martin Tutek, Yonatan Belinkov | [REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](https://doi.org/10.48550/arXiv.2406.09325) | ACL | [GitHub](https://github.com/KID-22/LLM-Unlearning-Paper-List) | 16 |
-| Shangyu Xing et al. | [EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models](https://doi.org/10.48550/arXiv.2402.09801) | EMNLP | — | 16 |
+| Shangyu Xing et al. | [EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models](https://doi.org/10.48550/arXiv.2402.09801) | EMNLP | [GitHub](https://github.com/starreeze/efuf) | 16 |
 | Yingzi Ma et al. | [Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset](https://doi.org/10.48550/arXiv.2411.03554) | ICLR | [GitHub](https://github.com/jjbrophy47/machine_unlearning) | 16 |
 | Yangsibo Huang et al. | [Unlearn and Burn: Adversarial Machine Unlearning Requests Destroy Model Accuracy](https://doi.org/10.48550/arXiv.2410.09591) | ICLR | [GitHub](https://github.com/daogaoliu/unlearning-under-adversary) | 16 |
 | Anik Islam et al. | [A Federated Unlearning-Based Secure Management Scheme to Enable Automation in Smart Consumer Electronics Facilitated by Digital Twin](https://doi.org/10.1109/tce.2024.3396723) | IEEE Transactions on Consumer Electronics | — | 16 |
@@ -1538,7 +1538,7 @@
 | Mengde Han et al. | [Vertical Federated Unlearning via Backdoor Certification](https://doi.org/10.1109/TSC.2025.3536312) | IEEE Transactions on Services Computing | — | 15 |
 | Alexey Kravets, Vinay P. Namboodiri | [Zero-Shot Class Unlearning in CLIP with Synthetic Samples](https://doi.org/10.1109/WACV61041.2025.00629) | IEEE Workshop/Winter Conference on Applications of Computer Vision | [GitHub](https://github.com/akres001/Zero-Shot-Class-Unlearning-in-CLIP-with-Synthetic-Samples) | 15 |
 | Mark Lawler, Grazia Scocca, Françoise Meunier | [Ending financial discrimination for cancer survivors: embedding the Right to be Forgotten in legislation across Europe](https://doi.org/10.1016/s1470-2045(24)00312-7) | The Lancet Oncology | — | 15 |
-| Vinith M. Suriyakumar et al. | [Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models](https://doi.org/10.48550/arXiv.2410.08074) | arXiv.org | — | 15 |
+| Vinith M. Suriyakumar et al. | [Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models](https://doi.org/10.48550/arXiv.2410.08074) | arXiv.org | [GitHub](https://github.com/Giphy/celeb-detection-oss) | 15 |
 | Shiji Zhou et al. | [On the Limitations and Prospects of Machine Unlearning for Generative AI](https://doi.org/10.48550/arXiv.2408.00376) | arXiv.org | — | 15 |
 | Li Shan et al. | [Lifelong Learning and Selective Forgetting via Contrastive Strategy](https://doi.org/10.48550/arXiv.2405.18663) | arXiv.org | [GitHub](https://github.com/XikunHuang/daily_paper) | 15 |
 | Yi Xu | [Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](https://doi.org/10.48550/arXiv.2404.01206) | arXiv.org | — | 15 |
@@ -1554,7 +1554,7 @@
 | Kun Gao et al. | [Defending against gradient inversion attacks in federated learning via statistical machine unlearning](https://doi.org/10.1016/j.knosys.2024.111983) | Knowledge-Based Systems | — | 14 |
 | Adrian Klammer et al. | [Organizational unlearning as a process: What we know, what we don’t know, what we should know](https://doi.org/10.1007/s11301-024-00430-3) | Management Review Quarterly | — | 14 |
 | Shao Shen et al. | [CaMU: Disentangling Causal Effects in Deep Model Unlearning](https://doi.org/10.48550/arXiv.2401.17504) | SDM | [GitHub](https://github.com/ShaofeiShen768/CaMU) | 14 |
-| O. Dige et al. | [Mitigating Social Biases in Language Models through Unlearning](https://doi.org/10.48550/arXiv.2406.13551) | arXiv.org | — | 14 |
+| O. Dige et al. | [Mitigating Social Biases in Language Models through Unlearning](https://doi.org/10.48550/arXiv.2406.13551) | arXiv.org | [GitHub](https://github.com/EleutherAI/lm-evaluation-harness) | 14 |
 | Jianing Zhu et al. | [Decoupling the Class Label and the Target Concept in Machine Unlearning](https://doi.org/10.48550/arXiv.2406.08288) | arXiv.org | [GitHub](https://github.com/ZFancy/TARF) | 14 |
 | Atakan Seyitoglu et al. | [Extracting Unlearned Information from LLMs with Activation Steering](https://doi.org/10.48550/arXiv.2411.02631) | arXiv.org | — | 14 |
 | Jia Li et al. | [Text Guided Image Editing with Automatic Concept Locating and Forgetting](https://doi.org/10.48550/arXiv.2405.19708) | arXiv.org | — | 14 |
@@ -1562,7 +1562,7 @@
 | Thanh Trung Huynh et al. | [Certified Unlearning for Federated Recommendation](https://doi.org/10.1145/3706419) | ACM Transactions on Information Systems | [GitHub](https://github.com/sohaib0075/CFRU-Federated-Recommendation-Unlearning) | 13 |
 | Minseok Choi, Kyunghyun Min, Jaegul Choo | [Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models](https://doi.org/10.48550/arXiv.2406.12354) | EMNLP | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 13 |
 | Chunxiao Li et al. | [An overview of machine unlearning](https://doi.org/10.1016/j.hcc.2024.100254) | High-Confidence Computing | [GitHub](https://github.com/DlEnginner/bias_chest_xrays) | 13 |
-| Xiaoyu Xia et al. | [Edge Unlearning is Not “on Edge”! an Adaptive Exact Unlearning System on Resource-Constrained Devices](https://doi.org/10.1109/SP61157.2025.00095) | IEEE S&P | — | 13 |
+| Xiaoyu Xia et al. | [Edge Unlearning is Not “on Edge”! an Adaptive Exact Unlearning System on Resource-Constrained Devices](https://doi.org/10.1109/SP61157.2025.00095) | IEEE S&P | [GitHub](https://github.com/XLab-hub/CAUSE) | 13 |
 | Weitao Ma et al. | [Unveiling Entity-Level Unlearning for Large Language Models: A Comprehensive Analysis](https://arxiv.org/abs/2406.15796) | International Conference on Computational Linguistics | — | 13 |
 | Stefan Schoepf, Jack Foster, A. Brintrup | [Potion: Towards Poison Unlearning](https://doi.org/10.48550/arXiv.2406.09173) | J. Data-centric Mach. Learn. Res | [GitHub](https://github.com/if-loops/selective-synaptic-dampening) | 13 |
 | Chao-Jun Chen et al. | [CURE4Rec: A Benchmark for Recommendation Unlearning with Deeper Influence](https://doi.org/10.48550/arXiv.2408.14393) | NeurIPS | [GitHub](https://github.com/xiye7lai/CURE4Rec) | 13 |
@@ -1571,7 +1571,7 @@
 | Kristian Georgiev et al. | [Attribute-to-Delete: Machine Unlearning via Datamodel Matching](https://doi.org/10.48550/arXiv.2410.23232) | arXiv.org | [HF](https://huggingface.co/datasets/machine-unlearning-bench/data-unlearning-bench) | 13 |
 | Yufan Liu et al. | [RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining](https://doi.org/10.48550/arXiv.2410.09140) | arXiv.org | — | 13 |
 | Zhe-Rui Yang et al. | [Erase then Rectify: A Training-Free Parameter Editing Approach for Cost-Effective Graph Unlearning](https://doi.org/10.48550/arXiv.2409.16684) | AAAI | [GitHub](https://github.com/AllminerLab/ETR) | 12 |
-| Dohyun Lee et al. | [Protecting Privacy Through Approximating Optimal Parameters for Sequence Unlearning in Language Models](https://doi.org/10.48550/arXiv.2406.14091) | ACL | — | 12 |
+| Dohyun Lee et al. | [Protecting Privacy Through Approximating Optimal Parameters for Sequence Unlearning in Language Models](https://doi.org/10.48550/arXiv.2406.14091) | ACL | [HF](https://huggingface.co/datasets/monology) | 12 |
 | Reza Shirkavand et al. | [Efficient Fine-Tuning and Concept Suppression for Pruned Diffusion Models](https://doi.org/10.1109/CVPR52734.2025.01735) | Computer Vision and Pattern Recognition | [GitHub](https://github.com/rezashkv/unlearn-ft) | 12 |
 | Sivaramakrishnan Rajaraman et al. | [Semantically redundant training data removal and deep model classification performance: A study with chest X-rays](https://doi.org/10.1016/j.compmedimag.2024.102379) | Computerized Medical Imaging and Graphics | — | 12 |
 | Houzhe Wang et al. | [Goldfish: An Efficient Federated Unlearning Framework](https://doi.org/10.1109/DSN58291.2024.00035) | Dependable Systems and Networks | [GitHub](https://github.com/xiao-jian-zi/MU-Goldfish-An-Efficient-Federated-Unlearning-Framework) | 12 |
@@ -1601,7 +1601,7 @@
 | Jiali Cheng, Hadi Amiri | [MU-Bench: A Multitask Multimodal Benchmark for Machine Unlearning](https://doi.org/10.48550/arXiv.2406.14796) | arXiv.org | [GitHub](https://github.com/CLU-UML/MU-Bench) | 11 |
 | Romit Chatterjee et al. | [A Unified Framework for Continual Learning and Machine Unlearning](https://doi.org/10.48550/arXiv.2408.11374) | arXiv.org | [GitHub](https://github.com/respailab/CLMUL) | 11 |
 | Bhavika Sachdeva et al. | [Machine Unlearning for Recommendation Systems: An Insight](https://doi.org/10.48550/arXiv.2401.10942) | arXiv.org | — | 11 |
-| Dongjae Jeon et al. | [An Information Theoretic Evaluation Metric for Strong Unlearning](https://doi.org/10.1609/aaai.v40i26.39373) | AAAI | — | 10 |
+| Dongjae Jeon et al. | [An Information Theoretic Evaluation Metric for Strong Unlearning](https://doi.org/10.1609/aaai.v40i26.39373) | AAAI | [GitHub](https://github.com/pytorch/examples/tree) | 10 |
 | Jinghan Jia et al. | [SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://doi.org/10.18653/v1/2024.emnlp-main.245) | EMNLP | [GitHub](https://github.com/OPTML-Group/SOUL) | 10 |
 | Jiacheng Du, Zhibo Wang, Kui Ren | [Textual Unlearning Gives a False Sense of Unlearning](https://doi.org/10.48550/arXiv.2406.13348) | ICML | [GitHub](https://github.com/wanggroupAI/TextualUnlearning) | 10 |
 | Yu Jiang et al. | [Efficient Federated Unlearning with Adaptive Differential Privacy Preservation](https://doi.org/10.1109/bigdata62323.2024.10825236) | IEEE Big Data | — | 10 |
@@ -1630,7 +1630,7 @@
 | Ningning Ding, Ermin Wei, Randall Berry | [Strategic Data Revocation in Federated Unlearning](https://doi.org/10.1109/infocom52122.2024.10621201) | CoRR | — | 8 |
 | Jie Chen et al. | [Unveiling the Flaws: Exploring Imperfections in Synthetic Data and Mitigation Strategies for Large Language Models](https://doi.org/10.18653/v1/2024.findings-emnlp.873) | CoRR | — | 8 |
 | Shaojie Shi et al. | [ULMR: Unlearning Large Language Models via Negative Response and Model Parameter Average](https://doi.org/10.18653/v1/2024.emnlp-industry.57) | EMNLP | — | 8 |
-| Xinwen Cheng et al. | [Remaining-data-free Machine Unlearning by Suppressing Sample Contribution](https://arxiv.org/abs/2402.15109) | ICLR Poster | — | 8 |
+| Xinwen Cheng et al. | [Remaining-data-free Machine Unlearning by Suppressing Sample Contribution](https://arxiv.org/abs/2402.15109) | ICLR Poster | [GitHub](https://github.com/poppopbean0903/MU-Mis) | 8 |
 | Zikui Cai, Yaoteng Tan, M. S. Asif | [Targeted Unlearning with Single Layer Unlearning Gradient](https://arxiv.org/abs/2407.11867) | ICML | [GitHub](https://github.com/CSIPlab/slug) | 8 |
 | Zhiqiang Xie et al. | [Adaptive Clipping and Distillation Enabled Federated Unlearning](https://doi.org/10.1109/ICWS62655.2024.00094) | IEEE International Conference on Web Services (ICWS) | — | 8 |
 | Heng Xu et al. | [Really Unlearned? Verifying Machine Unlearning via Influential Sample Pairs](https://doi.org/10.1109/TDSC.2025.3620308) | IEEE Transactions on Dependable and Secure Computing | — | 8 |
@@ -1639,13 +1639,13 @@
 | Tapiwa Gundu | [Learn, Unlearn and Relearn: Adaptive Cybersecurity Culture Model](https://doi.org/10.34190/iccws.19.1.2177) | International Conference on Cyber Warfare and Security | — | 8 |
 | Mumin Dayan et al. | [How much internationalization is innovation-worthy for SMEs? Roles of the degree of internationalization and organizational unlearning on the joint innovation capabilities-exploratory innovation relationship](https://doi.org/10.1016/j.jik.2024.100614) | Journal of Innovation & Knowledge | — | 8 |
 | Tyler Lizzo, Larry Heck | [UNLEARN Efficient Removal of Knowledge in Large Language Models](https://doi.org/10.48550/arXiv.2408.04140) | NAACL | — | 8 |
-| Weilin Lin et al. | [Unveiling and Mitigating Backdoor Vulnerabilities based on Unlearning Weight Changes and Backdoor Activeness](https://doi.org/10.48550/arXiv.2405.20291) | NeurIPS | — | 8 |
+| Weilin Lin et al. | [Unveiling and Mitigating Backdoor Vulnerabilities based on Unlearning Weight Changes and Backdoor Activeness](https://doi.org/10.48550/arXiv.2405.20291) | NeurIPS | [GitHub](https://github.com/bboylyg/RNP) | 8 |
 | Universitas Indonesia et al. | [Right to be Forgotten as a Legal Protection for The Victims of Electronic Sexual Violence Cases](https://doi.org/10.54828/ijsls.2024v3n2.4) | The Indonesian Journal of Socio-Legal Studies | — | 8 |
 | Jack Foster, Stefan Schoepf, A. Brintrup | [Loss-Free Machine Unlearning](https://doi.org/10.48550/arXiv.2402.19308) | Tiny Papers @ ICLR | [GitHub](https://github.com/if-loops/selective-synaptic-dampening) | 8 |
 | Chenhao Zhang et al. | [GENIU: A Restricted Data Access Unlearning for Imbalanced Data](https://doi.org/10.48550/arXiv.2406.07885) | arXiv.org | — | 8 |
 | Zonglin Di et al. | [Label Smoothing Improves Machine Unlearning](https://doi.org/10.48550/arXiv.2406.07698) | arXiv.org | — | 8 |
 | Ling Han et al. | [Towards Independence Criterion in Machine Unlearning of Features and Labels](https://doi.org/10.48550/arXiv.2403.08124) | arXiv.org | — | 8 |
-| Yijing Lin et al. | [Blockchain-enabled Trustworthy Federated Unlearning](https://doi.org/10.48550/arXiv.2401.15917) | arXiv.org | — | 8 |
+| Yijing Lin et al. | [Blockchain-enabled Trustworthy Federated Unlearning](https://doi.org/10.48550/arXiv.2401.15917) | arXiv.org | [GitHub](https://github.com/xuperchain/xuperchain) | 8 |
 | Quang H. Nguyen, Hoang Phan, Khoa D. Doan | [Unveiling Concept Attribution in Diffusion Models](https://doi.org/10.48550/arXiv.2412.02542) | arXiv.org | [GitHub](https://github.com/mail-research/CAD-attribution4diffusion) | 8 |
 | Xinshuo Hu et al. | [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://doi.org/10.1609/aaai.v38i16.29784) | AAAI | — | 7 |
 | Michael Fore et al. | [Unlearning Climate Misinformation in Large Language Models](https://doi.org/10.48550/arXiv.2405.19563) | CLIMATENLP | [GitHub](https://github.com/mikeFore4/climateQA) | 7 |
@@ -1654,10 +1654,10 @@
 | Bozhong Tian et al. | [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://doi.org/10.18653/v1/2024.findings-emnlp.82) | EMNLP | [GitHub](https://github.com/jujingliuzy/Unlearning-LLM-papers) | 7 |
 | Xiao Liu et al. | [BlockFUL: Enabling Unlearning in Blockchained Federated Learning](https://doi.org/10.1109/TIFS.2025.3583109) | IEEE Transactions on Information Forensics and Security | — | 7 |
 | Miao Xu | [Machine Unlearning: Challenges in Data Quality and Access](https://doi.org/10.24963/ijcai.2024/987) | IJCAI | — | 7 |
-| Haoyu Tang et al. | [Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models](https://doi.org/10.1109/ICDM65498.2025.00082) | Industrial Conference on Data Mining | — | 7 |
+| Haoyu Tang et al. | [Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models](https://doi.org/10.1109/ICDM65498.2025.00082) | Industrial Conference on Data Mining | [GitHub](https://github.com/himalalps/ICU) | 7 |
 | Muhammad Ameen et al. | [Addressing unreliable local models in federated learning through unlearning](https://doi.org/10.1016/j.neunet.2024.106688) | Neural Networks | — | 7 |
 | Reihaneh Torkzadehmahani et al. | [Improved Localized Machine Unlearning Through the Lens of Memorization](https://doi.org/10.48550/arXiv.2412.02432) | Trans. Mach. Learn. Res | [GitHub](https://github.com/reihaneh-torkzadehmahani/DEL-Unlearning) | 7 |
-| Reza Nasirigerdeh et al. | [Machine Unlearning for Medical Imaging](https://doi.org/10.48550/arXiv.2407.07539) | arXiv.org | — | 7 |
+| Reza Nasirigerdeh et al. | [Machine Unlearning for Medical Imaging](https://doi.org/10.48550/arXiv.2407.07539) | arXiv.org | [GitHub](https://github.com/threadedrabbit/machine-unlearning-arxiv-daily) | 7 |
 | Hongxiang Zhang, Yifeng He, Hao Chen | [SteerDiff: Steering towards Safe Text-to-Image Diffusion Models](https://doi.org/10.48550/arXiv.2410.02710) | arXiv.org | — | 7 |
 | X. You et al. | [RRL: Recommendation Reverse Learning](https://doi.org/10.1609/aaai.v38i8.28782) | AAAI | — | 6 |
 | Shota Takashiro et al. | [Answer When Needed, Forget When Not: Language Models Pretend to Forget via In-Context Knowledge Unlearning](https://doi.org/10.48550/arXiv.2410.00382) | ACL | — | 6 |
@@ -1691,21 +1691,21 @@
 | Guofeng Li et al. | [Federated Unlearning in the Internet of Vehicles](https://doi.org/10.1109/DSN-S60304.2024.00034) | Annual IEEE/IFIP International Conference on Dependable Systems and Networks - Supplemental Volume (DSN-S) | — | 5 |
 | Martín Bertrán et al. | [Reconstruction Attacks on Machine Unlearning: Simple Models are Vulnerable](https://doi.org/10.52202/079017-3334) | CoRR | — | 5 |
 | Chaochao Chen et al. | [CURE4Rec: A Benchmark for Recommendation Unlearning with Deeper Influence](https://doi.org/10.52202/079017-3144) | CoRR | [GitHub](https://github.com/xiye7lai/CURE4Rec) | 5 |
-| Jie Ren et al. | [Six-CD: Benchmarking Concept Removals for Text-to-image Diffusion Models](https://doi.org/10.1109/CVPR52734.2025.02679) | Computer Vision and Pattern Recognition | — | 5 |
+| Jie Ren et al. | [Six-CD: Benchmarking Concept Removals for Text-to-image Diffusion Models](https://doi.org/10.1109/CVPR52734.2025.02679) | Computer Vision and Pattern Recognition | [GitHub](https://github.com/deep-floyd/if) | 5 |
 | Wei-gang Zhu et al. | [Federated Unlearning with Multiple Client Partitions](https://doi.org/10.1109/ICC51166.2024.10622238) | ICC - IEEE International Conference on Communications | — | 5 |
 | Wathsara Daluwatta et al. | [DT-FU: Digital Twin-Driven Federated Unlearning for Resilient Vehicular Networks in the 6G Era](https://doi.org/10.1109/mcom.001.2400229) | IEEE Communications Magazine | — | 5 |
 | Lei Kang et al. | [Machine Unlearning for Document Classification](https://doi.org/10.48550/arXiv.2404.19031) | IEEE International Conference on Document Analysis and Recognition | [GitHub](https://github.com/leitro/MachineUnlearning-DocClassification) | 5 |
 | Yijing Lin et al. | [Decentralized Unlearning for Trustworthy AI-Generated Content (AIGC) Services](https://doi.org/10.1109/mnet.2024.3439411) | IEEE Network | — | 5 |
-| Weiqi Wang et al. | [SCU: An Efficient Machine Unlearning Scheme for Deep Learning Enabled Semantic Communications](https://doi.org/10.1109/tifs.2024.3516576) | IEEE Transactions on Information Forensics and Security | — | 5 |
+| Weiqi Wang et al. | [SCU: An Efficient Machine Unlearning Scheme for Deep Learning Enabled Semantic Communications](https://doi.org/10.1109/tifs.2024.3516576) | IEEE Transactions on Information Forensics and Security | [GitHub](https://github.com/wwq5-code/SCU) | 5 |
 | Zhiwei Zuo et al. | [Machine Unlearning Through Fine-Grained Model Parameters Perturbation](https://doi.org/10.1109/TKDE.2025.3528551) | IEEE Transactions on Knowledge and Data Engineering | — | 5 |
 | Wathsara Daluwatta et al. | [UaaS-SFL: Unlearning as a Service for Safeguarding Federated Learning](https://doi.org/10.1109/tnsm.2024.3520109) | IEEE Transactions on Network and Service Management | — | 5 |
 | Samuele Poppi et al. | [Unlearning Vision Transformers Without Retaining Data via Low-Rank Decompositions](https://doi.org/10.1007/978-3-031-78122-3_10) | International Conference on Pattern Recognition | — | 5 |
-| Paul Youssef et al. | [How to Make LLMs Forget: On Reversing In-Context Knowledge Edits](https://doi.org/10.18653/v1/2025.naacl-long.630) | NAACL | — | 5 |
+| Paul Youssef et al. | [How to Make LLMs Forget: On Reversing In-Context Knowledge Edits](https://doi.org/10.18653/v1/2025.naacl-long.630) | NAACL | [GitHub](https://github.com/paulyoussef/reed) | 5 |
 | Giulia Champion, Mia Strand | [“Other(ed)” Ocean Knowledges: Unlearning Integration in Ocean Governance for Recognitional Justice](https://doi.org/10.17645/oas.8875) | Ocean and Society | — | 5 |
 | Yuyao Zhong | [Federated unlearning for medical image analysis](https://doi.org/10.1117/12.3030004) | Other Conferences | — | 5 |
 | Zhongcheng Wei et al. | [CIU-L: A class-incremental learning and machine unlearning passive sensing system for human identification](https://doi.org/10.1016/j.pmcj.2024.101947) | Pervasive and Mobile Computing | — | 5 |
 | Minseok Choi et al. | [Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning](https://doi.org/10.48550/arXiv.2410.13274) | arXiv.org | — | 5 |
-| Nhung Bui et al. | [On Newton's Method to Unlearn Neural Networks](https://doi.org/10.48550/arXiv.2406.14507) | arXiv.org | — | 5 |
+| Nhung Bui et al. | [On Newton's Method to Unlearn Neural Networks](https://doi.org/10.48550/arXiv.2406.14507) | arXiv.org | [HF](https://huggingface.co/meta-llama/Llama-2-7b-hf) | 5 |
 | N. Sepahvand et al. | [Data Selection for Transfer Unlearning](https://doi.org/10.48550/arXiv.2405.10425) | arXiv.org | — | 5 |
 | T. Surve, Romila Pradhan | [Example-based Explanations for Random Forests using Machine Unlearning](https://doi.org/10.48550/arXiv.2402.05007) | arXiv.org | — | 5 |
 | Yi Li et al. | [Community-Centric Graph Unlearning](https://doi.org/10.48550/arXiv.2408.09705) | AAAI | [GitHub](https://github.com/liiiyi/CCGU) | 4 |
@@ -1744,7 +1744,7 @@
 | Teodora Baluta et al. | [Unlearning in- vs. out-of-distribution data in LLMs under gradient-based method](https://doi.org/10.48550/arXiv.2411.04388) | arXiv.org | — | 4 |
 | Xuhan Zuo et al. | [Large Language Model Federated Learning with Blockchain and Unlearning for Cross-Organizational Collaboration](https://doi.org/10.48550/arXiv.2412.13551) | arXiv.org | — | 4 |
 | Kuanrong Liu et al. | [Efficient Backdoor Defense in Multimodal Contrastive Learning: A Token-Level Unlearning Method for Mitigating Threats](https://doi.org/10.48550/arXiv.2409.19526) | arXiv.org | — | 4 |
-| A. Veldanda et al. | [LLM Surgery: Efficient Knowledge Unlearning and Editing in Large Language Models](https://doi.org/10.48550/arXiv.2409.13054) | arXiv.org | — | 4 |
+| A. Veldanda et al. | [LLM Surgery: Efficient Knowledge Unlearning and Editing in Large Language Models](https://doi.org/10.48550/arXiv.2409.13054) | arXiv.org | [GitHub](https://github.com/akshajkumarv/llm_surgery_code) | 4 |
 | Xiao Liu et al. | [Decentralized Federated Unlearning on Blockchain](https://doi.org/10.48550/arXiv.2402.16294) | arXiv.org | — | 4 |
 | Lefeng Zhang et al. | [The Price of Unlearning: Identifying Unlearning Risk in Edge Computing](https://doi.org/10.1145/3662184) | ACM Trans. Multim. Comput. Commun. Appl | — | 3 |
 | Xin Chen et al. | [Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models](https://doi.org/10.52202/079017-1158) | CoRR | — | 3 |
@@ -1754,7 +1754,7 @@
 | Guofeng Li et al. | [Federated Unlearning in the Internet of Vehicles](https://doi.org/10.1109/dsn-s60304.2024.00034) | DSN-S | — | 3 |
 | Leon Wichert, Sandipan Sikdar | [Rethinking Evaluation Methods for Machine Unlearning](https://doi.org/10.18653/v1/2024.findings-emnlp.271) | EMNLP | [GitHub](https://github.com/Kartoffelpuffa/Rethinking-MU-Evaluation) | 3 |
 | Zulfiqar Ali et al. | [Evaluating Machine Unlearning: Applications, Approaches, and Accuracy](https://doi.org/10.1002/eng2.13081) | Engineering Reports | — | 3 |
-| Guitao Chen et al. | [WPN: An Unlearning Method Based on N-pair Contrastive Learning in Language Models](https://doi.org/10.48550/arXiv.2408.09459) | European Conference on Artificial Intelligence | — | 3 |
+| Guitao Chen et al. | [WPN: An Unlearning Method Based on N-pair Contrastive Learning in Language Models](https://doi.org/10.48550/arXiv.2408.09459) | European Conference on Artificial Intelligence | [GitHub](https://github.com/baojunshan/nlp-fluency) | 3 |
 | Emircan Gündoğdu, Altay Unal, Gözde Ünal | [A Study Regarding Machine Unlearning on Facial Attribute Data](https://doi.org/10.1109/fg59268.2024.10581972) | FG | [GitHub](https://github.com/ituvisionlab/face-attribute-unlearning) | 3 |
 | Chaoyi Wang, Zuobin Ying, Zijie Pan | [Machine unlearning in brain-inspired neural network paradigms](https://doi.org/10.3389/fnbot.2024.1361577) | Frontiers in Neurorobotics | — | 3 |
 | Hanlin Gu et al. | [Towards Privacy-Guaranteed Label Unlearning in Vertical Federated Learning: Few-Shot Forgetting without Disclosure](https://arxiv.org/abs/2410.10922) | ICLR Poster | [GitHub](https://github.com/bryanhx/Towards-Privacy-Guaranteed-Label-Unlearning-in-Vertical-Federated-Learning) | 3 |
@@ -1767,7 +1767,7 @@
 | Samuele Maccioni, Cristiano Ghiringhelli | [Digital transformation through organisational unlearning: insights from practitioners’ voice](https://doi.org/10.1080/14778238.2024.2383371) | Knowledge Management Research & Practice | — | 3 |
 | Enrico Ventura et al. | [Unlearning regularization for Boltzmann machines](https://doi.org/10.1088/2632-2153/ad5a5f) | Machine Learning Science and Technology | — | 3 |
 | Ruikai Yang et al. | [MUSO: achieving exact machine unlearning in over-parameterized regimes](https://doi.org/10.1007/s10994-025-06806-0) | Machine-mediated learning | [GitHub](https://github.com/Yruikk/MUSO) | 3 |
-| Chen Gong et al. | [TrajDeleter: Enabling Trajectory Forgetting in Offline Reinforcement Learning Agents](https://doi.org/10.48550/arXiv.2404.12530) | NDSS | — | 3 |
+| Chen Gong et al. | [TrajDeleter: Enabling Trajectory Forgetting in Offline Reinforcement Learning Agents](https://doi.org/10.48550/arXiv.2404.12530) | NDSS | [GitHub](https://github.com/2019ChenGong/TrajDeleter) | 3 |
 | Ewen Callaway | [‘Set it and forget it’: automated lab uses AI and robotics to improve proteins](https://doi.org/10.1038/d41586-024-00093-w) | Nature | — | 3 |
 | Yusuke Kuwana et al. | [Black-Box Forgetting](https://doi.org/10.48550/arXiv.2411.00409) | NeurIPS | [GitHub](https://github.com/yusukekwn/Black-Box-Forgetting) | 3 |
 | Peiran Dong et al. | [Towards Safe Concept Transfer of Multi-Modal Diffusion via Causal Representation Editing](https://doi.org/10.52202/079017-0404) | NeurIPS | — | 3 |
@@ -1812,7 +1812,7 @@
 | Changsong Yang, Yueling Liu, Yong Ding | [Fine-grained data deletion supporting dynamic data insertion for cloud storage](https://doi.org/10.1007/s12083-024-01818-4) | Peer-to-Peer Networking and Applications | — | 2 |
 | Scott Casleton | [Privacy and Assurance: On the Right to Be Forgotten](https://doi.org/10.16995/pp.15215) | Political Philosophy | — | 2 |
 | Keivan Rezaei et al. | [RESTOR: Knowledge Recovery in Machine Unlearning](https://arxiv.org/abs/2411.00204) | Trans. Mach. Learn. Res | [GitHub](https://github.com/k1rezaei/restor) | 2 |
-| Shivank Garg, Manyana Tiwari | [Unmasking the Veil: An Investigation into Concept Ablation for Privacy and Copyright Protection in Images](https://doi.org/10.48550/arXiv.2406.12592) | Trans. Mach. Learn. Res | — | 2 |
+| Shivank Garg, Manyana Tiwari | [Unmasking the Veil: An Investigation into Concept Ablation for Privacy and Copyright Protection in Images](https://doi.org/10.48550/arXiv.2406.12592) | Trans. Mach. Learn. Res | [GitHub](https://github.com/taited/clip-score) | 2 |
 | D.M. Byelov, M. V. Bіelova, O. T. Gornylo | [A person’s right to be forgotten](https://doi.org/10.24144/2307-3322.2024.81.2.9) | Uzhhorod National University Herald Series Law | — | 2 |
 | Sebastian Schelter, Stefan Grafberger, Maarten de Rijke | [Snarcase - Regain Control over Your Predictions with Low-Latency Machine Unlearning](https://doi.org/10.14778/3685800.3685853) | VLDB Endowment | — | 2 |
 | Xinchi Qiu et al. | [How Data Inter-connectivity Shapes LLMs Unlearning: A Structural Unlearning Perspective](https://arxiv.org/abs/2406.16810) | arXiv | [HF](https://huggingface.co/datasets/xinchiqiu/PISTOL) | 2 |
@@ -1839,7 +1839,7 @@
 | Zirui Ling, Chao Zhang, Zijie Pan | [Multi-step and Iterative Backdoor Injection in Federated Machine Unlearning](https://doi.org/10.1109/csrswtc64338.2024.10811514) | Cross Strait Radio Science and Wireless Technology Conference (CSRSWTC) | — | 1 |
 | Abhinav Joshi et al. | [Towards Robust Evaluation of Unlearning in LLMs via Data Transformations](https://doi.org/10.18653/v1/2024.findings-emnlp.706) | EMNLP | [GitHub](https://github.com/chrisliu298/awesome-llm-unlearning) | 1 |
 | Lowry Pressly | [The Right to Be Forgotten and the Value of an Open Future](https://doi.org/10.1086/731431) | Ethics | — | 1 |
-| Eray Guven, Günes Karabulut-Kurt | [Machine Unlearning for Uplink Interference Cancellation](https://doi.org/10.1109/GLOBECOM52923.2024.10901616) | Global Communications Conference | — | 1 |
+| Eray Guven, Günes Karabulut-Kurt | [Machine Unlearning for Uplink Interference Cancellation](https://doi.org/10.1109/GLOBECOM52923.2024.10901616) | Global Communications Conference | [GitHub](https://github.com/riguwen/MULforIC) | 1 |
 | Mansi, S. R. N. Reddy, Rishika Anand | [Comparison of Model Adaptation Techniques with Machine Unlearning](https://doi.org/10.1109/icccnt61001.2024.10723921) | ICCCNT | — | 1 |
 | Ching Lam Choi, Alexandre Duplessis, S. Belongie | [Unlearning-based Neural Interpretations](https://doi.org/10.48550/arXiv.2410.08069) | ICLR | — | 1 |
 | I Putu Surya Pratama, Windy Gambetta | [Implementation of Exact Machine Unlearning Algorithm in Credit Scoring Cases](https://doi.org/10.1109/icodse63307.2024.10829911) | IEEE International Conference on Data and Software Engineering (ICoDSE) | — | 1 |
@@ -1867,11 +1867,11 @@
 | Changsong Yang et al. | [Block-based fine-grained and publicly verifiable data deletion for cloud storage](https://doi.org/10.1007/s00500-024-10359-0) | Soft Computing | — | 1 |
 | Hammad Rizwan et al. | [Instance-Level Difficulty: A Missing Perspective in Machine Unlearning](https://arxiv.org/abs/2410.03043) | arXiv | — | 1 |
 | Lei Zhou et al. | [Streamlined Federated Unlearning: Unite as One to Be Highly Efficient](https://doi.org/10.48550/arXiv.2412.00126) | arXiv.org | — | 1 |
-| Xin Su, Zhuoran Zheng | [Accurate Forgetting for All-in-One Image Restoration Model](https://doi.org/10.48550/arXiv.2409.00685) | arXiv.org | — | 1 |
+| Xin Su, Zhuoran Zheng | [Accurate Forgetting for All-in-One Image Restoration Model](https://doi.org/10.48550/arXiv.2409.00685) | arXiv.org | [GitHub](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey) | 1 |
 | Ahan Chatterjee et al. | [Remembering Everything Makes You Vulnerable: A Limelight on Machine Unlearning for Personalized Healthcare Sector](https://doi.org/10.48550/arXiv.2407.04589) | arXiv.org | — | 1 |
 | Nexhi Sula et al. | [Silver Linings in the Shadows: Harnessing Membership Inference for Machine Unlearning](https://doi.org/10.48550/arXiv.2407.00866) | arXiv.org | — | 1 |
 | Zhixin Pan et al. | [Privacy-Preserving Debiasing using Data Augmentation and Machine Unlearning](https://doi.org/10.48550/arXiv.2404.13194) | arXiv.org | — | 1 |
-| Ikhyun Cho, Changyeon Park, J. Hockenmaier | [ViT-MUL: A Baseline Study on Recent Machine Unlearning Methods Applied to Vision Transformers](https://doi.org/10.48550/arXiv.2403.09681) | arXiv.org | — | 1 |
+| Ikhyun Cho, Changyeon Park, J. Hockenmaier | [ViT-MUL: A Baseline Study on Recent Machine Unlearning Methods Applied to Vision Transformers](https://doi.org/10.48550/arXiv.2403.09681) | arXiv.org | [GitHub](https://github.com/ihcho2/ViTMUL) | 1 |
 | J. Khan | [Dataset Condensation Driven Machine Unlearning](https://doi.org/10.48550/arXiv.2402.00195) | arXiv.org | [GitHub](https://github.com/algebraicdianuj/DC_U) | 1 |
 | Carl E.J. Brodzinski | [Survey of Security and Data Attacks on Machine Unlearning In Financial and E-Commerce](https://doi.org/10.48550/arXiv.2410.00055) | arXiv.org | — | 1 |
 | R. Smirnov | [Classifier-free guidance in LLMs Safety](https://doi.org/10.48550/arXiv.2412.06846) | arXiv.org | — | 1 |
@@ -1884,7 +1884,7 @@
 | Anh-Vu Bui et al. | [Removing Undesirable Concepts in Text-to-Image Diffusion Models with Learnable Prompts](https://www.semanticscholar.org/paper/ea8bc2df279e00420167312c3ed0c38dfb396fd1) | CoRR | — | 0 |
 | Huanyi Ye et al. | [Malicious Unlearning in Ensemble Models](https://doi.org/10.1109/PST62714.2024.10788066) | Conference on Privacy, Security and Trust | — | 0 |
 | Sofiane Azogagh et al. | [Oblivious Exact (Un)Learning of Extremely Randomized Trees](https://www.semanticscholar.org/paper/471f49452591e17a356dc32bc865fb3c2275f6df) | European Dependable Computing Conference (EDCC) | — | 0 |
-| Zheling Meng et al. | [Dark Miner: Defend against undesirable generation for text-to-image diffusion models](https://arxiv.org/abs/2409.17682) | ICLR Conference Withdrawn Submission | — | 0 |
+| Zheling Meng et al. | [Dark Miner: Defend against undesirable generation for text-to-image diffusion models](https://arxiv.org/abs/2409.17682) | ICLR Conference Withdrawn Submission | [GitHub](https://github.com/ultralytics/ultralytics) | 0 |
 | Zihao Zhao et al. | [AdaProb: Efficient Machine Unlearning via Adaptive Probability](https://arxiv.org/abs/2411.02622) | ICLR Workshop DATA-FM | [GitHub](https://github.com/zzhao71/AdaProb) | 0 |
 | R. Karn, J. Knechtel, Ozgur Sinanoglu | [Selective Forgetting in Task-Progressive Learning Through Machine Unlearning](https://doi.org/10.1109/ICMLC63072.2024.10935063) | ICML | — | 0 |
 | Rupesh Raj Karn, Johann Knechtel, Ozgur Sinanoglu | [Selective Forgetting in Task-Progressive Learning Through Machine Unlearning](https://doi.org/10.1109/icmlc63072.2024.10935063) | ICMLC | — | 0 |
@@ -1954,20 +1954,20 @@
 | Wei Yuan et al. | [Federated Unlearning for On-Device Recommendation](https://doi.org/10.1145/3539597.3570463) | Web Search and Data Mining | [GitHub](https://github.com/jjbrophy47/machine_unlearning) | 106 |
 | Ruizhe Chen et al. | [Fast Model Debias with Machine Unlearning](https://doi.org/10.48550/arXiv.2310.12560) | NeurIPS | [GitHub](https://github.com/diadai/Machine-Unlearning) | 102 |
 | Zhenyi Wang et al. | [A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning](https://doi.org/10.1109/TPAMI.2024.3498346) | IEEE Transactions on Pattern Analysis and Machine Intelligence | [GitHub](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) | 100 |
-| Vikram S Chundawat et al. | [Can Bad Teaching Induce Forgetting? Unlearning in Deep Networks Using an Incompetent Teacher](https://doi.org/10.1609/aaai.v37i6.25879) | AAAI | [GitHub](https://github.com/vikram2000b/bad-teaching-) | 89 |
+| Vikram S Chundawat et al. | [Can Bad Teaching Induce Forgetting? Unlearning in Deep Networks Using an Incompetent Teacher](https://doi.org/10.1609/aaai.v37i6.25879) | AAAI | — | 89 |
 | Haibo Zhang et al. | [A Review on Machine Unlearning](https://doi.org/10.1007/s42979-023-01767-4) | SN Computer Science | [GitHub](https://github.com/hannahshubby/NeurIPS_2023_Unlearning) | 88 |
 | Lefeng Zhang et al. | [FedRecovery: Differentially Private Machine Unlearning for Federated Learning Frameworks](https://doi.org/10.1109/tifs.2023.3297905) | IEEE Transactions on Information Forensics and Security | — | 83 |
 | Minh Pham, Kelly O. Marshall, C. Hegde | [Circumventing Concept Erasure Methods For Text-to-Image Generative Models](https://doi.org/10.48550/arXiv.2308.01508) | ICLR | [GitHub](https://github.com/nyu-dice-lab/circumventing-concept-erasure) | 82 |
 | Sungmin Cha et al. | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://doi.org/10.48550/arXiv.2301.11578) | AAAI | [GitHub](https://github.com/csm9493/L2UL) | 78 |
-| Tianshi Che et al. | [Fast Federated Machine Unlearning with Nonlinear Functional Theory](https://www.semanticscholar.org/paper/bcd2c4ef6b1e985e0783e886b2576abe3c7983f9) | ICML | — | 77 |
+| Tianshi Che et al. | [Fast Federated Machine Unlearning with Nonlinear Functional Theory](https://www.semanticscholar.org/paper/bcd2c4ef6b1e985e0783e886b2576abe3c7983f9) | ICML | [GitHub](https://github.com/JordiCondom/MachineUnlearning) | 77 |
 | Ningxin Su, Baochun Li | [Asynchronous Federated Unlearning](https://doi.org/10.1109/INFOCOM53939.2023.10229075) | IEEE Conference on Computer Communications | — | 74 |
 | T. Shaik et al. | [Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy](https://doi.org/10.1109/TNNLS.2024.3486109) | IEEE Transactions on Neural Networks and Learning Systems | — | 66 |
 | Xiangrong Zhu, Guangyao Li, Wei Hu | [Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning](https://doi.org/10.1145/3543507.3583305) | The Web Conference | [GitHub](https://github.com/tamlhp/awesome-machine-unlearning) | 64 |
 | Min Chen et al. | [Boundary Unlearning: Rapid Forgetting of Deep Networks via Shifting the Decision Boundary](https://doi.org/10.1109/cvpr52729.2023.00750) | CVPR | [GitHub](https://github.com/OngWinKent/MachineUnlearning) | 61 |
 | Shen Lin et al. | [ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer](https://doi.org/10.1109/CVPR52729.2023.01929) | Computer Vision and Pattern Recognition | [GitHub](https://github.com/RUIYUN-ML/ERM-KTP) | 58 |
-| Aly M. Kassem, Omar Mahmoud, Sherif Saad | [Preserving Privacy Through Dememorization: An Unlearning Technique For Mitigating Memorization Risks In Language Models](https://doi.org/10.18653/v1/2023.emnlp-main.265) | EMNLP | — | 57 |
+| Aly M. Kassem, Omar Mahmoud, Sherif Saad | [Preserving Privacy Through Dememorization: An Unlearning Technique For Mitigating Memorization Risks In Language Models](https://doi.org/10.18653/v1/2023.emnlp-main.265) | EMNLP | [GitHub](https://github.com/Alymostafa/DeMemorization) | 57 |
 | Eli Chien, Chao Pan, O. Milenkovic | [Efficient Model Updates for Approximate Unlearning of Graph-Structured Data](https://www.semanticscholar.org/paper/5e04e20d9c550fc1cef1f1f86b30aadf0492fbac) | ICLR | [GitHub](https://github.com/thupchnsky/sgc_unlearn) | 55 |
-| Jiali Cheng et al. | [GNNDelete: A General Strategy for Unlearning in Graph Neural Networks](https://doi.org/10.48550/arXiv.2302.13406) | ICLR | — | 54 |
+| Jiali Cheng et al. | [GNNDelete: A General Strategy for Unlearning in Graph Neural Networks](https://doi.org/10.48550/arXiv.2302.13406) | ICLR | [GitHub](https://github.com/hannahshubby/NeurIPS_2023_Unlearning) | 54 |
 | Hui Xia et al. | [FedME<sup>2</sup>: Memory Evaluation &amp; Erase Promoting Federated Unlearning in DTMN](https://doi.org/10.1109/jsac.2023.3310049) | IEEE Journal on Selected Areas in Communications | — | 53 |
 | Yian Zhao et al. | [Federated Unlearning With Momentum Degradation](https://doi.org/10.1109/jiot.2023.3321594) | IEEE Internet of Things Journal | — | 52 |
 | Heng Xu et al. | [Machine Unlearning: A Survey](https://doi.org/10.1145/3603620) | ACM Computing Surveys | — | 51 |
@@ -1999,13 +1999,13 @@
 | Shen Lin et al. | [ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer](https://doi.org/10.1109/cvpr52729.2023.01929) | CVPR | [GitHub](https://github.com/RUIYUN-ML/ERM-KTP) | 33 |
 | Wang Fei, Baochun Li, Bo Li | [Federated Unlearning and Its Privacy Threats](https://doi.org/10.1109/mnet.004.2300056) | IEEE Network | [GitHub](https://github.com/abbottyanginchina/Awesome-Federated-Unlearning) | 33 |
 | Yonatan Dukler et al. | [SAFE: Machine Unlearning With Shard Graphs](https://doi.org/10.1109/ICCV51070.2023.01569) | ICCV | [GitHub](https://github.com/hannahshubby/NeurIPS_2023_Unlearning) | 32 |
-| Zixuan Ni et al. | [Degeneration-Tuning: Using Scrambled Grid shield Unwanted Concepts from Stable Diffusion](https://doi.org/10.1145/3581783.3611867) | ACM Multimedia | — | 31 |
+| Zixuan Ni et al. | [Degeneration-Tuning: Using Scrambled Grid shield Unwanted Concepts from Stable Diffusion](https://doi.org/10.1145/3581783.3611867) | ACM Multimedia | [GitHub](https://github.com/openai/dalle-2-preview/blob) | 31 |
 | T. Shaik et al. | [FRAMU: Attention-Based Machine Unlearning Using Federated Reinforcement Learning](https://doi.org/10.1109/TKDE.2024.3382726) | IEEE Transactions on Knowledge and Data Engineering | — | 31 |
 | Alexander X. Oesterling et al. | [Fair Machine Unlearning: Data Removal while Mitigating Disparities](https://doi.org/10.48550/arXiv.2307.14754) | AISTATS | [GitHub](https://github.com/AI4LIFE-GROUP/fair-unlearning) | 30 |
 | Yuyuan Li et al. | [Selective and collaborative influence function for efficient recommendation unlearning](https://doi.org/10.1016/j.eswa.2023.121025) | Expert Systems with Applications | — | 28 |
 | Manaar Alam, Hithem Lamri, Michail Maniatakos | [Get Rid of Your Trail: Remotely Erasing Backdoors in Federated Learning](https://doi.org/10.1109/TAI.2024.3465441) | IEEE Transactions on Artificial Intelligence | [GitHub](https://github.com/momalab/federated_backdoor_unlearning) | 28 |
-| Weilin Cong, Mehrdad Mahdavi | [Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection](https://doi.org/10.48550/arXiv.2302.08990) | AISTATS | — | 27 |
-| Yavuz Faruk Bakman et al. | [Federated Orthogonal Training: Mitigating Global Catastrophic Forgetting in Continual Federated Learning](https://doi.org/10.48550/arXiv.2309.01289) | ICLR | — | 27 |
+| Weilin Cong, Mehrdad Mahdavi | [Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection](https://doi.org/10.48550/arXiv.2302.08990) | AISTATS | [GitHub](https://github.com/MinChen00/Graph-Unlearning) | 27 |
+| Yavuz Faruk Bakman et al. | [Federated Orthogonal Training: Mitigating Global Catastrophic Forgetting in Continual Federated Learning](https://doi.org/10.48550/arXiv.2309.01289) | ICLR | [GitHub](https://github.com/duygunuryldz/Federated_Orthogonal_Training) | 27 |
 | Korbinian Koch, Marcus Soll | [No Matter How You Slice It: Machine Unlearning with SISA Comes at the Expense of Minority Classes](https://doi.org/10.1109/satml54575.2023.00047) | SaTML | [GitHub](https://github.com/hannahshubby/NeurIPS_2023_Unlearning) | 27 |
 | Xintong Guo et al. | [FAST: Adopting Federated Unlearning to Eliminating Malicious Terminals at Server Side](https://doi.org/10.1109/tnse.2023.3343117) | IEEE Transactions on Network Science and Engineering | — | 26 |
 | Weilin Cong, Mehrdad Mahrdavi | [GraphEditor : An Efficient Graph Representation Learning and Unlearning Approach](https://www.semanticscholar.org/paper/6d00fbb3c7aad35066efc09971fbb38c420741be) | Submitted to ICLR | — | 26 |
@@ -2013,7 +2013,7 @@
 | Zuobin Xiong et al. | [Exact-Fun: An Exact and Efficient Federated Unlearning Approach](https://doi.org/10.1109/icdm58522.2023.00188) | ICDM | — | 24 |
 | Kun Wu et al. | [Certified Edge Unlearning for Graph Neural Networks](https://doi.org/10.1145/3580305.3599271) | KDD | [GitHub](https://github.com/kunwu522/certified_edge_unlearning) | 23 |
 | Maximilian Dreyer et al. | [From Hope to Safety: Unlearning Biases of Deep Models via Gradient Penalization in Latent Space](https://doi.org/10.1609/aaai.v38i19.30096) | AAAI | [GitHub](https://github.com/frederikpahde/rrclarc) | 22 |
-| Saemi Moon, Seunghyuk Cho, Dongwoo Kim | [Feature Unlearning for Pre-trained GANs and VAEs](https://doi.org/10.1609/aaai.v38i19.30138) | AAAI | — | 22 |
+| Saemi Moon, Seunghyuk Cho, Dongwoo Kim | [Feature Unlearning for Pre-trained GANs and VAEs](https://doi.org/10.1609/aaai.v38i19.30138) | AAAI | [GitHub](https://github.com/NVlabs/stylegan) | 22 |
 | Weiqi Wang et al. | [BFU: Bayesian Federated Unlearning with Parameter Self-Sharing](https://doi.org/10.1145/3579856.3590327) | ACM Asia Conference on Computer and Communications Security | [GitHub](https://github.com/wwq5-code/BFU-Code) | 22 |
 | Marco Cotogni et al. | [DUCK: Distance-based Unlearning via Centroid Kinematics](https://doi.org/10.48550/arXiv.2312.02052) | arXiv.org | [GitHub](https://github.com/ocram17/duck) | 22 |
 | T. Shaik et al. | [Exploring the Landscape of Machine Unlearning: A Survey and Taxonomy](https://www.semanticscholar.org/paper/3360d8d78e04579f5778b988506a0439115ceece) | CoRR | — | 21 |
@@ -2022,7 +2022,7 @@
 | Zhili Liu et al. | [Implicit Concept Removal of Diffusion Models](https://doi.org/10.1007/978-3-031-72664-4_26) | ECCV | [HF](https://huggingface.co/datasets/zhili-liu/implicit-concept-dataset) | 20 |
 | Weiqi Wang et al. | [Machine Unlearning via Representation Forgetting With Parameter Self-Sharing](https://doi.org/10.1109/tifs.2023.3331239) | IEEE Transactions on Information Forensics and Security | [GitHub](https://github.com/wwq5-code/RFU-SS) | 20 |
 | Yiyang Huang, C. Canonne | [Tight Bounds for Machine Unlearning via Differential Privacy](https://doi.org/10.48550/arXiv.2309.00886) | Journal of Privacy and Confidentiality | [GitHub](https://github.com/XiangmanLI/Harmful-Information-Unlearning) | 20 |
-| Akash Dhasade et al. | [QuickDrop: Efficient Federated Unlearning by Integrated Dataset Distillation](https://doi.org/10.48550/arXiv.2311.15603) | arXiv.org | — | 20 |
+| Akash Dhasade et al. | [QuickDrop: Efficient Federated Unlearning by Integrated Dataset Distillation](https://doi.org/10.48550/arXiv.2311.15603) | arXiv.org | [GitHub](https://github.com/sacs-epfl/quickdrop) | 20 |
 | Hyunjun Kim, Sangyong Lee, Simon S. Woo | [Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer Level Attack and Knowledge Distillation](https://doi.org/10.48550/arXiv.2312.16823) | AAAI | — | 19 |
 | Hongyu Qiu et al. | [FedCIO: Efficient Exact Federated Unlearning with Clustering, Isolation, and One-shot Aggregation](https://doi.org/10.1109/BigData59044.2023.10386788) | BigData Congress [Services Society] | — | 19 |
 | Siva Sai et al. | [Machine Un-learning: An Overview of Techniques, Applications, and Future Directions](https://doi.org/10.1007/s12559-023-10219-3) | Cognitive Computation | — | 19 |
@@ -2039,7 +2039,7 @@
 | Bjørn Aslak Juliussen, Jon Petter Rui, Dag Johansen | [Algorithms that forget: Machine unlearning and the right to erasure](https://doi.org/10.1016/j.clsr.2023.105885) | Computer law & security review | — | 17 |
 | Ningning Ding, Ermin Wei, Randall Berry | [Strategic Data Revocation in Federated Unlearning](https://doi.org/10.1109/INFOCOM52122.2024.10621201) | IEEE Conference on Computer Communications | — | 17 |
 | Hui Sun et al. | [Generative Adversarial Networks Unlearning](https://doi.org/10.1109/TDSC.2025.3564992) | IEEE Transactions on Dependable and Secure Computing | — | 16 |
-| Bang Wu et al. | [GraphGuard: Detecting and Counteracting Training Data Misuse in Graph Neural Networks](https://doi.org/10.48550/arXiv.2312.07861) | NDSS | — | 16 |
+| Bang Wu et al. | [GraphGuard: Detecting and Counteracting Training Data Misuse in Graph Neural Networks](https://doi.org/10.48550/arXiv.2312.07861) | NDSS | [GitHub](https://github.com/awslabs/g) | 16 |
 | Ningning Ding et al. | [Incentive Mechanism Design for Federated Learning and Unlearning](https://doi.org/10.1145/3565287.3610269) | ACM Interational Symposium on Mobile Ad Hoc Networking and Computing | — | 15 |
 | Tian-Yu Liu, Aditya Golatkar, S. Soatto | [Tangent Transformers for Composition, Privacy and Removal](https://doi.org/10.48550/arXiv.2307.08122) | ICLR | [GitHub](https://github.com/tianyu139/tangent-model-composition) | 15 |
 | Juexiao Zhou et al. | [A unified method to revoke the private data of patients in intelligent healthcare with audit to forget](https://doi.org/10.1038/s41467-023-41703-x) | Nature Communications | [GitHub](https://github.com/Krimmyjack/Fine-tuning-of-medical-privacy) | 15 |
@@ -2054,16 +2054,16 @@
 | Hmeda Musbah, Hamed H. Aly, Timothy Little | [A proposed novel adaptive DC technique for non-stationary data removal](https://doi.org/10.1016/j.heliyon.2023.e13903) | Heliyon | — | 13 |
 | Junxu Liu et al. | [MUter: Machine Unlearning on Adversarially Trained Models](https://doi.org/10.1109/iccv51070.2023.00451) | ICCV | [GitHub](https://github.com/JunxuLiu/MUter) | 13 |
 | Huawei Lin et al. | [Machine Unlearning in Gradient Boosting Decision Trees](https://doi.org/10.1145/3580305.3599420) | KDD | [GitHub](https://github.com/huawei-lin/GBDT_unlearning) | 13 |
-| Dayong Ye et al. | [Reinforcement Unlearning](https://doi.org/10.48550/arXiv.2312.15910) | NDSS | — | 13 |
-| Zhaomin Wu et al. | [DeltaBoost: Gradient Boosting Decision Trees with Efficient Machine Unlearning](https://doi.org/10.1145/3589313) | ACM on Management of Data | — | 12 |
+| Dayong Ye et al. | [Reinforcement Unlearning](https://doi.org/10.48550/arXiv.2312.15910) | NDSS | [GitHub](https://github.com/cp-lab-uts/Reinforcement-Unlearning) | 13 |
+| Zhaomin Wu et al. | [DeltaBoost: Gradient Boosting Decision Trees with Efficient Machine Unlearning](https://doi.org/10.1145/3589313) | ACM on Management of Data | [GitHub](https://github.com/hannahshubby/NeurIPS_2023_Unlearning) | 12 |
 | Sebastian Schelter, Mozhdeh Ariannezhad, Maarten de Rijke | [Forget Me Now: Fast and Exact Unlearning in Neighborhood-based Recommendation](https://doi.org/10.1145/3539618.3591989) | Annual International ACM SIGIR Conference on Research and Development in Information Retrieval | — | 12 |
 | Zihao Deng et al. | [Vertical Federated Unlearning on the Logistic Regression Model](https://doi.org/10.3390/electronics12143182) | Electronics | [GitHub](https://github.com/bryanhx/Vertical-Federated-Unlearning-Benchmark) | 12 |
-| Vedant Shah et al. | [Unlearning via Sparse Representations](https://doi.org/10.48550/arXiv.2311.15268) | Trans. Mach. Learn. Res | — | 12 |
+| Vedant Shah et al. | [Unlearning via Sparse Representations](https://doi.org/10.48550/arXiv.2311.15268) | Trans. Mach. Learn. Res | [GitHub](https://github.com/facebookresearch/fvcore) | 12 |
 | Badih Ghazi et al. | [Ticketed Learning-Unlearning Schemes](https://doi.org/10.48550/arXiv.2306.15744) | Annual Conference Computational Learning Theory | — | 11 |
 | Jia Shi et al. | [DeepClean: Machine Unlearning on the Cheap by Resetting Privacy Sensitive Weights using the Fisher Diagonal](https://doi.org/10.48550/arXiv.2311.10448) | ECCV Workshops | — | 11 |
 | Yonatan Dukler et al. | [SAFE: Machine Unlearning With Shard Graphs](https://doi.org/10.1109/iccv51070.2023.01569) | ICCV | [GitHub](https://github.com/hannahshubby/NeurIPS_2023_Unlearning) | 11 |
 | Rui Zhu et al. | [Selective Amnesia: On Efficient, High-Fidelity and Blind Suppression of Backdoor Effects in Trojaned Machine Learning Models](https://doi.org/10.1109/sp46215.2023.10351028) | IEEE S&P | [GitHub](https://github.com/jjbrophy47/machine_unlearning) | 11 |
-| Vinayshekhar Bannihatti Kumar, Rashmi Gangadharaiah, Dan Roth | [Privacy Adhering Machine Un-learning in NLP](https://doi.org/10.18653/v1/2023.findings-ijcnlp.25) | IJCNLP | — | 11 |
+| Vinayshekhar Bannihatti Kumar, Rashmi Gangadharaiah, Dan Roth | [Privacy Adhering Machine Un-learning in NLP](https://doi.org/10.18653/v1/2023.findings-ijcnlp.25) | IJCNLP | [GitHub](https://github.com/awslabs/privacy-adhering-machine-unlearning-nlp) | 11 |
 | Anwar Said et al. | [A Survey of Graph Unlearning](https://doi.org/10.48550/arXiv.2310.02164) | arXiv.org | — | 11 |
 | Samuele Poppi et al. | [Removing NSFW Concepts from Vision-and-Language Models for Text-to-Image Retrieval and Generation](https://doi.org/10.48550/arXiv.2311.16254) | ECCV | [GitHub](https://github.com/aimagelab/safe-clip) | 10 |
 | Hongyu Qiu et al. | [FedCIO: Efficient Exact Federated Unlearning with Clustering, Isolation, and One-shot Aggregation](https://doi.org/10.1109/bigdata59044.2023.10386788) | IEEE Big Data | — | 10 |
@@ -2076,7 +2076,7 @@
 | Wangkun Xu, Fei Teng | [Task-Aware Machine Unlearning and Its Application in Load Forecasting](https://doi.org/10.1109/TPWRS.2024.3376828) | IEEE Transactions on Power Systems | [GitHub](https://github.com/xuwkk/task_aware_machine_unlearning) | 9 |
 | Yufang Liu et al. | [Unlearning with Fisher Masking](https://doi.org/10.48550/arXiv.2310.05331) | arXiv.org | — | 9 |
 | Sangamesh Kodge, Gobinda Saha, Kaushik Roy | [Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting](https://doi.org/10.48550/arXiv.2312.00761) | arXiv.org | — | 9 |
-| Peixin Zhang et al. | [Exploiting Machine Unlearning for Backdoor Attacks in Deep Learning System](https://arxiv.org/abs/2310.10659) | CoRR | — | 8 |
+| Peixin Zhang et al. | [Exploiting Machine Unlearning for Backdoor Attacks in Deep Learning System](https://arxiv.org/abs/2310.10659) | CoRR | [GitHub](https://github.com/seartifacts/bau) | 8 |
 | Yanna Jiang et al. | [Split Unlearning](https://doi.org/10.1145/3719027.3744787) | Conference on Computer and Communications Security | — | 8 |
 | Kaiyue Zhang et al. | [Conditional Matching GAN Guided Reconstruction Attack in Machine Unlearning](https://doi.org/10.1109/GLOBECOM54140.2023.10437231) | Global Communications Conference | — | 8 |
 | Sangyong Lee, Simon S. Woo | [UNDO: Effective and Accurate Unlearning Method for Deep Neural Networks](https://doi.org/10.1145/3583780.3615235) | International Conference on Information and Knowledge Management | [GitHub](https://github.com/DASH-Lab/ML_privacy_research) | 8 |
@@ -2099,7 +2099,7 @@
 | Zhen Wang et al. | [FedCSA: Boosting the Convergence Speed of Federated Unlearning under Data Heterogeneity](https://doi.org/10.1109/ISPA-BDCloud-SocialCom-SustainCom59178.2023.00083) | IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom) | [GitHub](https://github.com/ZhenWang9/FedCSA) | 6 |
 | Yang Zhao et al. | [Exploring Federated Unlearning: Review, Comparison, and Insights](https://doi.org/10.1109/MNET.2025.3571462) | IEEE Network | [GitHub](https://github.com/tamlhp/awesome-machine-unlearning) | 6 |
 | André Artelt et al. | [Unsupervised Unlearning of Concept Drift with Autoencoders](https://doi.org/10.1109/ssci52147.2023.10372001) | IEEE Symposium Series on Computational Intelligence | [GitHub](https://github.com/HammerLabML/UnsupervisedUnlearningConceptDriftAutoencoders) | 6 |
-| Subhodip Panda, AP Prathosh | [FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models](https://doi.org/10.1109/TAI.2024.3499939) | IEEE Transactions on Artificial Intelligence | — | 6 |
+| Subhodip Panda, AP Prathosh | [FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models](https://doi.org/10.1109/TAI.2024.3499939) | IEEE Transactions on Artificial Intelligence | [GitHub](https://github.com/Subhodip123/weak-unlearning-gan) | 6 |
 | Lucas Goodman, Anita Mukherjee, Shanthi Ramnath | [Set it and forget it? Financing retirement in an age of defaults](https://doi.org/10.1016/j.jfineco.2023.02.002) | Journal of Financial Economics | — | 6 |
 | Gunardi Lie, Dylan Aldianza Ramadhan, Ahmad Redi | [KOMISI INDEPENDEN PERLINDUNGAN DATA PRIBADI: QUASI PERADILAN DAN UPAYA TERCIPTANYA RIGHT TO BE FORGOTTEN DI INDONESIA](https://doi.org/10.29123/jy.v15i2.530) | Jurnal Yudisial | — | 6 |
 | Jamie Hayes et al. | [Towards Unbounded Machine Unlearning](https://doi.org/10.52202/075280-0095) | NeurIPS | [GitHub](https://github.com/meghdadk/SCRUB) | 6 |
@@ -2151,7 +2151,7 @@
 | Mingjian Tang et al. | [RUE: Realising Unlearning from the Perspective of Economics](https://doi.org/10.1109/TrustCom60117.2023.00159) | International Conference on Trust, Security and Privacy in Computing and Communications | — | 0 |
 | Amr AbdelFatah Ahmed et al. | [Robust Concept Erasure via Kernelized Rate-Distortion Maximization](https://doi.org/10.52202/075280-1875) | NeurIPS | [GitHub](https://github.com/brcsomnath/KRaM) | 0 |
 | Anwar Said et al. | [G RAPH U NLEARNING : A R EVIEW](https://www.semanticscholar.org/paper/a1862a376102751cef5bce3d3a4e3bca01706d16) | NeurIPS | — | 0 |
-| Youyang Qu et al. | [Learn to Unlearn: A Survey on Machine Unlearning](https://doi.org/10.48550/arXiv.2305.07512) | arXiv.org | — | 0 |
+| Youyang Qu et al. | [Learn to Unlearn: A Survey on Machine Unlearning](https://doi.org/10.48550/arXiv.2305.07512) | arXiv.org | [GitHub](https://github.com/thuwuyinjun/DeltaGrad) | 0 |
 
 ## 2022
 
@@ -2159,11 +2159,11 @@
 |---|---|---|---|---:|
 | Joel Jang et al. | [Knowledge Unlearning for Mitigating Privacy Risks in Language Models](https://doi.org/10.48550/arXiv.2210.01504) | ACL | [GitHub](https://github.com/joeljang/knowledge-unlearning) | 427 |
 | Ximing Lu et al. | [Quark: Controllable Text Generation with Reinforced Unlearning](https://doi.org/10.48550/arXiv.2205.13636) | NeurIPS | [GitHub](https://github.com/gximinglu/quark) | 266 |
-| Vikram S Chundawat et al. | [Can Bad Teaching Induce Forgetting? Unlearning in Deep Networks using an Incompetent Teacher](https://doi.org/10.48550/arXiv.2205.08096) | AAAI | [GitHub](https://github.com/vikram2000b/bad-teaching-) | 247 |
+| Vikram S Chundawat et al. | [Can Bad Teaching Induce Forgetting? Unlearning in Deep Networks using an Incompetent Teacher](https://doi.org/10.48550/arXiv.2205.08096) | AAAI | — | 247 |
 | Yi Liu et al. | [The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining](https://doi.org/10.1109/INFOCOM48880.2022.9796721) | IEEE Conference on Computer Communications | [GitHub](https://github.com/tamlhp/awesome-machine-unlearning) | 234 |
 | Vikram S Chundawat et al. | [Zero-Shot Machine Unlearning](https://doi.org/10.1109/TIFS.2023.3265506) | IEEE Transactions on Information Forensics and Security | [GitHub](https://github.com/ayu987/zero-shot-unlearning) | 201 |
 | Anisa Halimi et al. | [Federated Unlearning: How to Efficiently Erase a Client in FL?](https://doi.org/10.48550/arXiv.2207.05521) | arXiv.org | [GitHub](https://github.com/IBM/federated-unlearning) | 200 |
-| Chen Wu, Sencun Zhu, P. Mitra | [Federated Unlearning with Knowledge Distillation](https://arxiv.org/abs/2201.09441) | arXiv.org | — | 160 |
+| Chen Wu, Sencun Zhu, P. Mitra | [Federated Unlearning with Knowledge Distillation](https://arxiv.org/abs/2201.09441) | arXiv.org | [GitHub](https://github.com/THUYimingLi/backdoor-learning-resources) | 160 |
 | Matthew Jagielski et al. | [Measuring Forgetting of Memorized Training Examples](https://doi.org/10.48550/arXiv.2207.00099) | ICLR | [GitHub](https://github.com/safr-ai-lab/survey-llm) | 141 |
 | B. Liu, Qian Liu, P. Stone | [Continual Learning and Private Unlearning](https://doi.org/10.48550/arXiv.2203.12817) | CoLLAs | [GitHub](https://github.com/cranial-xix/continual-learning-private-unlearning) | 128 |
 | Junxiao Wang et al. | [Federated Unlearning via Class-Discriminative Pruning](https://doi.org/10.1145/3485447.3512222) | WWW | [GitHub](https://github.com/tamlhp/awesome-machine-unlearning) | 126 |
@@ -2172,7 +2172,7 @@
 | Chong Chen et al. | [Recommendation Unlearning](https://doi.org/10.1145/3485447.3511997) | WWW | [GitHub](https://github.com/chenchongthu/Recommendation-Unlearning) | 93 |
 | Shashwat Goel et al. | [Towards Adversarial Evaluations for Inexact Machine Unlearning](https://arxiv.org/abs/2201.06640) | arXiv | [GitHub](https://github.com/shash42/Evaluating-Inexact-Unlearning) | 93 |
 | Xiangshan Gao et al. | [VeriFi: Towards Verifiable Federated Unlearning](https://doi.org/10.1109/TDSC.2024.3382321) | IEEE Transactions on Dependable and Secure Computing | — | 79 |
-| Haonan Yan et al. | [ARCANE: An Efficient Architecture for Exact Machine Unlearning](https://doi.org/10.24963/ijcai.2022/556) | IJCAI | — | 79 |
+| Haonan Yan et al. | [ARCANE: An Efficient Architecture for Exact Machine Unlearning](https://doi.org/10.24963/ijcai.2022/556) | IJCAI | [GitHub](https://github.com/JordiCondom/MachineUnlearning) | 79 |
 | Yang Liu et al. | [Backdoor Defense with Machine Unlearning](https://doi.org/10.1109/infocom48880.2022.9796974) | IEEE INFOCOM - IEEE Conference on Computer Communications | [GitHub](https://github.com/THUYimingLi/backdoor-learning-resources) | 77 |
 | Rishav Chourasia, Neil Shah, R. Shokri | [Forget Unlearning: Towards True Data-Deletion in Machine Learning](https://doi.org/10.48550/arXiv.2210.08911) | ICML | [GitHub](https://github.com/JordiCondom/MachineUnlearning) | 73 |
 | Yuyuan Li et al. | [Making Recommender Systems Forget: Learning and Unlearning for Erasable Recommendation](https://doi.org/10.48550/arXiv.2203.11491) | Knowledge-Based Systems | — | 72 |
@@ -2188,8 +2188,8 @@
 | Zhuo Ma et al. | [Learn to Forget: Machine Unlearning via Neuron Masking](https://doi.org/10.1109/tdsc.2022.3194884) | IEEE Transactions on Dependable and Secure Computing | — | 50 |
 | Vinith M. Suriyakumar, Ashia C. Wilson | [Algorithms that Approximate Data Removal: New Results and Limitations](https://doi.org/10.48550/arXiv.2209.12269) | NeurIPS | [GitHub](https://github.com/VMS-6511/online-data-deletion) | 50 |
 | David Sommer et al. | [Athena: Probabilistic Verification of Machine Unlearning](https://doi.org/10.56553/popets-2022-0072) | Proceedings on Privacy Enhancing Technologies | [GitHub](https://github.com/inspire-group/unlearning-verification) | 49 |
-| Vinayshekhar Bannihatti Kumar, Rashmi Gangadharaiah, Dan Roth | [Privacy Adhering Machine Un-learning in NLP](https://doi.org/10.48550/arXiv.2212.09573) | International Joint Conference on Natural Language Processing | — | 46 |
-| Christian Ganhör et al. | [Unlearning Protected User Attributes in Recommendations with Adversarial Training](https://doi.org/10.1145/3477495.3531820) | International ACM SIGIR Conference on Research and Development in Information Retrieval | — | 44 |
+| Vinayshekhar Bannihatti Kumar, Rashmi Gangadharaiah, Dan Roth | [Privacy Adhering Machine Un-learning in NLP](https://doi.org/10.48550/arXiv.2212.09573) | International Joint Conference on Natural Language Processing | [GitHub](https://github.com/awslabs/privacy-adhering-machine-unlearning-nlp) | 46 |
+| Christian Ganhör et al. | [Unlearning Protected User Attributes in Recommendations with Adversarial Training](https://doi.org/10.1145/3477495.3531820) | International ACM SIGIR Conference on Research and Development in Information Retrieval | [GitHub](https://github.com/CPJKU/adv-multvae) | 44 |
 | Chao Pan et al. | [Machine Unlearning of Federated Clusters](https://doi.org/10.48550/arXiv.2210.16424) | ICLR | [GitHub](https://github.com/thupchnsky/mufc) | 43 |
 | Thorsten Eisenhofer et al. | [Verifiable and Provably Secure Machine Unlearning](https://doi.org/10.1109/SaTML64287.2025.00033) | IEEE Conference on Secure and Trustworthy Machine Learning (SaTML) | [GitHub](https://github.com/cleverhans-lab/verifiable-unlearning) | 42 |
 | Ga Wu, Masoud Hashemi, Christopher Srinivasa | [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://doi.org/10.1609/aaai.v36i8.20846) | AAAI | — | 41 |
@@ -2222,10 +2222,10 @@
 | Teguh Cahya Yudiana, Sinta Dewi Rosadi, Enni Soerjati Priowirjanto | [The Urgency of Doxing on Social Media Regulation and the Implementation of Right to Be Forgotten on Related Content for the Optimization of Data Privacy Protection in Indonesia](https://doi.org/10.22304/pjih.v9n1.a2) | Padjadjaran | — | 12 |
 | Dillon H. Murphy, Alan D. Castel | [Selective remembering and directed forgetting are influenced by similar stimulus properties](https://doi.org/10.1080/09658211.2022.2092152) | Memory | — | 11 |
 | Sihao Yu et al. | [LegoNet: A Fast and Exact Unlearning Architecture](https://doi.org/10.48550/arXiv.2210.16023) | arXiv.org | — | 11 |
-| Wenyan Liu et al. | [Forgetting Fast in Recommender Systems](https://doi.org/10.48550/arXiv.2208.06875) | arXiv.org | — | 11 |
+| Wenyan Liu et al. | [Forgetting Fast in Recommender Systems](https://doi.org/10.48550/arXiv.2208.06875) | arXiv.org | [GitHub](https://github.com/chenchongthu/ENMF) | 11 |
 | Ananth Mahadevan, Michael Mathioudakis | [Certifiable Unlearning Pipelines for Logistic Regression: An Experimental Study](https://doi.org/10.3390/make4030028) | Machine Learning and Knowledge Extraction | — | 10 |
 | Kejsi Take et al. | [“It Feels Like Whack-a-mole”: User Experiences of Data Removal from People Search Websites](https://doi.org/10.56553/popets-2022-0067) | Proceedings on Privacy Enhancing Technologies | — | 9 |
-| Zhifeng Kong, Scott Alfeld | [Approximate Data Deletion in Generative Models](https://doi.org/10.48550/arXiv.2206.14439) | European Conference on Artificial Intelligence | — | 8 |
+| Zhifeng Kong, Scott Alfeld | [Approximate Data Deletion in Generative Models](https://doi.org/10.48550/arXiv.2206.14439) | European Conference on Artificial Intelligence | [GitHub](https://github.com/aaron-xichen/pytorch-playground) | 8 |
 | Weijun Qian et al. | [Patient Similarity Learning with Selective Forgetting](https://doi.org/10.1109/bibm55620.2022.9995016) | IEEE International Conference on Bioinformatics and Biomedicine (BIBM) | — | 8 |
 | Zihao Cao et al. | [Machine Unlearning Method Based On Projection Residual](https://doi.org/10.1109/dsaa54385.2022.10032413) | IEEE International Conference on Data Science and Advanced Analytics (DSAA) | [GitHub](https://github.com/tamlhp/awesome-machine-unlearning) | 8 |
 | Qi Zhong et al. | [Attention Distraction: Watermark Removal Through Continual Learning with Selective Forgetting](https://doi.org/10.1109/icme52920.2022.9858930) | IEEE International Conference on Multimedia and Expo (ICME) | [GitHub](https://github.com/20110240069/Watermark-Learning-Resources) | 8 |
@@ -2248,7 +2248,7 @@
 | Junfeng Tian, Ruxin Bai, Tianfeng Zhang | [Multi-authoritative Users Assured Data Deletion Scheme in Cloud Computing](https://doi.org/10.1109/dsn-w54100.2022.00033) | Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W) | — | 3 |
 | E. S. Chub | [The right to be forgotten: A new human right?](https://doi.org/10.38044/2686-9136-2022-3-4-89-106) | Digital Law Journal | — | 3 |
 | Pravendra Singh, Pratik Mazumder, Mohammed Asad Karim | [Attaining Class-level Forgetting in Pretrained Model using Few Samples](https://doi.org/10.48550/arXiv.2210.10670) | ECCV | — | 3 |
-| Alexander Becker, T. Liebig | [Certified Data Removal in Sum-Product Networks](https://doi.org/10.1109/ICKG55886.2022.00010) | IEEE International Conference on Knowledge Graph (ICKG) | — | 3 |
+| Alexander Becker, T. Liebig | [Certified Data Removal in Sum-Product Networks](https://doi.org/10.1109/ICKG55886.2022.00010) | IEEE International Conference on Knowledge Graph (ICKG) | [GitHub](https://github.com/ROYALBEFF/UnlearnSPN) | 3 |
 | Zheng-Yu Yue et al. | [ATDD: Fine-Grained Assured Time-Sensitive Data Deletion Scheme in Cloud Storage](https://doi.org/10.1109/icc45855.2022.9838336) | ICC - IEEE International Conference on Communications | — | 2 |
 | Vinith Suriyakumar, Ashia Wilson | [Algorithms that Approximate Data Removal: New Results and Limitations](https://doi.org/10.52202/068431-1372) | NeurIPS | [GitHub](https://github.com/VMS-6511/online-data-deletion) | 2 |
 | Zhiwen Zhou et al. | [Dynamically Selected Mixup Machine Unlearning](https://doi.org/10.1109/trustcom56396.2022.00077) | TrustCom | — | 2 |
@@ -2268,7 +2268,7 @@
 | A. Tarun et al. | [Fast Yet Effective Machine Unlearning](https://doi.org/10.1109/TNNLS.2023.3266233) | IEEE Transactions on Neural Networks and Learning Systems | [GitHub](https://github.com/vikram2000b/Fast-Machine-Unlearning) | 299 |
 | Alexander Warnecke et al. | [Machine Unlearning of Features and Labels](https://doi.org/10.14722/ndss.2023.23087) | NDSS | [GitHub](https://github.com/alewarne/MachineUnlearning) | 299 |
 | Gaoyang Liu et al. | [FedEraser: Enabling Efficient Client-Level Data Removal from Federated Learning Models](https://doi.org/10.1109/IWQOS52092.2021.9521274) | International Workshop on Quality of Service | — | 254 |
-| Varun Gupta et al. | [Adaptive Machine Unlearning](https://arxiv.org/abs/2106.04378) | NeurIPS | — | 235 |
+| Varun Gupta et al. | [Adaptive Machine Unlearning](https://arxiv.org/abs/2106.04378) | NeurIPS | [GitHub](https://github.com/Simoni2412/Machine-Unlearning) | 235 |
 | Anvith Thudi et al. | [On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning](https://arxiv.org/abs/2110.11891) | USENIX Security | [GitHub](https://github.com/cleverhans-lab/Forging) | 221 |
 | Gaoyang Liu et al. | [FedEraser: Enabling Efficient Client-Level Data Removal from Federated Learning Models](https://doi.org/10.1109/iwqos52092.2021.9521274) | IWQoS | — | 183 |
 | Enayat Ullah et al. | [Machine Unlearning via Algorithmic Stability](https://arxiv.org/abs/2102.13179) | Annual Conference Computational Learning Theory | — | 152 |
@@ -2343,7 +2343,7 @@
 | Hana Habib et al. | ["It's a scavenger hunt": Usability of Websites' Opt-Out and Data Deletion Choices](https://doi.org/10.1145/3313831.3376511) | International Conference on Human Factors in Computing Systems | — | 107 |
 | Christine Coombe, Hossein Vafadar, Hassan Mohebbi | [Language assessment literacy: what do we need to learn, unlearn, and relearn?](https://doi.org/10.1186/s40468-020-00101-6) | Language Testing in Asia | — | 106 |
 | Sanjam Garg, S. Goldwasser, Prashant Nalini Vasudevan | [Formalizing Data Deletion in the Context of the Right to Be Forgotten](https://doi.org/10.1007/978-3-030-45724-2_13) | IACR Cryptology ePrint Archive | — | 96 |
-| Yang Liu et al. | [Learn to Forget: Machine Unlearning via Neuron Masking](https://doi.org/10.1109/TDSC.2022.3194884) | IEEE Transactions on Dependable and Secure Computing | — | 88 |
+| Yang Liu et al. | [Learn to Forget: Machine Unlearning via Neuron Masking](https://doi.org/10.1109/TDSC.2022.3194884) | IEEE Transactions on Dependable and Secure Computing | [GitHub](https://github.com/hendrycks/error-detection/tree) | 88 |
 | D. Sommer et al. | [Towards Probabilistic Verification of Machine Unlearning](https://arxiv.org/abs/2003.04247) | arXiv.org | [GitHub](https://github.com/TouchSky-Lab/Awesome-Memorization-Elimination) | 83 |
 | Gaoyang Liu et al. | [Federated Unlearning](https://arxiv.org/abs/2012.13891) | arXiv.org | — | 79 |
 | Irina Surdu, Rajneesh Narula | [Organizational learning, unlearning and re-internationalization timing: Differences between emerging- versus developed-market MNEs](https://doi.org/10.1016/j.intman.2020.100784) | Journal of International Management | — | 77 |
@@ -2387,7 +2387,7 @@
 | Oliver Kliegl, Bernhard Pastötter, Karl‐Heinz T. Bäuml | [Does Amount of Pre-cue Encoding Modulate Selective List Method Directed Forgetting?](https://doi.org/10.3389/fpsyg.2020.01403) | Frontiers in Psychology | — | 5 |
 | P.T.J. Wolters | [The territorial effect of the right to be forgotten after <i>Google v CNIL</i>](https://doi.org/10.1093/ijlit/eaaa022) | International Journal of Law and Information Technology | — | 5 |
 | Victoria Vovk, Ulyana Olijnyk | [The right to be forgotten as a "new right" of man in to the digitalized society](https://doi.org/10.33098/2078-6670.10.22.16-22) | Scientific and informational bulletin of Ivano-Frankivsk University of Law named after King Danylo Halytskyi | — | 5 |
-| Dmitry Belyavsky et al. | [Set It and Forget It! Turnkey ECC for Instant Integration](https://doi.org/10.1145/3427228.3427291) | Annual Computer Security Applications Conference | — | 4 |
+| Dmitry Belyavsky et al. | [Set It and Forget It! Turnkey ECC for Instant Integration](https://doi.org/10.1145/3427228.3427291) | Annual Computer Security Applications Conference | [GitHub](https://github.com/gost-engine/engine) | 4 |
 | Kristi Bushman, Alexandros Labrinidis | [Set it and forget it: utility-based scheduling for public displays](https://doi.org/10.1007/s00779-020-01423-1) | Personal and Ubiquitous Computing | — | 4 |
 | Changsong Yang, Xiaoling Tao, Qiyu Chen | [New Publicly Verifiable Data Deletion Supporting Efficient Tracking for Cloud Storage.](https://openalex.org/W3082307348) | Int. J. Netw. Secur | — | 3 |
 | Sachiko Yanagihara, Hiroshi Koga | [Differences in Human and AI Memory for Memorization, Recall, And Selective Forgetting](https://openalex.org/W3039375895) | Dialnet (Universidad de la Rioja) | — | 2 |
@@ -2400,7 +2400,7 @@
 
 | Authors | Title | Venue | Code | Citations |
 |---|---|---|---|---:|
-| Lucas Bourtoule et al. | [Machine Unlearning](https://doi.org/10.1109/SP40001.2021.00019) | IEEE S&P | — | 1378 |
+| Lucas Bourtoule et al. | [Machine Unlearning](https://doi.org/10.1109/SP40001.2021.00019) | IEEE S&P | [GitHub](https://github.com/cleverhans-lab/machine-unlearning) | 1378 |
 | Aditya Golatkar, A. Achille, Stefano Soatto | [Eternal Sunshine of the Spotless Net: Selective Forgetting in Deep Networks](https://doi.org/10.1109/cvpr42600.2020.00932) | Computer Vision and Pattern Recognition | [GitHub](https://github.com/AdityaGolatkar/SelectiveForgetting) | 770 |
 | Antonio A. Ginart et al. | [Making AI Forget You: Data Deletion in Machine Learning](https://arxiv.org/abs/1907.05012) | NeurIPS | [GitHub](https://github.com/tginart/deletion-efficient-kmeans) | 671 |
 | Chuan Guo et al. | [Certified Data Removal from Machine Learning Models](https://arxiv.org/abs/1911.03030) | ICML | [GitHub](https://github.com/facebookresearch/certified-removal) | 631 |
@@ -2426,7 +2426,7 @@
 | Adrian Klammer, Stefan Gueldenberg | [Honor the old, welcome the new: an account of unlearning and forgetting in NPD teams](https://doi.org/10.1108/ejim-12-2018-0255) | European Journal of Innovation Management | — | 23 |
 | Karen Becker | [Organizational unlearning: the challenges of a developing phenomenon](https://doi.org/10.1108/tlo-05-2019-0082) | The Learning Organization | — | 20 |
 | S. Shintre, Kevin A. Roundy, Jasjeet Dhaliwal | [Making Machine Learning Forget](https://doi.org/10.1007/978-3-030-21752-5_6) | Annual Privacy Forum | [GitHub](https://github.com/JordiCondom/MachineUnlearning) | 19 |
-| Peiqiu Chen et al. | [Overcoming Catastrophic Forgetting by Bayesian Generative Regularization](https://arxiv.org/abs/1912.01238) | ICML | — | 19 |
+| Peiqiu Chen et al. | [Overcoming Catastrophic Forgetting by Bayesian Generative Regularization](https://arxiv.org/abs/1912.01238) | ICML | [GitHub](https://github.com/drimpossible/GDumb) | 19 |
 | Gurkeerat Singh, Christina Chien, Sharad Patel | [Pressure Regulated Volume Control (PRVC): Set it and forget it?](https://doi.org/10.1016/j.rmcr.2019.03.001) | Respiratory Medicine Case Reports | — | 15 |
 | Yann Padova | [Is the right to be forgotten a universal, regional, or ‘glocal’ right?](https://doi.org/10.1093/idpl/ipy025) | International Data Privacy Law | — | 13 |
 | Ricardo Gonçalves et al. | [Forgetting in Modular Answer Set Programming](https://doi.org/10.1609/aaai.v33i01.33012843) | AAAI | — | 12 |
